@@ -1,0 +1,2092 @@
+[
+    {
+        "trend_query": "iran OR israel OR israel iran OR iran israel OR israel news",
+        "llm_analysis": {
+            "context": "Israel reportedly struck Iran\u2019s state broadcaster during a live transmission, highlighting escalating tensions between the two countries.",
+            "summary": [
+                "The Israeli airstrike targeted Iran's state news channel IRINN during a live broadcast.",
+                "A loud explosion occurred while an anchor was presenting news on air.",
+                "The incident marks a significant escalation in the ongoing conflicts between Israel and Iran.",
+                "Iran's state news agency confirmed the attack, increasing tensions in the region.",
+                "This strike is part of a larger pattern of military actions between Israel and Iran, focusing on media and strategic targets."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "fifa club world cup OR club world cup OR auckland city fc OR bayern vs auckland city OR bayern munich",
+        "llm_analysis": {
+            "context": "Bayern Munich defeated Auckland City 10-0 in a historic match during the Club World Cup.",
+            "summary": [
+                "Bayern Munich's win marks the largest margin in Club World Cup history.",
+                "The match showcased Bayern's dominance, with a first-half score of 6-0.",
+                "Key players Kingsley Coman and Michael Olise each scored two goals for Bayern.",
+                "Jamal Musiala achieved the first hat-trick of the tournament in the second half.",
+                "Thomas Muller reached his 250th goal milestone for Bayern during this match."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "us open golf OR us open OR us open leaderboard OR jj spaun OR j. j. spaun",
+        "llm_analysis": {
+            "context": "J.J. Spaun wins the 125th U.S. Open at Oakmont with a dramatic final hole birdie.",
+            "summary": [
+                "Spaun claimed victory with a remarkable 64-foot birdie putt on the 72nd hole.",
+                "He started the final round one stroke behind but overcame early struggles with a strong finish.",
+                "Despite a tough start with five bogeys, he rallied to score 3-under on the final nine holes.",
+                "His final score of 1-under 279 left him two strokes ahead of Scotland's Robert MacIntyre.",
+                "This victory marks Spaun's first major championship title."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "fathers day",
+        "llm_analysis": {
+            "context": "Father's Day is a global celebration honoring fathers and fatherhood, observed in over 112 countries on various dates throughout the year.",
+            "summary": [
+                "Father's Day recognizes and celebrates the role of fathers in families and society.",
+                "The day complements similar celebrations like Mother's Day and Family Days.",
+                "The date of observance varies by country; some celebrate it on March 19, others on the third Sunday in June.",
+                "It was first proposed in the U.S. in 1908 and officially established in 1972 by President Richard Nixon.",
+                "Cultural traditions for Father's Day differ globally, with some countries having distinct celebrations such as Parents' Day."
+            ],
+            "category": "Cultural Events"
+        }
+    },
+    {
+        "trend_query": "air india crash OR air india OR india plane crash OR plane crash OR air india plane crash",
+        "llm_analysis": {
+            "context": "The recent Air India plane crash near Ahmedabad has resulted in a tragic death toll of at least 270 people.",
+            "summary": [
+                "The Boeing 787 aircraft crashed shortly after takeoff en route to London.",
+                "241 passengers and crew were killed on board, while 29 people on the ground also lost their lives.",
+                "Only one survivor has been reported, currently under medical observation.",
+                "Search efforts continue as recovery teams locate more bodies in the wreckage.",
+                "A high-level investigation has been launched to determine the cause and prevent future incidents."
+            ],
+            "category": "Aviation"
+        }
+    },
+    {
+        "trend_query": "chiefs vs brumbies OR brumbies vs chiefs OR chiefs vs brumbies 2025 OR brumbies OR chiefs brumbies",
+        "llm_analysis": {
+            "context": "The Chiefs defeated the Brumbies 37-17 in the Super Rugby Pacific semifinals, marking the Brumbies' fourth consecutive semifinal loss.",
+            "summary": [
+                "The Chiefs secured a 37-17 victory against the Brumbies in Hamilton during the Super Rugby Pacific semifinals.",
+                "The Brumbies have now lost four straight semifinals, continuing their struggle to reach the final.",
+                "Key player Emoni Narawa scored two tries for the Chiefs and played a crucial role in their win.",
+                "The Brumbies were competitive but struggled with penalties, committing 11 fouls compared to the Chiefs' seven.",
+                "The Chiefs will advance to the finals to face the Crusaders in Christchurch next week."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "australia vs south africa OR wtc final OR cricket OR cricinfo OR world test championship final",
+        "llm_analysis": {
+            "context": "South Africa triumphed over Australia by 5 wickets in the World Test Championship Final, securing their title at Lord's.",
+            "summary": [
+                "The World Test Championship Final took place from June 11 to June 14, 2025, at Lord's, London.",
+                "South Africa chased down a target of 282, scoring 282/5 to clinch victory.",
+                "Australia scored 212 and 207 in their two innings during the match.",
+                "Key player Aiden Markram was named Player of the Match for his significant contribution of 136 runs and taking 1 wicket in favor of South Africa.",
+                "This victory marks a noteworthy achievement for South Africa in the realm of Test cricket."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "crusaders v blues OR blues vs crusaders OR crusaders vs blues OR blues OR crusaders",
+        "llm_analysis": {
+            "context": "The Crusaders secured a hard-fought 21-14 victory over the Blues to advance to the Super Rugby Grand Final.",
+            "summary": [
+                "The Crusaders overcame an early 14-point deficit to win the match.",
+                "Will Jordan scored two crucial tries for the Crusaders, leading their comeback.",
+                "The Blues initially dominated, scoring two tries within the first ten minutes.",
+                "Despite a strong effort from the Blues, injuries hindered their performance late in the game.",
+                "The final match will take place at Apollo Projects Stadium, before the Crusaders transition to a new venue."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "matariki",
+        "llm_analysis": {
+            "context": "Matariki marks the beginning of the M\u0101ori New Year in New Zealand, celebrated by the reappearance of the Matariki star cluster.",
+            "summary": [
+                "Matariki is an important cultural celebration in New Zealand that signals the start of the M\u0101ori New Year.",
+                "The Matariki star cluster reappears in the night sky during mid-winter, typically from late May to early July.",
+                "Celebrations include remembering ancestors, celebrating the present, and planning for the future with family and friends.",
+                "Matariki festivities originally included rituals, feasting, music, and sharing stories, fostering community bonding.",
+                "The next Matariki public holiday will be on 20 June 2025."
+            ],
+            "category": "Culture"
+        }
+    },
+    {
+        "trend_query": "maurice gee",
+        "llm_analysis": {
+            "context": "Maurice Gee, a prominent New Zealand novelist, passed away on June 12, 2025, leaving a significant legacy in literature.",
+            "summary": [
+                "Born on August 22, 1931, in Whakat\u0101ne, New Zealand, Maurice Gee became one of the country's most celebrated novelists.",
+                "He wrote over thirty novels for both adults and children, receiving numerous literary awards including the Prime Minister's Award for Literary Achievement.",
+                "Gee's notable works include 'In My Father's Den', 'Plumb', and 'Under the Mountain', which have been adapted into films and television.",
+                "His novel 'Plumb' is regarded as one of the best novels in New Zealand literature, with literary experts voting it the best novel of the last fifty years.",
+                "In addition to his literary career, Gee contributed to children's literature and television writing, enhancing his influence in New Zealand's cultural landscape."
+            ],
+            "category": "Literature"
+        }
+    },
+    {
+        "trend_query": "us open prize money OR us open golf prize money",
+        "llm_analysis": {
+            "context": "The 2025 U.S. Open golf tournament awarded a total prize purse of $21.5 million at Oakmont Country Club, with individual payouts based on player rankings.",
+            "summary": [
+                "J.J. Spaun won the tournament, earning $4.3 million as the champion.",
+                "The total prize purse for the 2025 U.S. Open was $21.5 million, reflecting the event's high stakes.",
+                "Second place was taken by Robert MacIntyre, who earned $2.32 million.",
+                "Players finishing in a tie for fourth, including Cameron Young and Tyrrell Hatton, received $876,869 each.",
+                "The payouts varied significantly down the leaderboard, with the last place players earning $41,692."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "no kings protest OR no kings",
+        "llm_analysis": {
+            "context": "The 'No Kings' protest movement is gaining momentum as individuals and groups express discontent with monarchical systems and other authority figures.",
+            "summary": [
+                "The 'No Kings' protest highlights a growing demand for democratic reforms and the abolition of monarchies.",
+                "Participants argue that royal families and monarchies symbolize outdated and unjust power structures.",
+                "Protests are occurring in various countries, with activists calling for equal representation and justice.",
+                "Many demonstrators advocate for a shift towards more equitable governance without hereditary authority.",
+                "The movement reflects broader global trends toward questioning traditional hierarchies and seeking social justice."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "psg vs atl\u00e9tico madrid",
+        "llm_analysis": {
+            "context": "Paris Saint-Germain dominated Atletico Madrid with a 4-0 victory in their opening match of the 2025 Club World Cup.",
+            "summary": [
+                "PSG started their Club World Cup campaign with a resounding 4-0 win over Atletico Madrid.",
+                "Goals from Fabian Ruiz, Vitinha, Mayulu, and Lee sealed the victory for PSG.",
+                "Atletico Madrid's Clement Lenglet received a red card, leaving his team with 10 men.",
+                "PSG's performance reaffirmed their status as European champions and tournament favorites.",
+                "Atletico struggled, facing their first major loss under coach Diego Simeone since 2011."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "father's day 2025",
+        "llm_analysis": {
+            "context": "Father's Day 2025 is a global celebration recognizing fathers and fatherhood, occurring on various dates worldwide.",
+            "summary": [
+                "Father's Day honors fathers and paternal bonds across more than 112 countries.",
+                "The day is celebrated annually, but the specific date varies by country, with notable observances on the third Sunday in June in the US.",
+                "Father's Day complements other family-related celebrations like Mother's Day and Grandparents' Day.",
+                "Historically, Father's Day has roots in Catholic traditions, particularly observed on March 19 in honor of St. Joseph.",
+                "In the US, it was first established by Sonora Smart Dodd in 1910, inspired by the celebration of Mother's Day."
+            ],
+            "category": "Cultural"
+        }
+    },
+    {
+        "trend_query": "aus vs sa OR sa vs aus",
+        "llm_analysis": {
+            "context": "South Africa won their first ICC World Test Championship final against Australia by 5 wickets at Lord's.",
+            "summary": [
+                "In a historic win, South Africa secured the ICC World Test Championship title over Australia.",
+                "South Africa chased down a target of 282, finishing with a score of 282 for 5.",
+                "Aiden Markram was pivotal, scoring 136 runs and earning Player of the Match honors.",
+                "The victory marked a major milestone for South African cricket, ending a drought of major international titles.",
+                "Australia's performance, despite an early lead, highlighted their struggle in crucial moments of the match."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "ryan fox OR ryan fox us open OR ryan fox live OR us golf open",
+        "llm_analysis": {
+            "context": "Ryan Fox is currently tied for 19th place in the U.S. Open after completing the fourth round.",
+            "summary": [
+                "Ryan Fox, a New Zealand golfer, has achieved a T19 position at the U.S. Open with a score of +7 for the tournament.",
+                "He recently jumped from 75th to 32nd in the Official World Golf Ranking after winning at the RBC Canadian Open.",
+                "This marks Fox's seventh appearance in the U.S. Open, with a previous best finish of T-41 in 2018.",
+                "He has gained popularity and recognition in the golfing community with 19 worldwide victories, including notable wins on the DP World Tour.",
+                "Despite facing challenges in past U.S. Open events, Fox continues to be a competitive player in high-stakes tournaments."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "rabbitohs vs bulldogs OR bulldogs vs rabbitohs",
+        "llm_analysis": {
+            "context": "The Bulldogs decisively defeated the Rabbitohs 32-0 in Round 7 of the NRL Telstra Premiership.",
+            "summary": [
+                "The match took place on Thursday, April 17, 2025, at Accor Stadium, Sydney.",
+                "Bulldogs scored a total of 5 tries, all converted successfully by Stephen Crichton.",
+                "Rabbitohs failed to score any tries or conversions throughout the match.",
+                "A crowd of 65,305 attended the game with good ground conditions and fine weather.",
+                "Both teams experienced one sin bin each during the game."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "brian wilson OR beach boys",
+        "llm_analysis": {
+            "context": "Brian Wilson, co-founder of the Beach Boys, passed away on June 11, 2025, leaving behind a legacy as one of the most influential musicians and songwriters in American music history.",
+            "summary": [
+                "Brian Wilson was born on June 20, 1942, and co-founded the iconic band the Beach Boys.",
+                "He is often celebrated for his innovative songwriting, production techniques, and contributions to the California sound and pop music landscape.",
+                "Wilson's best-known works include classics like 'Good Vibrations' and 'Pet Sounds', which showcased complex harmonies and high production values.",
+                "He faced lifelong struggles with mental health, impacting his career at various periods but also leading to significant creative achievements later in life.",
+                "Wilson received numerous accolades including Grammy Awards and induction into the Rock and Roll Hall of Fame, influencing a wide range of music genres throughout his career."
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "ufc OR kamaru usman OR ufc fight night OR joaquin buckley OR usman vs buckley",
+        "llm_analysis": {
+            "context": "UFC Fight Night: Usman vs Buckley is scheduled for June 14, 2025, at the State Farm Arena in Atlanta.",
+            "summary": [
+                "The event features a highly anticipated welterweight bout between Kamaru Usman and Joaquin Buckley.",
+                "Usman, a former champion, is looking to reclaim his top position in the UFC.",
+                "Buckley has been making waves in the middleweight division and aims for a significant upset.",
+                "This fight is part of a larger UFC Fight Night event, showcasing multiple matchups across divisions.",
+                "Fans can catch all the action live on ESPN and ESPN+."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "melissa hortman OR vance boelter OR daily mail uk",
+        "llm_analysis": {
+            "context": "Vance Boelter has been arrested for plotting to assassinate multiple Democratic lawmakers in Minnesota, including Representative Melissa Hortman.",
+            "summary": [
+                "Vance Boelter, 57, is accused of planning to murder four Democratic lawmakers.",
+                "He was arrested after allegedly arriving at their homes dressed as a police officer.",
+                "Boelter reportedly intended to kill Representative Melissa Hortman and several others.",
+                "He used a black SUV with police lights and a fake police license plate to gain access.",
+                "Prosecutors are treating this case as a serious threat against public officials."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "fathers day uk OR father's day",
+        "llm_analysis": {
+            "context": "Father's Day in the UK will be celebrated on June 15, 2025, honoring fathers and paternal figures with gifts and appreciation.",
+            "summary": [
+                "Father's Day in the UK is celebrated on the third Sunday of June each year, with 2025 falling on June 15.",
+                "The holiday has origins dating back to the Middle Ages and was popularized in the 20th century by Sonora Smart Dodd in the USA.",
+                "Gift-giving on Father's Day is a way to express love and appreciation for fathers, step-dads, grandfathers, and father figures.",
+                "Common celebrations include heartfelt cards, special meals, and meaningful gifts such as chocolates or outings.",
+                "Thorntons Chocolates promotes their products as ideal gifts to enhance the Father's Day experience."
+            ],
+            "category": "Holidays"
+        }
+    },
+    {
+        "trend_query": "lorraine barry",
+        "llm_analysis": {
+            "context": "Loraine Barry is an accomplished Irish dancer and television personality known for her judging role on 'Dancing with the Stars' in Ireland.",
+            "summary": [
+                "Born on December 10, 1964, in Dublin, Ireland.",
+                "Loraine Barry began her dance career competitively, winning multiple amateur titles before turning professional in 1989.",
+                "She became World Ballroom Dance Champion in 1999 and 2001 and won the British Open Championship three times.",
+                "Barry has also received several prestigious awards in dance, including the Prince Mikasa Award and the Carl Alan Award.",
+                "Since 2017, she has served as the Head judge on the Irish version of 'Dancing with the Stars'."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "chinese tourist visa changes",
+        "llm_analysis": {
+            "context": "New Zealand is easing entry requirements for Chinese tourists to boost travel and tourism.",
+            "summary": [
+                "Chinese tourists can now travel to New Zealand for up to 3 months with just an NZeTA if they already have a valid Australian visa.",
+                "This change will be trialed for 12 months starting from November 2025.",
+                "New Zealand emphasizes the importance of Chinese tourism to its economy and ties.",
+                "Dedicated support lines and resources in Simplified Chinese will be available to assist applicants.",
+                "Visa processing times for Chinese nationals have improved, averaging 5 days as of June 2025."
+            ],
+            "category": "Travel"
+        }
+    },
+    {
+        "trend_query": "canadian grand prix OR f1 canada OR canadian gp OR f1 qualifying results",
+        "llm_analysis": {
+            "context": "George Russell secures pole position for the 2025 Canadian Grand Prix in a thrilling qualifying session.",
+            "summary": [
+                "George Russell of Mercedes beats Max Verstappen of Red Bull Racing to claim pole position.",
+                "Oscar Piastri finished third, representing McLaren, ahead of Kimi Antonelli and Lewis Hamilton.",
+                "The session featured multiple strategy choices with drivers opting for both medium and soft tyres.",
+                "Yuki Tsunoda was disqualified from Q2 due to a red flag infringement, resulting in a 10-place grid penalty.",
+                "The 2025 Canadian Grand Prix is set to take place on Sunday, June 16."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "dazn",
+        "llm_analysis": {
+            "context": "DAZN is a British sports streaming service that has rapidly grown to become a leading provider of live and on-demand sports content worldwide.",
+            "summary": [
+                "Founded in 2007 as Perform Group and launched as DAZN in 2015, it operates over-the-top sports streaming services.",
+                "Available in over 200 countries, DAZN offers a wide range of sports, making it Europe\u2019s largest digital sports broadcaster.",
+                "The platform has 20 million paid subscribers globally as of 2023, showcasing its significant growth.",
+                "DAZN has expanded into various sports markets by acquiring rights for major sports events including boxing, NFL, and European football leagues.",
+                "Beyond streaming, DAZN has ventured into betting, gaming, e-commerce, and merchandise."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "f1 canada",
+        "llm_analysis": {
+            "context": "George Russell clinched victory at the 2025 Canadian Grand Prix, edging out Max Verstappen and Kimi Antonelli.",
+            "summary": [
+                "The 2025 Canadian Grand Prix took place from June 13 to 15 at Circuit Gilles-Villeneuve in Montreal.",
+                "George Russell won the race, finishing just 0.228 seconds ahead of runner-up Max Verstappen.",
+                "Kimi Antonelli secured third place, with a time of 1.014 seconds behind Russell.",
+                "The race weekend included multiple practice sessions and a thrilling qualifying round where Russell took pole position.",
+                "Collisions involving McLaren drivers Oscar Piastri and Lando Norris added drama to the event."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "chiefs",
+        "llm_analysis": {
+            "context": "The Kansas City Chiefs are concluding their voluntary offseason training activities with strong preparation for the upcoming mandatory minicamp.",
+            "summary": [
+                "The Chiefs completed their voluntary OTA practices this week.",
+                "Players were noted to be performing diligently in the weight room.",
+                "Head Coach Andy Reid acknowledged the team's hard work and improvement during OTAs.",
+                "Several players, including Gardner Minshew, expressed eagerness to contribute.",
+                "The team is gearing up for the mandatory minicamp which is set to begin soon."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "psg",
+        "llm_analysis": {
+            "context": "Paris Saint-Germain (PSG) begins its FIFA Club World Cup campaign with a victory over Atl\u00e9tico Madrid.",
+            "summary": [
+                "PSG defeats Atl\u00e9tico Madrid in the opening match of the FIFA Club World Cup 2025.",
+                "The match took place in Pasadena, marking a strong start for the French team.",
+                "PSG showcased their dominance with a compelling performance against the La Liga giants.",
+                "Head coach Luis Enrique expressed his satisfaction with the team's current form.",
+                "Fans can catch match highlights and detailed reports on PSG's official channels."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "east auckland tornado",
+        "llm_analysis": {
+            "context": "A tornado-like squall impacted eastern Auckland, leading to warnings and monitoring from MetService.",
+            "summary": [
+                "A severe thunderstorm doused eastern Auckland, leading to heavy rains and winds.",
+                "Previous thunderstorm warnings for Auckland have been lifted as the storm weakened.",
+                "Forecasters are keeping an eye on the weather but no further storms are expected for Saturday.",
+                "Similar tornado-like weather conditions were reported in coastal Taranaki, increasing regional concern.",
+                "Power outages and property impacts were reported in affected areas across Auckland."
+            ],
+            "category": "Weather"
+        }
+    },
+    {
+        "trend_query": "inter miami",
+        "llm_analysis": {
+            "context": "Inter Miami CF makes its debut in the FIFA Club World Cup 2025, drawing against Al Ahly FC.",
+            "summary": [
+                "Inter Miami CF played its first match in the FIFA Club World Cup 2025.",
+                "The match ended in a 0-0 draw against Egyptian team Al Ahly FC.",
+                "This marks a significant milestone for Inter Miami, founded only six years ago.",
+                "Fans can purchase tickets for upcoming matches, including Miami vs Atlanta.",
+                "The club unveiled its new third kit named 'Riptide' for the 2025 season."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "steven adams",
+        "llm_analysis": {
+            "context": "Steven Adams is a New Zealand professional basketball player currently playing for the Houston Rockets in the NBA.",
+            "summary": [
+                "Born on July 20, 1993, in Rotorua, New Zealand, Steven Adams is a notable basketball center.",
+                "He was the 12th overall pick in the 2013 NBA Draft by the Oklahoma City Thunder.",
+                "Adams has played for several NBA teams including the Thunder, New Orleans Pelicans, Memphis Grizzlies, and is now with the Houston Rockets.",
+                "He was recognized for his talent in college, receiving the Big East Preseason Rookie of the Year award while playing at Pittsburgh.",
+                "Off the court, Adams has faced personal challenges, including the death of his father, which deeply impacted his life and career."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "sam burns",
+        "llm_analysis": {
+            "context": "Sam Burns is a prominent American professional golfer on the PGA Tour known for his multiple tournament victories.",
+            "summary": [
+                "Born on July 23, 1996, in Shreveport, Louisiana, Sam Burns is an accomplished golfer who turned professional in 2017.",
+                "He played collegiate golf at Louisiana State University, where he earned accolades including All-American honors.",
+                "As of June 8, 2025, he has achieved a career-high world ranking of 9 and has five wins on the PGA Tour.",
+                "Notable wins include the Valspar Championship and the WGC-Dell Technologies Match Play, showcasing his skills in match play.",
+                "Burns made his international debut at the 2023 Ryder Cup and has been involved in charitable initiatives, supporting efforts like Compassion International."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nascar",
+        "llm_analysis": {
+            "context": "Shane van Gisbergen won the inaugural NASCAR Cup Series race in Mexico City, showcasing international presence in the sport.",
+            "summary": [
+                "Shane van Gisbergen, driving for Trackhouse Racing, won the inaugural NASCAR Cup Series race at Aut\u00f3dromo Hermanos Rodr\u00edguez in Mexico City.",
+                "This victory marks a significant event as NASCAR continues its push for international expansion, particularly in Latin America.",
+                "The race introduced a vibrant atmosphere, attracting passionate fans and creating electric energy at the venue.",
+                "Van Gisbergen's success in Mexico reshapes playoff dynamics, giving him a provisional berth in the postseason.",
+                "The race was notable for its diverse field, with drivers like Daniel Su\u00e1rez, a Mexican native, participating enthusiastically."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "state of origin game 2",
+        "llm_analysis": {
+            "context": "Ampol State of Origin Game 2 features a showdown between the Maroons and Blues on June 18, 2025, at Optus Stadium in Perth.",
+            "summary": [
+                "The match is a key event in the annual State of Origin series between Queensland's Maroons and New South Wales' Blues.",
+                "Game 2 is scheduled for June 18, 2025, with kickoff at 1:05 AM.",
+                "The match will be held at Optus Stadium in Perth, providing a prime venue for this rivalry.",
+                "Both teams have made notable player changes, with the Maroons seeing Tom Dearden step in as halfback and NSW's Jarome Luai returning.",
+                "Conditions are reported as good for play, with fine weather expected.",
+                ""
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "how to train your dragon",
+        "llm_analysis": {
+            "context": "The 2025 film 'How to Train Your Dragon' is a live-action remake of the beloved animated story about friendship and dragons.",
+            "summary": [
+                "The film is directed and written by Dean DeBlois, who led the original animated trilogy.",
+                "It stars Mason Thames as Hiccup and Nico Parker as Astrid, with Gerard Butler reprising his role as Stoick.",
+                "Production began in early 2023, and the movie was officially announced in February of that year.",
+                "The film is set to premiere at CinemaCon on April 2, 2025, followed by a general release on June 13, 2025.",
+                "It has already grossed nearly $200 million worldwide, with a sequel planned for 2027."
+            ],
+            "category": "Film"
+        }
+    },
+    {
+        "trend_query": "adam scott",
+        "llm_analysis": {
+            "context": "Adam Scott is a prominent American actor best known for his roles in 'Parks and Recreation' and 'Severance'.",
+            "summary": [
+                "Born on April 3, 1973, in Santa Cruz, California, Adam Scott is a versatile actor with a career spanning nearly three decades.",
+                "He gained widespread recognition for portraying Ben Wyatt in the NBC sitcom 'Parks and Recreation' (2010-2015), earning two Critics' Choice nominations.",
+                "Currently, he stars as Mark Scout in the Apple TV+ thriller series 'Severance', for which he received both Primetime Emmy and Golden Globe nominations.",
+                "Scott has appeared in notable films including 'Step Brothers', 'The Aviator', and the recent 'Krampus'.",
+                "In addition to acting, he has produced multiple projects, including the comedy film 'The Overnight' and several Adult Swim specials."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "cv auckland OR auckland council cv OR auckland cv OR auckland rates OR auckland property valuations",
+        "llm_analysis": {
+            "context": "Auckland Council is currently managing property rates and valuations, providing resources for residents to check their property information online.",
+            "summary": [
+                "Auckland residents can find their property rates and valuations via the Auckland Council website.",
+                "The 2024 property revaluation information is available to the public.",
+                "Residents can manage their rates online through the myAUCKLAND portal.",
+                "The site offers guidance on how to object to property valuations and manage payment details.",
+                "There are resources outlining changes in property rates for the upcoming rating year."
+            ],
+            "category": "Local Government"
+        }
+    },
+    {
+        "trend_query": "government sick leave",
+        "llm_analysis": {
+            "context": "The U.S. government has outlined guidelines for sick leave entitlements for federal employees, detailing its usage, accrual, and eligibility.",
+            "summary": [
+                "Sick leave is a paid absence from work, available for personal medical needs, family care, bereavement, and adoption-related reasons.",
+                "Federal employees accrue sick leave each pay period, with limits on its usage for certain family caregiving scenarios.",
+                "There is no cap on the total amount of sick leave that can be accumulated by employees.",
+                "Employees can request advanced sick leave under certain urgent circumstances, with a maximum of 240 hours available for use.",
+                "Sick leave can impact retirement annuity calculations, allowing for unused sick leave to be credited toward retirement benefits."
+            ],
+            "category": "Workplace Policies"
+        }
+    },
+    {
+        "trend_query": "callum turner",
+        "llm_analysis": {
+            "context": "Callum Turner is a British actor known for his roles in popular films and television series, recently engaged to singer Dua Lipa.",
+            "summary": [
+                "Callum Turner was born on February 15, 1990, in Hammersmith, London, and began his career as a fashion model before acting.",
+                "He gained recognition for lead roles in films like 'Queen and Country' and 'Fantastic Beasts' series, portraying Theseus Scamander.",
+                "Turner's performance in the mini-series 'The Capture' garnered a BAFTA nomination for Best Actor.",
+                "He recently starred in the biographical film 'The Boys in the Boat' and the upcoming series 'Masters of the Air'.",
+                "Turner is currently engaged to singer Dua Lipa, marking a new chapter in his personal life."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "ben askren",
+        "llm_analysis": {
+            "context": "Ben Askren is a prominent American former wrestler and mixed martial artist known for his undefeated record and Olympic background.",
+            "summary": [
+                "Ben Askren was born on July 18, 1984, in Cedar Rapids, Iowa.",
+                "He is a former Bellator and ONE Welterweight Champion and competed in the UFC.",
+                "Askren achieved Olympic recognition as a member of Team USA in freestyle wrestling in 2008.",
+                "He is a two-time NCAA Division I national champion, known for his unique grappling style.",
+                "After his wrestling career, he transitioned to MMA and later to boxing, leaving behind a significant legacy."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "sharks vs dragons",
+        "llm_analysis": {
+            "context": "In a thrilling NRL match, the Cronulla-Sutherland Sharks defeated the St. George Illawarra Dragons 30-18 in Round 15.",
+            "summary": [
+                "The match took place on Thursday, June 12, at Sharks Stadium in Sydney.",
+                "Cronulla-Sutherland Sharks scored 30 points with 5 tries and 4 conversions, while St. George Illawarra Dragons scored 18 points with 3 tries and 3 conversions.",
+                "Key players for the Sharks included Braydon Trindall, who scored two tries, and Nicholas Hynes, who contributed significantly with conversions and a penalty goal.",
+                "The Sharks secured the victory with a strong second-half performance, scoring three of their tries after halftime.",
+                "The match was attended by 8,573 fans with good weather and field conditions."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nba",
+        "llm_analysis": {
+            "context": "The NBA Finals are intensifying as the series is currently tied 2-2 between the Indiana Pacers and the Oklahoma City Thunder.",
+            "summary": [
+                "The NBA Finals feature a close series between the Indiana Pacers and Oklahoma City Thunder.",
+                "Game 5 is set to be a crucial matchup, with both teams demonstrating strong performances.",
+                "Fans can follow live updates, stats, and standings through the NBA's platforms.",
+                "The Finals MVP race is competitive, with standout players making significant impacts in each game.",
+                "Attention is also on potential trades and player performances leading up to the next NBA Draft."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nico porteous",
+        "llm_analysis": {
+            "context": "Nico Porteous is a prominent New Zealand freestyle skier who has made history in Olympic competitions.",
+            "summary": [
+                "Nico Porteous was born on November 23, 2001, in Hamilton, New Zealand.",
+                "He won a bronze medal at the 2018 Winter Olympics, becoming the youngest Olympic medallist from New Zealand.",
+                "In the 2022 Winter Olympics, he won gold in the men's halfpipe, making him New Zealand's first male Winter Olympic gold medallist.",
+                "Porteous has also achieved success in the Winter X Games, winning gold medals in the superpipe event in 2021 and 2022.",
+                "He was appointed a Member of the New Zealand Order of Merit for his contributions to snow sports in the 2023 New Year Honours."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "korea air crash",
+        "llm_analysis": {
+            "context": "On December 29, 2024, Jeju Air Flight 2216 crashed into a structure at Muan International Airport in South Korea, resulting in 179 fatalities.",
+            "summary": [
+                "The accident involved a Boeing 737-800 flying from Bangkok to Muan, South Korea.",
+                "During its approach, the aircraft experienced a bird strike and subsequently issued a mayday alert.",
+                "The first landing attempt was aborted, but the aircraft belly-landed on a second attempt.",
+                "It overran the runway, colliding with the lighting system and a berm, causing a massive crash.",
+                "This tragic event marks the deadliest aviation disaster in South Korea since 1997 and the first fatal accident in Jeju Air's history."
+            ],
+            "category": "Aviation"
+        }
+    },
+    {
+        "trend_query": "knights vs roosters",
+        "llm_analysis": {
+            "context": "The Sydney Roosters narrowly defeated the Newcastle Knights 12-8 in a tense Round 15 match of the NRL Telstra Premiership.",
+            "summary": [
+                "The match took place on June 13, 2025, at McDonald Jones Stadium in Newcastle.",
+                "The Roosters scored two tries while the Knights managed one, alongside a penalty goal.",
+                "Attendance for the match was recorded at 24,849 spectators.",
+                "Key player performances included tries from Salesi Foketi and Siua Wong for the Roosters, and Kyle McCarthy for the Knights.",
+                "The Knights achieved 1 conversion and 1 penalty goal while the Roosters succeeded in both of their conversion attempts."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "cowboys vs dolphins OR dolphins vs cowboys",
+        "llm_analysis": {
+            "context": "The Miami Dolphins defeated the Dallas Cowboys 22-20, clinching their playoff berth in Week 16 of the NFL.",
+            "summary": [
+                "The Miami Dolphins secured a narrow victory against the Dallas Cowboys with a score of 22-20.",
+                "Jason Sanders played a crucial role, scoring five field goals during the game, including the winning 29-yard kick.",
+                "This win marks the Dolphins' second consecutive playoff berth, solidifying their place in the postseason.",
+                "Both teams displayed strong defensive and offensive plays, with the Dolphins managing 375 total net yards compared to the Cowboys' 339.",
+                "The game featured significant moments including touchdowns from Tua Tagovailoa and Dak Prescott, along with several pivotal field goals."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "new zealand vs ukraine OR all whites OR all whites v ukraine OR nz vs ukraine",
+        "llm_analysis": {
+            "context": "New Zealand's All Whites faced Ukraine in a competitive friendly match, losing 2-1 but showing signs of progress ahead of the 2026 FIFA World Cup.",
+            "summary": [
+                "The All Whites lost 2-1 to Ukraine in a recent friendly match.",
+                "New Zealand displayed improved competitiveness against a higher-ranked European side.",
+                "Marko Stamenic scored New Zealand's only goal from a well-executed corner routine.",
+                "Ukraine capitalized on New Zealand's defensive errors to secure their victory.",
+                "The match served as valuable preparation for New Zealand ahead of the upcoming FIFA World Cup."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nhl",
+        "llm_analysis": {
+            "context": "The NHL playoffs are in full swing as teams compete for the Stanley Cup.",
+            "summary": [
+                "Florida Panthers defeated Carolina Hurricanes in Game 5 of the Eastern Conference Finals.",
+                "Edmonton Oilers secured a win against Dallas Stars in Game 5 of the Western Conference Finals.",
+                "Stanley Cup Final features Edmonton Oilers and Florida Panthers in a best-of-seven series.",
+                "Current series tied 2-2 after four games, with thrilling performances from players like Sergei Bobrovsky and Brad Marchand.",
+                "Fans are excited about the upcoming Game 6, which could determine the series outcome."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "korean air crash",
+        "llm_analysis": {
+            "context": "Korean Air has faced a troubled history of aviation incidents and crashes since its inception in 1969, particularly noted for its safety issues in the late 20th century.",
+            "summary": [
+                "Korean Air has operated since 1969 and has a significant history of incidents and accidents involving its flights.",
+                "In the late 1990s, the airline was deemed one of the most dangerous in the world, with a poor safety record.",
+                "From 1970 to 1999, Korean Air experienced 17 serious incidents resulting in 700 fatalities.",
+                "The most deadly event was Flight 007, shot down by the Soviet Union in 1983, killing all 269 on board.",
+                "Since taking measures to improve safety in the late 1990s, including consultations with international firms, the airline has seen a notable decline in incidents."
+            ],
+            "category": "Aviation"
+        }
+    },
+    {
+        "trend_query": "strawberry moon full moon OR strawberry moon OR strawberry moon nz OR full moon june 2025 OR strawberry moon 2025 nz",
+        "llm_analysis": {
+            "context": "The Strawberry Moon of June 2025 captivated sky-watchers with its stunning appearance in the night sky, peaking on June 11.",
+            "summary": [
+                "The Strawberry Moon is recognized for its unique amber and rosy hues and marks the final full moon of spring or the first full moon of summer.",
+                "It peaked on June 11, 2025, just after sunset, offering captivating views especially in the Southeastern U.S.",
+                "This full moon is traditionally named for the strawberry harvest occurring in June, as noted by the Old Farmer's Almanac.",
+                "It was the lowest-hanging full moon observed from the Northern Hemisphere in years due to a major lunar standstill phenomenon.",
+                "Sky-watchers were treated to additional celestial events, including the visibility of the red supergiant star Antares during the moon's peak."
+            ],
+            "category": "Science"
+        }
+    },
+    {
+        "trend_query": "titans vs sea eagles",
+        "llm_analysis": {
+            "context": "The Titans face off against the Sea Eagles in the NRL Premiership Round 15.",
+            "summary": [
+                "The match is part of the National Rugby League (NRL) Premiership 2025 season.",
+                "It features two competitive teams: the Gold Coast Titans and the Manly Sea Eagles.",
+                "The event emphasizes traditional custodianship of the land and recognizes Indigenous cultures.",
+                "It is promoted as part of the popular Friday Night Football schedule.",
+                "Fans can expect an exciting clash with implications for the league standings."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "england vs senegal OR england football OR england",
+        "llm_analysis": {
+            "context": "Senegal famously defeated England 3-1 in a historic international friendly match, marking the first win for an African team against England in 22 encounters.",
+            "summary": [
+                "Senegal's victory is a significant milestone as they become the first African nation to beat England in 22 games.",
+                "Goals for Senegal were scored by Isma\u00efla Sarr, Habib Diarra, and Cheikh Sabaly, while England's sole goal came from Harry Kane.",
+                "This match represents England's first loss under new coach Thomas Tuchel, who emphasized the need for improvement.",
+                "Despite taking an early lead, England struggled defensively and failed to capitalize on goal-scoring opportunities.",
+                "The match drew a crowd of over 26,000 at Nottingham's City Ground, highlighting growing interest in international fixtures."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "cody garbrandt OR raoni barcelos",
+        "llm_analysis": {
+            "context": "Raoni Barcelos defeated Cody Garbrandt by unanimous decision at UFC on ESPN 69.",
+            "summary": [
+                "The fight took place on June 14, 2025, in Atlanta, Georgia.",
+                "Barcelos won the match with scores of 29-28 from all three judges.",
+                "Garbrandt started strong, winning the first round, but lost the subsequent two rounds.",
+                "This victory solidified Barcelos's position in the bantamweight division while raising questions about Garbrandt's future performance.",
+                "Fan scoring showed a significant majority favoring Barcelos in the fight."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "pacers OR okc vs pacers OR nba OR nba finals OR bennedict mathurin",
+        "llm_analysis": {
+            "context": "The Indiana Pacers faced the Oklahoma City Thunder in Game 4 of the NBA Finals, where missed free throws by Bennedict Mathurin contributed to their loss.",
+            "summary": [
+                "Bennedict Mathurin's performance included critical missed free throws during the game.",
+                "The Pacers were competing against the Thunder in an intense NBA Finals matchup.",
+                "The outcome of Game 4 has significant implications for the Pacers' championship aspirations.",
+                "Fans and analysts are closely watching Mathurin's development and impact in high-pressure games.",
+                "This game highlights the pressure faced by young players like Mathurin in pivotal playoff moments."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nhl",
+        "llm_analysis": {
+            "context": "The NHL Stanley Cup Final is heating up as teams battle for the championship.",
+            "summary": [
+                "The Florida Panthers are facing off against the Edmonton Oilers in a tightly contested Stanley Cup Final.",
+                "Both teams have shown strong performances, with the Panthers winning crucial games in the series.",
+                "The Panthers' goalie, Sergei Bobrovsky, has been a key player for their success in the playoffs.",
+                "Match highlights include a series of overtime games showcasing thrilling moments and intense competition.",
+                "Future considerations include player roster announcements for upcoming Olympic events as teams prepare for the 2026 Games."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "rose namajunas OR miranda maverick",
+        "llm_analysis": {
+            "context": "Rose Namajunas defeated Miranda Maverick at UFC on ESPN 69 in Atlanta, securing a unanimous decision victory after a decisive third-round knockdown.",
+            "summary": [
+                "The fight was held as a co-main event at UFC on ESPN 69 in Atlanta.",
+                "Namajunas, a former two-time UFC strawweight champion, now has a record of 14-7 in MMA.",
+                "Maverick's record stands at 15-6 following this match.",
+                "The bout was competitive, with both fighters trading blows and grappling effectively.",
+                "Namajunas' key performance moment was a knockdown in the third round that helped secure her victory on the judges' scorecards."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "father's day india",
+        "llm_analysis": {
+            "context": "Father's Day is celebrated in India on the third Sunday of June to honor fathers and father figures.",
+            "summary": [
+                "Father's Day is observed globally to recognize the contributions of fathers.",
+                "In India, it is celebrated on the third Sunday of June each year.",
+                "2023 will mark the observance of Father's Day on June 18.",
+                "The event focuses on the joy of fatherhood and familial connections.",
+                "While popular, Father's Day is not a public holiday in India."
+            ],
+            "category": "Culture"
+        }
+    },
+    {
+        "trend_query": "miss congeniality",
+        "llm_analysis": {
+            "context": "Miss Congeniality is a popular 2000 action comedy film starring Sandra Bullock as an FBI agent going undercover in a beauty pageant to prevent a bombing.",
+            "summary": [
+                "The film was directed by Donald Petrie and produced by Sandra Bullock, who also stars in the lead role.",
+                "Bullock plays Gracie Hart, a tomboyish FBI agent assigned to infiltrate the Miss United States pageant.",
+                "The movie features an ensemble cast including Michael Caine, Benjamin Bratt, and Candice Bergen.",
+                "Released on December 22, 2000, it grossed over $212 million against a $45 million budget, despite mixed reviews from critics.",
+                "The film's success led to a sequel, Miss Congeniality 2: Armed and Fabulous, released in 2005."
+            ],
+            "category": "Film"
+        }
+    },
+    {
+        "trend_query": "frank energy OR genesis energy",
+        "llm_analysis": {
+            "context": "Frank Energy is ceasing new customer enrollments as it transitions existing customers to Genesis Energy by September 2025.",
+            "summary": [
+                "Frank Energy will stop accepting new customers and transfer existing customers to Genesis by September 2025.",
+                "Genesis Energy plans to consolidate its three retail brands into one unified brand to streamline operations.",
+                "The move aims to enhance customer experience, operational efficiency, and expedite the rollout of innovative energy solutions.",
+                "The consolidation aligns with Genesis's Gen35 strategy, promoting renewable energy transitions in New Zealand.",
+                "Customers will be informed throughout the process, ensuring a smooth transition under the new unified brand."
+            ],
+            "category": "Energy"
+        }
+    },
+    {
+        "trend_query": "liam lawson news OR liam lawson",
+        "llm_analysis": {
+            "context": "Liam Lawson retired from the Canadian Grand Prix due to a cooling issue with his car.",
+            "summary": [
+                "Lawson started the race from the pit lane and faced an uphill battle for performance.",
+                "He retired on Lap 57 because of a power unit problem.",
+                "The cooling issue was significant enough to force him out of the competition.",
+                "This incident highlights ongoing challenges with car reliability in Formula 1.",
+                "Lawson's performance is being closely watched as he continues to compete in high-pressure races."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "sam burns OR us open leaderboard 2025",
+        "llm_analysis": {
+            "context": "Sam Burns' performance on the leaderboard for the 2025 U.S. Open is drawing attention as the tournament approaches.",
+            "summary": [
+                "The 2025 U.S. Open is scheduled for June 12-15 at Oakmont Country Club in Pennsylvania.",
+                "Sam Burns is currently tied for seventh in the U.S. Open leaderboard, facing challenges as he finished the rounds with varying scores.",
+                "The current leaderboard highlights competitive performances, with J.J. Spaun leading at -1 after four rounds.",
+                "Burns' standing and scores can significantly influence his reputation and future opportunities in professional golf.",
+                "Fans and analysts are closely monitoring both the leaderboard and Sam Burns\u2019 results leading up to the championship."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "george duangmanee",
+        "llm_analysis": {
+            "context": "George Duangmanee is a 23-year-old professional golfer from the USA, currently competing on the PGA Tour with promising early career statistics.",
+            "summary": [
+                "George Duangmanee is a 23-year-old golfer from the United States.",
+                "He has played in 2 PGA Tour events but has not yet secured a win.",
+                "His official career winnings currently stand at $8,560.",
+                "Duangmanee achieved 1 cut out of 2 tournaments entered.",
+                "He is yet to finish in the top 10 in any event.",
+                "",
+                ""
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "vijay rupani",
+        "llm_analysis": {
+            "context": "Vijay Rupani, former Chief Minister of Gujarat, passed away in an aviation accident.",
+            "summary": [
+                "Rupani served as Chief Minister of Gujarat from 2016 to 2021.",
+                "He was a member of the Bharatiya Janata Party (BJP) and held several positions in the state government.",
+                "Rupani was born on August 2, 1956, in Rangoon, Burma and moved to India in 1960.",
+                "He faced criticism for his handling of the COVID-19 pandemic in Gujarat during his tenure.",
+                "Rupani died on June 12, 2025, in the Air India Flight 171 accident."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "sly stone",
+        "llm_analysis": {
+            "context": "Sly Stone, the influential American musician and frontman of Sly and the Family Stone, passed away on June 9, 2025, leaving a legacy in funk and psychedelic soul music.",
+            "summary": [
+                "Sly Stone, born Sylvester Stewart, was a pioneering force in funk and psychedelic soul music.",
+                "He founded the band Sly and the Family Stone, which was notable for its racially integrated lineup and groundbreaking sound.",
+                "The band produced iconic hits like \"Dance to the Music\" and \"Everyday People\" during the late 1960s and early 1970s.",
+                "Stone's career was marred by personal struggles with drug addiction but saw a significant resurgence by the late 2000s.",
+                "He authored an autobiography in 2023, documenting his remarkable journey and influence in the music industry."
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "west indies vs ireland",
+        "llm_analysis": {
+            "context": "West Indies secured a decisive win against Ireland in the 3rd T20I match by 62 runs, showcasing their powerful batting performance.",
+            "summary": [
+                "West Indies scored 256 runs, marking their second-highest total in T20Is.",
+                "Key players included Evin Lewis with 91 runs off 44 balls and Shai Hope with 51 runs.",
+                "Ireland's chase fell short, scoring only 194 runs despite a promising start.",
+                "Akeal Hosein was instrumental in bowling, taking 3 wickets for 27 runs.",
+                "West Indies won the three-match series 1-0 after the first two games were washed out."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "ngani laumape",
+        "llm_analysis": {
+            "context": "Ngani Laumape is a New Zealand rugby player who has excelled in both rugby union and league, currently playing for the Kobelco Kobe Steelers in Japan.",
+            "summary": [
+                "Born on April 22, 1993, in Palmerston North, New Zealand, Laumape is of Tongan descent.",
+                "His rugby career began in high school, where he played for the Palmerston North Boys' High School and for New Zealand Schools.",
+                "He initially played rugby league for the New Zealand Warriors before transitioning to rugby union in 2015.",
+                "Laumape has played for the Hurricanes in Super Rugby and represented New Zealand internationally, making 15 appearances for the All Blacks.",
+                "Currently, he plays as a center for Kobelco Kobe Steelers in Japan after stints in both rugby codes."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "chatgpt OR is chatgpt down OR chatgpt down OR gemini ai OR is chat gpt down",
+        "llm_analysis": {
+            "context": "There are currently no issues reported for ChatGPT or OpenAI services, confirming full operational status.",
+            "summary": [
+                "OpenAI's system status shows that all services are fully operational with no reported issues.",
+                "ChatGPT itself has a reported uptime of 99.31% across 23 components.",
+                "APIs related to OpenAI have an impressive uptime of 99.82%, indicating high reliability.",
+                "Availability metrics can vary depending on subscription tiers and model features used by individual customers.",
+                "As of March 18, 2025, there have been no incidents affecting service availability."
+            ],
+            "category": "Technology"
+        }
+    },
+    {
+        "trend_query": "cricinfo",
+        "llm_analysis": {
+            "context": "The Major League Cricket (MLC) and other international T20 competitions are currently enthralling cricket fans with notable matches and outcomes.",
+            "summary": [
+                "The MLC features several exciting matches, including San Francisco Unicorns' victory over MI New York by 3 wickets.",
+                "Texas Super Kings won decisively against Los Angeles Knight Riders by 57 runs in the MLC.",
+                "West Indies triumphed over Ireland in the third T20I, winning by 62 runs after scoring 256.",
+                "South Africa claimed victory in the World Test Championship final against Australia by 5 wickets in a dramatic match.",
+                "Upcoming matches in the Scotland T20 Tri-Series and the Tamil Nadu Premier League are set to engage fans further."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "ios 26 OR ios 26 release date",
+        "llm_analysis": {
+            "context": "Apple has announced the upcoming release of iOS 26, introducing significant design changes and innovative features to enhance the iPhone experience.",
+            "summary": [
+                "iOS 26 features a stunning new design with Liquid Glass for improved aesthetics and user experience.",
+                "Enhanced Apple Intelligence capabilities include on-device Live Translation for seamless multilingual communication.",
+                "The update brings meaningful improvements to Phone and Messages apps, focusing on reducing distractions.",
+                "New features in CarPlay, Apple Music, Maps, Wallet, and the introduction of Apple Games enhance connectivity and entertainment options.",
+                "Customization options for app icons and widgets allow for a more personal iPhone experience."
+            ],
+            "category": "Technology"
+        }
+    },
+    {
+        "trend_query": "wnba OR fever vs liberty",
+        "llm_analysis": {
+            "context": "The Indiana Fever defeated the New York Liberty, handing them their first loss of the WNBA season with a score of 102-88.",
+            "summary": [
+                "Caitlin Clark led the Fever with a season-high 32 points and seven 3-pointers after returning from injury.",
+                "Indiana Fever set a franchise record by making 17 three-pointers in the game.",
+                "Sabrina Ionescu scored 34 points for the Liberty, but it was not enough to secure a win.",
+                "The game saw significant momentum swings, with the Fever implementing a crucial 19-0 run.",
+                "This victory marks the Fever's improvement as they move to a .500 record for the season."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "cnn OR alex padilla",
+        "llm_analysis": {
+            "context": "Senator Alex Padilla of California is actively providing resources and information related to ongoing wildfires in Los Angeles County.",
+            "summary": [
+                "Alex Padilla is the U.S. Senator for California, serving the state since 2021.",
+                "He is currently focusing on providing support for residents affected by wildfires in Los Angeles County.",
+                "His official website includes a dedicated section for wildfire resources and disaster recovery information.",
+                "Padilla has multiple offices across California, including locations in Fresno, San Francisco, Sacramento, Los Angeles, and San Diego.",
+                "He encourages public interaction through social media and a newsletter subscription on his website."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "rugby tonight",
+        "llm_analysis": {
+            "context": "The Major League Rugby match between Houston SaberCats and RFCLARUG is scheduled to take place tonight.",
+            "summary": [
+                "The match features Houston SaberCats competing against RFCLARUG.",
+                "Kick-off is scheduled for 7:00 PM EDT.",
+                "The game will be held at SaberCats Stadium in Houston.",
+                "This match is part of the Major League Rugby season.",
+                "Fans are looking forward to an exciting game night atmosphere."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "aratere ferry passengers stuck",
+        "llm_analysis": {
+            "context": "Passengers were stuck on the Aratere ferry for hours after it broke down en route to Wellington.",
+            "summary": [
+                "The Aratere ferry experienced a propulsion drive failure on its way to Wellington, causing significant delays.",
+                "The ferry left Picton at 8:50 PM but had to anchor due to the breakdown, stranding passengers aboard overnight.",
+                "KiwiRail canceled multiple sailings following the incident and is investigating the cause of the problem.",
+                "Affected customers will be offered alternative sailings or the option to reschedule without additional costs.",
+                "This incident follows a history of electrical faults with the Aratere, which is set to be retired soon."
+            ],
+            "category": "Transport"
+        }
+    },
+    {
+        "trend_query": "field days 2025 OR fieldays 2025 OR fieldays",
+        "llm_analysis": {
+            "context": "Fieldays 2025 is set to be the largest agricultural event in the Southern Hemisphere, scheduled for June 11-14, 2025 in Mystery Creek, Hamilton, NZ.",
+            "summary": [
+                "Fieldays 2025 will feature cutting-edge technology and innovation in agriculture.",
+                "The event spans four days, attracting experts and enthusiasts from the rural sector.",
+                "Visitors can participate in competitions, attend talks, and explore various exhibits.",
+                "Special attractions include Red Bull's lawn mower racing and the Drone Zone showcasing high-tech farming.",
+                "The Fieldays App will enhance visitor experience with navigation and event updates."
+            ],
+            "category": "Agriculture"
+        }
+    },
+    {
+        "trend_query": "pga",
+        "llm_analysis": {
+            "context": "J.J. Spaun wins the 125th U.S. Open at Oakmont Country Club under challenging weather conditions.",
+            "summary": [
+                "J.J. Spaun emerged victorious at the 125th U.S. Open, held at Oakmont Country Club.",
+                "He showcased resilience in tough conditions, ultimately finishing with a score of +2.",
+                "Robert MacIntyre finished as runner-up, demonstrating a strong performance.",
+                "Scottie Scheffler and other notable players had decent finishes, with Scheffler placing in the top 10.",
+                "This victory grants Spaun $4.3 million and significant FedExCup points, securing him a 10-year exemption."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "argentina vs colombia",
+        "llm_analysis": {
+            "context": "Argentina draws 1-1 with Colombia in 2026 World Cup qualifying match after a late equalizer.",
+            "summary": [
+                "Luis D\u00edaz scored an impressive solo goal for Colombia, giving them an early lead.",
+                "Enzo Fern\u00e1ndez received a red card, further complicating Argentina's efforts.",
+                "Thiago Almada scored the equalizer for Argentina with just nine minutes left in the match.",
+                "The game keeps Colombia in sixth place in the CONMEBOL qualification standings.",
+                "Argentina remains at the top of the qualification table with 35 points, despite the draw."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "andre petroski OR edmen shahbazyan",
+        "llm_analysis": {
+            "context": "Edmen Shahbazyan defeats Andre Petroski by unanimous decision at UFC on ESPN 69.",
+            "summary": [
+                "Edmen Shahbazyan claimed victory over Andre Petroski with a unanimous decision score of 30-27 from all three judges.",
+                "The fight took place on June 14, 2025, during UFC on ESPN 69 in Atlanta, Georgia.",
+                "Shahbazyan showcased his skills effectively, winning all three rounds according to judges' scorecards.",
+                "Petroski, despite his efforts, could not secure a round, emphasizing Shahbazyan's dominance throughout the bout.",
+                "This match marks a significant win for Shahbazyan, enhancing his standing in the UFC middleweight division."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "mt hutt",
+        "llm_analysis": {
+            "context": "Mt Hutt, a premier ski resort in New Zealand, is open for winter activities with various lift, lesson, and rental packages available, and aims to be carbon neutral by 2030.",
+            "summary": [
+                "Current weather at Mt Hutt is -1.8\u00b0C with snow showers.",
+                "4 out of 5 lifts are open, providing access to extensive skiing terrain.",
+                "They offer several inclusive lift and lesson packages tailored for all ages and abilities, including first-timer specials.",
+                "Mt Hutt is committed to sustainability, pledging carbon neutrality by 2030.",
+                "Children 5 and under ski for free, making it a family-friendly destination."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "auckland airport",
+        "llm_analysis": {
+            "context": "Auckland Airport is experiencing high demand for parking, with car parks nearing capacity.",
+            "summary": [
+                "Auckland Airport's parking facilities are almost full, urging travelers to pre-book spots.",
+                "There are limited drive-up parking options available for arriving passengers.",
+                "Duty-free shopping is emphasized, with special promotions for savings on purchases.",
+                "The airport features a new 5-star accommodation option for travelers.",
+                "Various transport options, including taxis and shuttle services, are highlighted for easier access."
+            ],
+            "category": "Travel"
+        }
+    },
+    {
+        "trend_query": "genevieve chenneour",
+        "llm_analysis": {
+            "context": "Genevieve Chenneour is an emerging English actress known for her roles in 'Bridgerton' and '1242: Gateway To The West.'",
+            "summary": [
+                "Born in 1997 in Northallerton, England, Genevieve's full name is Genevieve Martha Manon Randall.",
+                "Before acting, she was a professional artistic swimmer and represented Team GB in several international competitions until 2016.",
+                "She studied Sports Science at Oxford Brookes University and began her acting career after retiring from sports.",
+                "Chenneour's notable television appearances include roles in 'Avenue 5' and 'Trigonometry,' along with several advertising campaigns.",
+                "Her performances in the upcoming Netflix series 'Bridgerton' and the historical film '1242: Gateway To The West' are highly anticipated."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "trooping the colour 2025",
+        "llm_analysis": {
+            "context": "The 2025 Trooping the Colour event showcased the royal family's celebration of King Charles III's birthday with traditional pomp and style amidst personal challenges.",
+            "summary": [
+                "Princess Kate and her children attended the event, reflecting royal fashion and tradition.",
+                "Kate wore an aqua coatdress with pearl earrings from Queen Elizabeth's collection.",
+                "Princess Charlotte mirrored her mother with a similar dress and a sentimental brooch.",
+                "King Charles made a notable entrance in a carriage, marking a departure from the horseback tradition due to health reasons.",
+                "The event highlighted the royal family's unity and continued celebration of British heritage."
+            ],
+            "category": "Royal Family"
+        }
+    },
+    {
+        "trend_query": "oumar sy OR alonzo menifield",
+        "llm_analysis": {
+            "context": "Alonzo Menifield wins against Oumar Sy by unanimous decision at UFC on ESPN 69.",
+            "summary": [
+                "Alonzo Menifield secured a victory over Oumar Sy by unanimous decision (29-28) in a closely contested match.",
+                "The fight took place at UFC on ESPN 69 on June 14, 2025, in Atlanta, Georgia.",
+                "Judges scored the fight in favor of Menifield based on his performance in rounds 1 and 3.",
+                "Oumar Sy demonstrated resilience, winning the second round according to two judges' scores.",
+                "This match highlights the competitive nature of the UFC light heavyweight division."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "\u5468\u534e\u5065",
+        "llm_analysis": {
+            "context": "\u5468\u534e\u5065\u662f\u8457\u540d\u7684\u9999\u6e2f\u53ca\u53f0\u6e7e\u7537\u6b4c\u624b\uff0c\u4ee5\u5176\u5f71\u54cd\u529b\u548c\u591a\u90e8\u7ecf\u5178\u66f2\u76ee\u800c\u95fb\u540d\u3002",
+            "summary": [
+                "\u5468\u534e\u5065\uff0c\u5168\u540d\u5468\u534e\u5065\uff0c\u51fa\u751f\u4e8e1960\u5e74\uff0c\u662f\u4e2d\u56fd\u9999\u6e2f\u548c\u53f0\u6e7e\u8457\u540d\u7684\u7537\u6b4c\u624b\u548c\u97f3\u4e50\u5236\u4f5c\u4eba\u3002",
+                "\u4ed6\u572890\u5e74\u4ee3\u662f\u534e\u8bed\u4e50\u575b\u4e2d\u6700\u5177\u5f71\u54cd\u529b\u7684\u6b4c\u624b\u4e4b\u4e00\uff0c\u66fe\u88ab\u79f0\u4e3a\u201c\u56fd\u6c11\u6b4c\u738b\u201d\u3002",
+                "\u4ed6\u7684\u4ee3\u8868\u4f5c\u5305\u62ec\u300a\u8ba9\u6211\u6b22\u559c\u8ba9\u6211\u5fe7\u300b\u3001\u300a\u82b1\u5fc3\u300b\u548c\u300a\u660e\u5929\u6211\u8981\u5ac1\u7ed9\u4f60\u300b\u3002",
+                "\u5468\u534e\u5065\u5728\u97f3\u4e50\u4e8b\u4e1a\u4e4b\u5916\uff0c\u8fd8\u53c2\u4e0e\u7535\u89c6\u8282\u76ee\uff0c\u66fe\u62c5\u4efb\u300a\u4e2d\u56fd\u597d\u6b4c\u66f2\u300b\u548c\u300a2023\u4e2d\u56fd\u597d\u58f0\u97f3\u300b\u7684\u5bfc\u5e08\u3002",
+                "\u4ed6\u5728\u6f14\u827a\u751f\u6daf\u4e2d\u83b7\u5f97\u591a\u9879\u97f3\u4e50\u5956\u9879\uff0c\u5305\u62ec\u91d1\u66f2\u5956\u3001\u5341\u5927\u4e2d\u6587\u91d1\u66f2\u7b49\u91cd\u8981\u5956\u9879\u3002"
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "eric dane",
+        "llm_analysis": {
+            "context": "Eric Dane, acclaimed American actor known for iconic television roles, has recently come into the spotlight for revealing his battle with ALS.",
+            "summary": [
+                "Born on November 9, 1972, in San Francisco, California, Eric Dane has enjoyed a successful acting career since 1991.",
+                "He is best known for his roles as Mark Sloan in 'Grey's Anatomy,' Jason Dean in 'Charmed,' Cal Jacobs in 'Euphoria,' and Captain Tom Chandler in 'The Last Ship.'",
+                "Dane's film credits include notable appearances in 'Marley & Me,' 'Valentine's Day,' and 'Burlesque.'",
+                "His recent announcement of being diagnosed with ALS has garnered attention, highlighting his challenges since early 2024.",
+                "Dane is married to actress Rebecca Gayheart with whom he shares two daughters, but they have been separated since 2018."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "desmond bane",
+        "llm_analysis": {
+            "context": "Desmond Bane has been traded to the Orlando Magic from the Memphis Grizzlies in a major NBA deal.",
+            "summary": [
+                "Bane averaged 19.2 points, 6.1 rebounds, and 5.3 assists per game in the previous season.",
+                "The trade included the Magic giving up Kentavious Caldwell-Pope, Cole Anthony, and multiple first-round picks.",
+                "Bane is a strong outside shooter, with a career 41.0% three-point shooting percentage.",
+                "He is expected to enhance the Magic's perimeter shooting after their poor performance last season.",
+                "The 26-year-old player has a contract through the 2028-29 season."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "online lottery",
+        "llm_analysis": {
+            "context": "The Texas Lottery has discontinued its support for courier services, leading to the cancellation of all subscriptions.",
+            "summary": [
+                "The Texas Lottery will no longer support courier services for ticket purchases.",
+                "As a result, all existing subscriptions related to online lottery services have been canceled.",
+                "Customers are advised to withdraw their remaining funds as usual.",
+                "This decision may affect players who relied on courier services for participating in the lottery.",
+                "The discontinuation reflects a shift in the Texas Lottery's operational policies regarding online ticket sales."
+            ],
+            "category": "Gambling"
+        }
+    },
+    {
+        "trend_query": "mansur abdul-malik OR cody brundage",
+        "llm_analysis": {
+            "context": "Mansur Abdul-Malik defeated Cody Brundage by unanimous decision at UFC on ESPN 69.",
+            "summary": [
+                "Mansur Abdul-Malik won against Cody Brundage by unanimous decision.",
+                "The fight took place on June 14, 2025, in Atlanta, Georgia, during UFC on ESPN 69.",
+                "Judges scored the bout with two giving 30-27 and the other 29-28 in favor of Abdul-Malik.",
+                "Abdul-Malik is 27 years old from Pennsylvania and fights out of Las Vegas, NV.",
+                "Brundage, aged 31 from South Carolina, fought out of Englewood, CO."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "le mans 2025",
+        "llm_analysis": {
+            "context": "The 24 Hours of Le Mans endurance race is set to return on June 13-14, 2026, attracting major manufacturers and racing enthusiasts.",
+            "summary": [
+                "The 2025 Le Mans race featured significant competition among luxury car manufacturers.",
+                "Renowned brands like Ferrari, Aston Martin, and Porsche participated in the Hypercar class.",
+                "AF Corse's #83 Ferrari team made history by winning as a customer team after 20 years.",
+                "The race showcased a thrilling atmosphere with high drama and close racing, particularly among Ferrari teams.",
+                "Ticket sales and merchandise are expected to boost engagement for the upcoming 2026 event."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "ford recall",
+        "llm_analysis": {
+            "context": "Ford has announced multiple vehicle recalls to address safety concerns and compliance issues.",
+            "summary": [
+                "Recent recalls include various models such as the 2021-2023 Ford Mustang and Ford F-150.",
+                "Recall repairs are offered free of charge at local Ford dealerships.",
+                "Ford provides a VIN-specific search tool for customers to check their vehicle's recall status.",
+                "Customer satisfaction programs differ from recalls as they may have expiration dates and mileage limitations.",
+                "Ford allows refunds for prior repairs that are linked to specific recall issues."
+            ],
+            "category": "Automotive"
+        }
+    },
+    {
+        "trend_query": "rory mcilroy OR pga",
+        "llm_analysis": {
+            "context": "Rory McIlroy wins his 5th Major title at Augusta, completing the career Grand Slam in 2025.",
+            "summary": [
+                "Rory McIlroy secured his fifth Major title at the 2025 Masters Tournament in Augusta.",
+                "This victory allowed him to complete the career Grand Slam, a prestigious achievement in professional golf.",
+                "McIlroy's success reaffirms his status as one of the leading golfers in the world today.",
+                "The announcement highlights Rory's journey and dedication to the sport from a young age.",
+                "Upcoming events, including the Travelers Championship, will further showcase his talent in the 2025 PGA Tour."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "cricinfo OR icc",
+        "llm_analysis": {
+            "context": "The International Code Council (ICC) promotes building safety and resilience through resources, events, and community engagement.",
+            "summary": [
+                "The ICC is dedicated to building safety and resilience through effective code regulations.",
+                "Recent news highlights California's adoption of stricter wildfire codes to enhance community safety.",
+                "The ICC's 45th Annual Building Safety Month campaign emphasizes public engagement in safety issues.",
+                "Upcoming events include training sessions focused on disaster evaluation and structural changes.",
+                "The ICC provides various resources including product evaluation, standards, and professional development for industry members."
+            ],
+            "category": "Safety"
+        }
+    },
+    {
+        "trend_query": "sting",
+        "llm_analysis": {
+            "context": "Sting criticizes government neglect of the North East of England while announcing support for local arts.",
+            "summary": [
+                "Sting reflects on his upbringing in Wallsend, UK, expressing regret over government neglect of the area.",
+                "He emphasizes the significant issue of child poverty existing in the North East.",
+                "Sting announces a donation to an arts institution in Gateshead to support local culture.",
+                "As part of his ongoing tour, he highlights his current engagements throughout Europe.",
+                "The musician is also involved in the premiere of his musical The Last Ship in multiple locations in 2026."
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "trump parade OR fox news",
+        "llm_analysis": {
+            "context": "The recent military parade celebrating the U.S. Army's 250th anniversary was held amidst anti-Trump protests, highlighting the deep political divisions in the country.",
+            "summary": [
+                "A military parade was held in Washington, D.C., to celebrate the Army's 250th anniversary on June 14, 2025.",
+                "The event coincided with President Trump's 79th birthday, leading to Republican lawmakers celebrating it as a tribute to service members.",
+                "Anti-Trump protesters organized 'No Kings' demonstrations nearby, which received criticism for their low attendance.",
+                "The White House described the anti-Trump protests as a 'complete and utter failure' due to limited participation.",
+                "California Governor Gavin Newsom emphasized that the focus should be on honoring the military, rather than on Trump."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "kris moutinho OR malcolm wellmaker",
+        "llm_analysis": {
+            "context": "Malcolm Wellmaker scored a knockout victory over Kris Moutinho in the first round at UFC Atlanta.",
+            "summary": [
+                "Malcolm Wellmaker faced Kris Moutinho in a bantamweight match.",
+                "The fight took place on June 14, 2025, at UFC Atlanta.",
+                "Wellmaker achieved a knockout victory in the first round.",
+                "This is a significant win for Wellmaker in his UFC career.",
+                "Moutinho is known for his tough fighting style, making the quick finish notable."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "brazil vs paraguay",
+        "llm_analysis": {
+            "context": "Brazil qualified for the 2026 FIFA World Cup with a 1\u20130 win over Paraguay.",
+            "summary": [
+                "Brazil defeated Paraguay 1-0 to secure their spot in the upcoming 2026 FIFA World Cup.",
+                "This victory marks Brazil's continued record as the only nation to qualify for every World Cup since the tournament began in 1930.",
+                "Vin\u00edcius J\u00fanior scored the only goal of the match, showcasing his potential for the national team as he notched his seventh international goal.",
+                "Brazil's performance improved significantly after a disappointing draw against Ecuador just days earlier, with a revitalized attack led by Raphinha.",
+                "Coached by Carlo Ancelotti, Brazil is currently third in the CONMBEOL standings with 25 points, moving toward a successful qualification campaign for the World Cup."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "lotto winner OR lotto winner dies OR lotto winner died OR $22 million lotto winner dies",
+        "llm_analysis": {
+            "context": "The tragic story of Joshua Winslet, a $22 million Powerball winner, reveals how sudden wealth can lead to unforeseen hardship and despair.",
+            "summary": [
+                "Joshua Winslet won $22 million in the Powerball lottery at the age of 22 after living paycheck to paycheck.",
+                "Despite his newfound wealth, his life took a downward turn in the following years, culminating in tragedy.",
+                "Josh struggled with physical deformities from birth, which led to years of bullying and emotional distress.",
+                "His win was seen as a potential escape from hardship, but it ultimately did not bring the happiness he sought.",
+                "The tale serves as a cautionary reminder that financial windfalls can sometimes lead to unexpected challenges."
+            ],
+            "category": "Human Interest"
+        }
+    },
+    {
+        "trend_query": "rodolfo bellato OR paul craig",
+        "llm_analysis": {
+            "context": "Rodolfo Bellato's recent fight with Paul Craig has sparked controversy and discussion regarding the legitimacy of his performance.",
+            "summary": [
+                "Rodolfo Bellato issued a statement concerning his fight against Paul Craig, which ended in a controversial no contest.",
+                "Fans are divided on whether Bellato was genuinely knocked out or if he exaggerated his reactions to gain an advantage.",
+                "Many commenters on Reddit compared Bellato's behavior to other fighters who have acted in similar situations, questioning the authenticity of his performance.",
+                "The incident has led to discussions about potential motivations behind Bellato's actions, including winning bonuses or disqualification benefits.",
+                "Overall, the fight and its aftermath highlight ongoing concerns regarding athlete behavior and decision-making in MMA.",
+                ""
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "gemini",
+        "llm_analysis": {
+            "context": "Gemini is a new AI assistant developed by Google that enhances user interaction through conversational capabilities.",
+            "summary": [
+                "Gemini serves as a personal AI assistant designed to aid users in various tasks.",
+                "It allows users to save their chats for easier access to past conversations.",
+                "Gemini can explain concepts, research topics, and provide study tips.",
+                "Users must sign in to fully utilize Gemini's features, including chat-saving.",
+                "Privacy policies and terms of service govern Gemini's functionality and user interactions."
+            ],
+            "category": "Technology"
+        }
+    },
+    {
+        "trend_query": "lyttelton landslide",
+        "llm_analysis": {
+            "context": "A landslide in Lyttelton, Christchurch, has rendered a home uninhabitable and caused evacuations due to recent heavy rains.",
+            "summary": [
+                "A landslide occurred in Lyttelton, prompting evacuations of nearby homes.",
+                "Heavy rains and water runoff are suspected to have triggered the landslide.",
+                "Emergency services responded around 9 PM NZST after debris impacted a house.",
+                "Two homes remain evacuated as assessments are being made on neighboring properties.",
+                "Lyttelton is known for recurring landslides due to its terrain and soil type."
+            ],
+            "category": "Natural Disaster"
+        }
+    },
+    {
+        "trend_query": "ai",
+        "llm_analysis": {
+            "context": "AI technology continues to evolve, offering increasingly versatile applications for personal and business use.",
+            "summary": [
+                "OpenAI has enhanced ChatGPT with new features and integrations for better business applications.",
+                "AI is being used for a variety of tasks, including planning trips, explaining concepts, and generating creative content.",
+                "The demand for AI tools is growing in multiple sectors, ranging from education to marketing.",
+                "Recent advancements in AI models are making them more accessible and useful for everyday tasks.",
+                "Companies are leveraging AI to improve efficiency and productivity across various industries."
+            ],
+            "category": "Technology"
+        }
+    },
+    {
+        "trend_query": "pga tour",
+        "llm_analysis": {
+            "context": "J.J. Spaun wins the 125th U.S. Open Championship at Oakmont Country Club under challenging weather conditions.",
+            "summary": [
+                "J.J. Spaun emerges victorious in a tightly contested 125th U.S. Open Championship.",
+                "He triumphed at Oakmont Country Club, showcasing his resilience against the challenging weather.",
+                "Spaun's victory earns him $4.3 million and 750 FedExCup points.",
+                "Robert MacIntyre finishes as the runner-up with a commendable performance.",
+                "The event attracted significant attention due to its historical background and competitive nature."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "pga tour live",
+        "llm_analysis": {
+            "context": "The PGA Tour Live offers streaming coverage of professional golf events, enhancing viewer engagement and accessibility.",
+            "summary": [
+                "PGA Tour Live allows fans to watch golf tournaments in real-time via digital platforms.",
+                "The service provides features such as live scoring, statistics, and player interviews.",
+                "It includes highlights and analyses of key moments from players like J.J. Spaun, who recently won the U.S. Open.",
+                "Viewers can access a variety of golf content, including tutorials and round-ups of best shots.",
+                "PGA Tour Live caters to golf enthusiasts, boosting the popularity of the sport through enhanced viewing experiences."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "dr fauci",
+        "llm_analysis": {
+            "context": "Dr. Anthony Fauci is a prominent American immunologist known for his leadership role in public health, particularly during the COVID-19 pandemic.",
+            "summary": [
+                "Fauci served as the Director of the National Institute of Allergy and Infectious Diseases from 1984 to 2022.",
+                "He was the Chief Medical Advisor to President Joe Biden from 2021 to 2022, following his role during the Trump administration.",
+                "Fauci played a significant role in combating HIV/AIDS and various infectious diseases throughout his career.",
+                "He has received numerous awards, including the Presidential Medal of Freedom and the Lasker Award, acknowledging his contributions to science and public health.",
+                "Fauci has been a trusted figure in American public health, advising every U.S. president since Ronald Reagan."
+            ],
+            "category": "Health"
+        }
+    },
+    {
+        "trend_query": "scottie scheffler OR sky sport",
+        "llm_analysis": {
+            "context": "Scottie Scheffler expressed shock after missing a simple two-foot putt during the third round of the US Open.",
+            "summary": [
+                "Scottie Scheffler was playing in the US Open tournament.",
+                "He missed a two-foot putt on the eighth hole, which was surprising for a player of his caliber.",
+                "The incident caused a reaction of disbelief from Scheffler and onlookers.",
+                "This moment has been widely shared and discussed on social media.",
+                "The US Open is one of the four major championships in professional golf."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "friday the 13th",
+        "llm_analysis": {
+            "context": "'Friday the 13th' is a famous American horror franchise renowned for its iconic portrayal of the character Jason Voorhees.",
+            "summary": [
+                "The franchise began with the 1980 film 'Friday the 13th', created by Victor Miller.",
+                "It features Jason Voorhees, a character who kills those at Camp Crystal Lake as revenge for his own tragic drowning.",
+                "The franchise includes twelve slasher films, a television series, novels, comic books, and merchandise.",
+                "Despite mixed critical reception, it has grossed over $468 million at the box office, making it extremely successful.",
+                "Jason's hockey mask has become a pop culture symbol, representing horror and slasher genre films."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "dawn freshwater",
+        "llm_analysis": {
+            "context": "Dawn Freshwater is a prominent British mental health researcher and Vice-Chancellor at the University of Auckland, known for her leadership roles and contributions to nursing education.",
+            "summary": [
+                "Dawn Freshwater was born in Nottingham in August 1962 and is a notable figure in mental health research.",
+                "She became the first female Vice-Chancellor of the University of Auckland in 2019 after serving in similar roles at other universities.",
+                "Freshwater's research focuses on forensic psychology and mental health issues among marginalized groups.",
+                "During her tenure at the University of Auckland, she improved the university's QS World Rankings significantly.",
+                "In June 2024, Freshwater announced her resignation as Vice-Chancellor, set to remain until early 2026."
+            ],
+            "category": "Education"
+        }
+    },
+    {
+        "trend_query": "england vs west indies",
+        "llm_analysis": {
+            "context": "England faced West Indies in a series of One Day Internationals (ODIs) and T20 matches in June 2025, with England dominating the results.",
+            "summary": [
+                "England won the first ODI by 238 runs, showcasing a powerful batting performance with a score of 400/8.",
+                "In the second ODI, England chased down 309 runs, winning by 3 wickets, demonstrating a strong finish with 7 balls to spare.",
+                "The third ODI saw England winning by 7 wickets using the Duckworth-Lewis-Stern (DLS) method after rain interruptions.",
+                "In the T20 series, England continued their dominance, winning the first T20I by 21 runs and the second by 4 wickets with 9 balls left.",
+                "Overall, England displayed a commanding performance throughout the series against West Indies."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "thriston lawrence",
+        "llm_analysis": {
+            "context": "Thriston Lawrence, a South African golfer, continues to make his mark on the PGA Tour despite still seeking his first professional win.",
+            "summary": [
+                "Thriston Lawrence is a 28-year-old South African golfer on the PGA Tour.",
+                "He turned pro in 2014 and has yet to secure a victory in his professional career.",
+                "As of 2025, he ranks 162nd in the FedEx Cup standings and 82nd in the Official World Golf Ranking.",
+                "Lawrence has been competing in prestigious tournaments, including the U.S. Open.",
+                "Fans are closely watching his performance as he strives for success on the tour."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "nhl",
+        "llm_analysis": {
+            "context": "The NHL playoffs are reaching an exciting climax as teams compete for the Stanley Cup.",
+            "summary": [
+                "Florida Panthers defeated Carolina Hurricanes 4-1 in ECF Game 5.",
+                "Edmonton Oilers beat Dallas Stars 4-1 in WCF Game 5.",
+                "The Stanley Cup Final is a fierce contest between the Panthers and Oilers, currently tied at 2-2.",
+                "Both teams have shown strong performances with close, high-stakes games going into overtime.",
+                "The finals have featured standout players, including goaltender Sergei Bobrovsky for the Panthers."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "michael chiesa",
+        "llm_analysis": {
+            "context": "Michael Chiesa is a prominent American mixed martial artist competing in the Welterweight division of the UFC.",
+            "summary": [
+                "Born on December 7, 1987, in Aurora, Colorado; currently resides in Spokane Valley, Washington.",
+                "Known by the nickname 'Maverick', Chiesa has a professional MMA record of 19 wins and 7 losses.",
+                "He started his MMA career in 2008 and gained fame as the winner of 'The Ultimate Fighter: Live' reality show.",
+                "Chiesa is a black belt in Brazilian Jiu-Jitsu and fights out of Sikjitsu and Team Alpha Male.",
+                "His fight style combines wrestling and kickboxing, and he is recognized for his notable submission skills."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "auckland weather OR weather auckland OR thunderstorm warning",
+        "llm_analysis": {
+            "context": "Auckland is under a thunderstorm warning as severe weather conditions are expected.",
+            "summary": [
+                "MetService has issued a thunderstorm warning for Auckland and surrounding areas.",
+                "Residents are advised to stay informed about changing weather conditions.",
+                "Warnings may be updated frequently; checking MetService is recommended.",
+                "Weather forecasts can change rapidly, especially with severe weather.",
+                "Preparation and caution are key during thunderstorm threats."
+            ],
+            "category": "Weather"
+        }
+    },
+    {
+        "trend_query": "cnn",
+        "llm_analysis": {
+            "context": "The Israel-Iran conflict has escalated significantly, with both sides launching extensive missile strikes, leading to rising casualties and regional tensions.",
+            "summary": [
+                "Iran launched missile strikes on Israeli cities in retaliation for prior Israeli attacks on military targets in Iran.",
+                "Both countries have threatened further actions, intensifying fears of a broader conflict.",
+                "Casualties are mounting, with at least eight reported dead from the latest round of strikes.",
+                "Israeli authorities claim to have destroyed a substantial portion of Iran's missile launchers amid the exchange.",
+                "The international community is concerned, with calls for US intervention in the escalating conflict."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "police association",
+        "llm_analysis": {
+            "context": "The Pennsylvania Chiefs of Police Association is actively promoting police leadership, accreditation, and professional development within law enforcement agencies in Pennsylvania.",
+            "summary": [
+                "Established in 2001, the PCPA has accredited over 200 law enforcement agencies in Pennsylvania.",
+                "Gerald R. Simpson has been appointed as the new Testing and Consulting Manager for the PCPA, bringing extensive law enforcement experience.",
+                "The association focuses on enhancing professionalism and community relations in police departments.",
+                "Members can access resources, training, and support for effective police management and leadership.",
+                "The PCPA maintains a comprehensive membership program to encourage involvement and connection among law enforcement leaders."
+            ],
+            "category": "Law Enforcement"
+        }
+    },
+    {
+        "trend_query": "sports",
+        "llm_analysis": {
+            "context": "Sports news is a dynamic realm showcasing athlete achievements, game highlights, and in-depth data across various leagues.",
+            "summary": [
+                "The sports industry continues to thrive with major events attracting global audiences.",
+                "Fan engagement through fantasy sports platforms is on the rise.",
+                "Significant milestones executed by athletes garner media attention.",
+                "Analytical stats and player performance data play vital roles in reporting.",
+                "Diverse coverage expands to include leagues from NFL, NBA, MLB, and more."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "solomon islands",
+        "llm_analysis": {
+            "context": "The Solomon Islands is an island country in Melanesia, known for its diverse culture and history.",
+            "summary": [
+                "Consists of six major islands and over 1000 smaller islands located in the southwestern Pacific.",
+                "Capital city is Honiara, situated on Guadalcanal, the largest island.",
+                "Population estimated at 734,887 as of 2023, primarily Melanesian.",
+                "Achieved independence from the UK in 1978, transitioning to a constitutional monarchy.",
+                "Home to rich cultural traditions and significant historical events including World War II battles."
+            ],
+            "category": "Geography"
+        }
+    },
+    {
+        "trend_query": "obama daughters",
+        "llm_analysis": {
+            "context": "The Obama daughters, Malia and Sasha, have remained significant figures in the public eye since their father, Barack Obama, became President.",
+            "summary": [
+                "Malia and Sasha Obama, the daughters of former President Barack Obama and First Lady Michelle Obama, have grown up in the public spotlight.",
+                "They have been featured in various family moments during their father's presidency, showcasing both personal and ceremonial events.",
+                "The sisters have also taken part in public service activities, reflecting the values instilled by their parents.",
+                "Malia and Sasha continue to pursue their own individual paths, including education and personal interests.",
+                "Their experiences serve as a reminder of the balance between public life and personal growth in a politically prominent family."
+            ],
+            "category": "Family"
+        }
+    },
+    {
+        "trend_query": "pga tour live OR bryson dechambeau",
+        "llm_analysis": {
+            "context": "The PGA Tour features notable player Bryson DeChambeau as he competes in major events.",
+            "summary": [
+                "Bryson DeChambeau is a prominent American golfer playing in the PGA Tour.",
+                "He has achieved 9 career wins since turning pro in 2016.",
+                "Currently, he ranks 13th in the Official World Golf Ranking (OWGR).",
+                "In the 2025 season, DeChambeau has had 2 top 10 finishes so far.",
+                "The PGA Tour is hosting significant events and competitions including the U.S. Open."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "sabrina carpenter",
+        "llm_analysis": {
+            "context": "Sabrina Carpenter announces the release of her new album, 'Man\u2019s Best Friend,' set for August 29, 2025.",
+            "summary": [
+                "Sabrina Carpenter's new album is titled 'Man\u2019s Best Friend.'",
+                "The album is scheduled for release on August 29, 2025.",
+                "Fans can pre-order the album now through a provided link.",
+                "Carpenter expresses excitement about sharing the album with her fans.",
+                "This announcement builds anticipation among her growing fanbase."
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "westpac home loan rates changes",
+        "llm_analysis": {
+            "context": "Westpac announced a decrease of 0.25% in variable home loan interest rates effective June 3, 2025, following a RBA decision to lower the official cash rate.",
+            "summary": [
+                "The variable home loan interest rates will decrease by 0.25% per annum for both new and existing loans.",
+                "This change is prompted by the Reserve Bank of Australia's reduction of the official cash rate.",
+                "The new rates will be effective from June 3, 2025.",
+                "Changes in interest rates will impact home loan repayments, with automatic adjustments for direct debit customers.",
+                "Fixed-rate loans will remain unaffected during their fixed term."
+            ],
+            "category": "Finance"
+        }
+    },
+    {
+        "trend_query": "watercare",
+        "llm_analysis": {
+            "context": "WaterCare focuses on providing high-quality water treatment solutions for households to ensure clean and safe water.",
+            "summary": [
+                "WaterCare has been a leader in the water treatment industry for over 60 years.",
+                "Their products include water filtration, softening, and conditioning systems designed for household needs.",
+                "The company emphasizes the importance of clean water for daily activities, including cooking and drinking.",
+                "WaterCare services include in-home testing, customized treatment solutions, and maintenance support.",
+                "Customers can benefit from improved water quality, protection for plumbing, and potential savings on household expenses."
+            ],
+            "category": "Health & Lifestyle"
+        }
+    },
+    {
+        "trend_query": "chiefs game",
+        "llm_analysis": {
+            "context": "The Kansas City Chiefs have released their 2025 NFL season schedule, featuring key matchups and ticketing options.",
+            "summary": [
+                "The Chiefs' 2025 schedule includes multiple high-profile games against teams like the Chargers and Eagles.",
+                "Fans can access the full schedule and purchase tickets directly through the Chiefs' official website.",
+                "The season kicks off with preseason games starting in August 2025.",
+                "Prominent matchups include appearances on national broadcasts like Sunday Night Football and Monday Night Football.",
+                "Flexible scheduling is possible for certain games to optimize viewer interest throughout the season."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "bryson dechambeau",
+        "llm_analysis": {
+            "context": "Bryson DeChambeau is an American professional golfer known for his unique playing style and significant achievements on the golf tour.",
+            "summary": [
+                "Born on September 16, 1993, in Modesto, California, DeChambeau is an influential figure in professional golf.",
+                "He has won two major championships: the U.S. Open in 2020 and 2024.",
+                "Known as 'The Scientist', DeChambeau employs a unique analytical approach to golf, crafting his own clubs.",
+                "DeChambeau played for the LIV Golf League after previously being part of the PGA Tour and European Tour.",
+                "He became the fifth player to win both the NCAA Division I championship and the U.S. Amateur in the same year (2015)."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "bbc news",
+        "llm_analysis": {
+            "context": "The BBC News website is currently covering multiple significant global events including escalating tensions in the Middle East and major political developments in the UK and USA.",
+            "summary": [
+                "Iranian state TV briefly went off air due to debris falling during a live broadcast amidst Israeli strikes.",
+                "BBC Verify is authenticating footage related to the aftermath of the Iranian strike on Israel's largest oil refinery.",
+                "MI6 has appointed its first female chief, Blaise Metreweli, marking a historic change in its 116-year history.",
+                "Trump has ordered an increase in migrant deportations, calling it the largest program of its kind.",
+                "Reports indicate that over 20 Palestinians were killed by Israeli fire near Gaza, leading to international concerns."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "tvnz",
+        "llm_analysis": {
+            "context": "TVNZ offers a diverse range of shows, sports, and movies for streaming and live viewing in New Zealand.",
+            "summary": [
+                "TVNZ is a popular streaming platform providing various programs including dramas, documentaries, and movies.",
+                "The service features live TV channels such as TVNZ 1 and TVNZ 2, along with an extensive sports coverage section.",
+                "Recent highlights include new seasons of popular shows like Love Island and Walking with Dinosaurs.",
+                "TVNZ also provides news coverage and current affairs updates relevant to the New Zealand audience.",
+                "The platform categorizes content into various genres and collections, making it easy for users to find their favorite shows."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "sonny bill williams",
+        "llm_analysis": {
+            "context": "Sonny Bill Williams is a renowned New Zealand dual-code rugby international and heavyweight boxer.",
+            "summary": [
+                "Born on August 3, 1985, in Auckland, New Zealand.",
+                "He is the second individual to represent New Zealand in rugby union after first playing rugby league.",
+                "Williams played professionally in both rugby league and rugby union, winning two Rugby World Cups with the All Blacks.",
+                "He is also a former heavyweight boxing champion, having competed in ten professional bouts.",
+                "Retired from both rugby codes in March 2021, Williams is known for his versatile sports career and significant achievements."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "cnn",
+        "llm_analysis": {
+            "context": "The ongoing Israel-Iran conflict intensifies with missile strikes exchanged between both countries, raising tensions in the region.",
+            "summary": [
+                "Iran launched missile strikes on Israeli cities after Israel targeted military installations in Iran.",
+                "The conflict has seen significant casualties on both sides, with recent reports indicating at least eight deaths in Israel from Iranian strikes.",
+                "Satellite images reveal extensive damage to Iran\u2019s Kermanshah missile facility due to Israeli actions.",
+                "Israel claims to have destroyed a substantial portion of Iran's missile capabilities, intensifying its military response.",
+                "The international community is watching closely, with potential US involvement being debated as tensions escalate."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "craftiness nyt OR dessert wine nyt",
+        "llm_analysis": {
+            "context": "The New York Times Mini puzzle featured a crossword clue for 'dessert wine' that has captured the interest of solvers looking for engaging challenges.",
+            "summary": [
+                "The crossword clue for 'dessert wine' appeared in the June 13, 2025 edition of the New York Times Mini puzzle.",
+                "The clue requires a 4-letter answer which is provided along with hints for puzzle solvers.",
+                "Engaging interactive features allow users to reveal the answer letter by letter or through helpful hints.",
+                "The article offers additional related clues and connections to enhance the crossword-solving experience.",
+                "This reflects a broader interest in crosswords and puzzle-solving as a popular pastime."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "online lottery",
+        "llm_analysis": {
+            "context": "The rise of online lottery services is revolutionizing the way players participate in lottery games, offering convenience and accessibility through mobile apps.",
+            "summary": [
+                "Online lottery platforms allow users to purchase tickets from the comfort of their homes.",
+                "Features include ticket scans, notifications of winnings, and instant deposits of prizes.",
+                "The convenience of mobile ordering caters to tech-savvy players seeking seamless experiences.",
+                "Positive customer testimonials highlight the ease and enjoyment of using these services.",
+                "Legitimate operations partner with authorized retailers to ensure compliance with state laws."
+            ],
+            "category": "Finance"
+        }
+    },
+    {
+        "trend_query": "michelle obama daughters",
+        "llm_analysis": {
+            "context": "Michelle Obama and her daughters, Malia and Sasha, are often in the spotlight together, showcasing family moments during their time in the White House.",
+            "summary": [
+                "Michelle Obama served as First Lady from 2009 to 2017, with her daughters playing active roles in public events.",
+                "Malia and Sasha Obama were frequently seen alongside their parents at various official functions and family gatherings.",
+                "The family participated in numerous traditions, such as the Easter Egg Roll and Christmas tree lighting ceremonies at the White House.",
+                "Michelle and her daughters were involved in community service and educational events, reflecting their commitment to social causes.",
+                "The Obama family often engaged in lighthearted family activities, showcasing a relatable side of their lives in the public eye."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "classroom",
+        "llm_analysis": {
+            "context": "Google Classroom is a platform that enhances teaching and learning by providing personalized, manageable, and measurable educational experiences.",
+            "summary": [
+                "Google Classroom is part of Google Workspace for Education, designed to create engaging learning environments.",
+                "It incorporates features such as real-time feedback, interactive assignments, and personalized learning tools.",
+                "Premium tools support differentiated instruction, academic integrity, and self-paced learning for students.",
+                "The platform integrates seamlessly with popular EdTech tools and supports educators through analytics and lesson planning.",
+                "Security and privacy are prioritized, making it a reliable tool for educational institutions of all sizes."
+            ],
+            "category": "Education"
+        }
+    },
+    {
+        "trend_query": "pedro pascal",
+        "llm_analysis": {
+            "context": "Pedro Pascal has emerged as a prominent actor with notable roles in series like 'The Mandalorian' and 'The Last of Us.'",
+            "summary": [
+                "Pedro Pascal is a Chilean-American actor born on April 2, 1975, in Santiago, Chile.",
+                "He became famous for his roles as Oberyn Martell in 'Game of Thrones' and Javier Pe\u00f1a in 'Narcos.'",
+                "His recent lead roles in 'The Mandalorian' and 'The Last of Us' have garnered him significant acclaim and recognition.",
+                "Pascal has a background in theater and has been active since 1996, appearing in various films and TV shows.",
+                "He was named one of the 100 most influential people in the world by Time magazine in 2023."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "beauden barrett",
+        "llm_analysis": {
+            "context": "Beauden Barrett, a prominent New Zealand rugby union player, is recognized for his exceptional contributions to the sport and numerous accolades.",
+            "summary": [
+                "Born on May 27, 1991, in New Plymouth, New Zealand.",
+                "Plays as a fly half or fullback for the Blues in Super Rugby and Taranaki in the National Provincial Championship.",
+                "Won the World Rugby Player of the Year award in 2016 and 2017, being only the second player to do so consecutively.",
+                "Debuted for the All Blacks in 2012 and has since played over 130 international matches, scoring 772 points.",
+                "Holds the world record for consecutive wins since his first test, achieving 19 wins from 19 tests."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "oakmont country club OR weather today",
+        "llm_analysis": {
+            "context": "Oakmont Country Club weather today indicates a warm 76\u00b0F with humidity and possible thunderstorms.",
+            "summary": [
+                "Current temperature at Oakmont Country Club is 69\u00b0F.",
+                "Today's high is expected to reach 76\u00b0F with humidity.",
+                "Afternoon thunderstorms are possible, with a stray shower forecasted in the morning.",
+                "Tonight will remain humid with the possibility of brief showers.",
+                "The air quality is currently rated as fair."
+            ],
+            "category": "Weather"
+        }
+    },
+    {
+        "trend_query": "okc vs pacers",
+        "llm_analysis": {
+            "context": "The Indiana Pacers face a crucial Game 5 against the Oklahoma City Thunder in the 2025 NBA Finals, aiming to secure a win in a challenging environment.",
+            "summary": [
+                "The Pacers have a strong 7-3 record in road games during the playoffs, showcasing their resilience.",
+                "Game 5 will test Indiana's ability to perform under pressure in a hostile arena.",
+                "Key players like Tyrese Haliburton and Pascal Siakam will need to step up for the Pacers to succeed.",
+                "The Thunder's home crowd at Paycom Center poses significant challenges for visiting teams.",
+                "Winning Game 5 is critical for the Pacers' championship aspirations, potentially leading to a decisive Game 7."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "yanfei bao",
+        "llm_analysis": {
+            "context": "Yanfei Bao, a real estate agent in New Zealand, was kidnapped and murdered in 2023, leading to a high-profile trial and conviction of her assailant, Tingjun Cao.",
+            "summary": [
+                "Yanfei Bao went missing on July 19, 2023, in Christchurch, New Zealand.",
+                "Tingjun Cao, arrested while attempting to flee to China, was charged with her kidnapping and murder.",
+                "Police launched a homicide investigation after her disappearance, resulting in extensive searches.",
+                "Bao's remains were found in a shallow grave on July 30, 2024, confirming her death.",
+                "Cao was convicted of murder in December 2024 and sentenced to life imprisonment with a minimum term of 17 years."
+            ],
+            "category": "Crime"
+        }
+    },
+    {
+        "trend_query": "jimmy carr",
+        "llm_analysis": {
+            "context": "Jimmy Carr has launched his new tour, 'Laughs Funny,' with dates in Australia and New Zealand.",
+            "summary": [
+                "The tour features all-new comedic material from Jimmy Carr.",
+                "Tickets are now on sale for performances in multiple regions including Australia, New Zealand, the USA, and Europe.",
+                "Fans can find specific tour dates and purchase tickets through his official website.",
+                "In addition to live performances, Jimmy's content is available on Netflix and YouTube.",
+                "Subscribers to his mailing list can receive updates and announcements about the tour."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "okc",
+        "llm_analysis": {
+            "context": "The Oklahoma City Thunder are dominating the NBA with a remarkable season and are facing the Indiana Pacers in the NBA Finals.",
+            "summary": [
+                "The Oklahoma City Thunder finished the regular season with an impressive 68-14 record, leading their division.",
+                "They are currently competing in the 2025 NBA Finals against the Indiana Pacers, tied at 2-2 in the series.",
+                "Shai Gilgeous-Alexander has emerged as a key player, averaging 32.7 points per game and contributing significantly to the team's successes.",
+                "The Thunder are noted for their robust offensive performance, averaging 120.5 points per game over the season.",
+                "With momentum on their side, the Thunder are considered favorites to win the championship in the ongoing Finals."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "world cup qualifiers OR belgium vs wales",
+        "llm_analysis": {
+            "context": "Belgium defeated Wales 4-3 in a thrilling World Cup qualifier match.",
+            "summary": [
+                "Belgium initially took a 3-0 lead with goals from Romelu Lukaku, Youri Tielemans, and J\u00e9r\u00e9my Doku.",
+                "Wales made a strong comeback, scoring three goals, including Harry Wilson's penalty and Sorba Thomas's first international goal.",
+                "The match ended with a late winner from Kevin De Bruyne for Belgium, sealing their victory.",
+                "Belgium's victory came after a tight, competitive match that showcased both teams' talents.",
+                "Cymru head coach Craig Bellamy expressed pride in his team's fighting spirit, despite the loss."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "hero",
+        "llm_analysis": {
+            "context": "Hero Cosmetics is promoting new skincare products and celebrating Pride Month with special offers.",
+            "summary": [
+                "Hero Cosmetics is offering a free coloring kit designed by a queer artist with purchases over $35 as part of their Pride Month celebration.",
+                "The brand features their top-selling product, Mighty Patch\u2122, which promises to reduce the appearance of pimples in a single use.",
+                "Customers can enjoy a 15% discount on curated skincare duos named 'Perfect Pairings' for effective skincare.",
+                "Logged-in users can choose two free samples with each order, enhancing customer engagement and satisfaction.",
+                "Limited-time offers are highlighted to create urgency for shoppers."
+            ],
+            "category": "Beauty & Skincare"
+        }
+    },
+    {
+        "trend_query": "austria",
+        "llm_analysis": {
+            "context": "Austria is a landlocked country in Central Europe known for its rich history, cultural heritage, and vibrant cities.",
+            "summary": [
+                "Austria is a federal republic made up of nine states, with Vienna as its capital and largest city.",
+                "It is bordered by several countries including Germany, Slovakia, Hungary, and Italy.",
+                "The official language is German, with Austrian German recognized as a national variant.",
+                "Austria has a population of approximately 9 million and covers an area of 83,879 km\u00b2.",
+                "It is part of the European Union and has a strong economy, with a high standard of living and a diverse cultural landscape."
+            ],
+            "category": "Geography"
+        }
+    },
+    {
+        "trend_query": "all blacks",
+        "llm_analysis": {
+            "context": "The All Blacks are enhancing their global presence with exclusive content for rugby fans worldwide.",
+            "summary": [
+                "The All Blacks are a renowned New Zealand rugby team with a strong international following.",
+                "They are promoting exclusive podcasts, news, and videos related to their matches and athletes.",
+                "Recent content features discussions between rugby legends about current events in the rugby world.",
+                "The All Blacks' women's team, the Black Ferns, is also highlighted in various media pieces.",
+                "Fans are encouraged to connect with their teams and experiences through various digital platforms."
+            ],
+            "category": "Sports"
+        }
+    },
+    {
+        "trend_query": "prince",
+        "llm_analysis": {
+            "context": "Prince Rogers Nelson was a highly influential American musician known for his eclectic music style and striking persona.",
+            "summary": [
+                "He was born on June 7, 1958, in Minneapolis, Minnesota, and died on April 21, 2016, due to an accidental overdose.",
+                "Prince was a multi-talented artist, serving as a singer, songwriter, musician, and actor, and he played most instruments on his recordings.",
+                "His music blended various genres, including funk, rock, R&B, and pop, helping to pioneer the Minneapolis sound.",
+                "Prince achieved major success with hit songs and albums, most notably with the soundtrack for the film 'Purple Rain,' which topped charts and won an Academy Award.",
+                "After his death, Prince's estate released numerous posthumous collections of his work, showcasing his vast catalog of unreleased material."
+            ],
+            "category": "Music"
+        }
+    },
+    {
+        "trend_query": "frederick forsyth",
+        "llm_analysis": {
+            "context": "Frederick Forsyth, renowned English novelist and journalist, passed away on June 9, 2025, leaving behind a legacy of classic thrillers.",
+            "summary": [
+                "Forsyth was born on August 25, 1938, in Ashford, England, and had a successful career in writing and journalism.",
+                "He achieved fame with bestsellers such as _The Day of the Jackal_, _The Odessa File_, and _The Fourth Protocol_, often rooted in political intrigue.",
+                "Forsyth's novels have sold over 70 million copies worldwide and many have been adapted into films.",
+                "Before his writing career, he served as a pilot in the Royal Air Force and later as a journalist for outlets including the BBC and Reuters.",
+                "Forsyth was also known for his controversial political views, having written columns for newspapers like the Daily Express. "
+            ],
+            "category": "Literature"
+        }
+    },
+    {
+        "trend_query": "wordle today OR wordle",
+        "llm_analysis": {
+            "context": "The popular word puzzle game Wordle continues to attract players with daily challenges and community discussions.",
+            "summary": [
+                "Wordle is a daily word puzzle game that challenges players to guess a five-letter word in six tries.",
+                "Players often share their results and strategies online, fostering a sense of community.",
+                "The game's simplicity and accessibility contribute to its widespread appeal.",
+                "Various publications, including Tom's Guide, provide hints and solutions for the daily puzzles.",
+                "Wordle remains popular among different age groups, enhancing its status as a cultural phenomenon."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "guardian",
+        "llm_analysis": {
+            "context": "Iran and Israel are engaged in escalating military confrontation, while Iran seeks urgent negotiations to de-escalate the situation.",
+            "summary": [
+                "Iran and Israel have traded missile strikes for four consecutive days.",
+                "Iran is reportedly looking for urgent diplomatic negotiations to halt the conflict.",
+                "The Israeli military has conducted activities targeting Iranian missile sites.",
+                "Civilians in both countries have suffered significant damage from the strikes.",
+                "The situation remains tense, with both nations threatening further military action."
+            ],
+            "category": "Politics"
+        }
+    },
+    {
+        "trend_query": "sky",
+        "llm_analysis": {
+            "context": "Sky is promoting its new low-priced TV and broadband bundles in the UK.",
+            "summary": [
+                "Sky is offering its lowest price ever for TV packages, starting at \u00a315 per month.",
+                "Customers can get Sky TV, Netflix, and discovery+ with Full Fibre broadband for \u00a335 per month.",
+                "New products like the Sky Glass Air TV are available from \u00a36 a month with a subscription.",
+                "Sky is also enhancing its sports offerings, increasing live Premier League game coverage from 128 to 215 games.",
+                "Various mobile options, including Samsung Galaxy devices with additional gifts, are being promoted alongside TV services."
+            ],
+            "category": "Entertainment"
+        }
+    },
+    {
+        "trend_query": "taranaki daily news",
+        "llm_analysis": {
+            "context": "Taranaki faces a range of recent news including a tragic boating incident and ongoing road repairs.",
+            "summary": [
+                "A 6-year-old boy was tragically killed in a boating accident off the coast of South Taranaki, with only his father rescued from the water.",
+                "Significant delays are expected on State Highway 3 due to ongoing repair works through Awakino Gorge, affecting motorists traveling between Hamilton and New Plymouth.",
+                "A last-minute decision prevented a military settler's name from being included in the new reo M\u0101ori name for a park in New Plymouth.",
+                "Police have issued warnings regarding scams related to firewood sales as winter approaches, urging the public to remain vigilant.",
+                "Local hap\u016b are requesting the Waitangi Tribunal to intervene and halt a fast-tracked seabed mining project off P\u0101tea."
+            ],
+            "category": "Local News"
+        }
+    },
+    {
+        "trend_query": "daily mail",
+        "llm_analysis": {
+            "context": "The Daily Mail is featuring controversial headlines related to immigration, international conflicts, and high-profile celebrity stories.",
+            "summary": [
+                "President Trump announced a directive to increase ICE raids, targeting liberal cities due to illegal immigration issues.",
+                "Iran has launched missile attacks on Israel, prompting a military response and concerns over escalating conflicts.",
+                "A Minnesota man faces second-degree murder charges for the deaths of a former political speaker and her husband.",
+                "A 14-year-old in Minnesota died from a rare bacterial infection, raising health warnings.",
+                "A deadly fungus is spreading across the U.S., posing significant health risks to the population."
+            ],
+            "category": "News"
+        }
+    },
+    {
+        "trend_query": "daily mail",
+        "llm_analysis": {
+            "context": "The Daily Mail experiences fluctuating reader engagement driven by major news events and celebrity stories.",
+            "summary": [
+                "The Daily Mail covers a wide range of topics, including politics, health, and entertainment.",
+                "President Trump's recent immigration policy impacts liberal cities significantly.",
+                "A rare bacterial infection results in the tragic death of a teenager, raising health concerns.",
+                "Reports highlight the escalation of tensions between Iran and Israel, with military actions reported.",
+                "Celebrity gossip continues to capture interest, with stories about figures like Hailey Bieber and Britney Spears."
+            ],
+            "category": "News"
+        }
+    }
+]
