@@ -1,0 +1,2748 @@
+{
+    "search_metadata": {
+        "id": "search_mOgBEZe50gHjo08OgkzwL3jW",
+        "status": "Success",
+        "created_at": "2025-06-16T09:10:12Z",
+        "request_time_taken": 0.56,
+        "parsing_time_taken": 0.01,
+        "total_time_taken": 0.57,
+        "request_url": "https://trends.google.com/trending?geo=NZ&hl=en&hours=168",
+        "html_url": "https://www.searchapi.io/api/v1/searches/search_mOgBEZe50gHjo08OgkzwL3jW.html",
+        "json_url": "https://www.searchapi.io/api/v1/searches/search_mOgBEZe50gHjo08OgkzwL3jW"
+    },
+    "search_parameters": {
+        "engine": "google_trends_trending_now",
+        "geo": "NZ",
+        "time": "past_7_days",
+        "hl": "en"
+    },
+    "trends": [
+        {
+            "position": 1,
+            "query": "iran",
+            "search_volume": 50000,
+            "percentage_increase": 900,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-13T00:10:00Z",
+            "is_active": true,
+            "keywords": [
+                "iran",
+                "israel iran",
+                "israel",
+                "iran israel",
+                "israel news",
+                "al jazeera",
+                "tel aviv",
+                "iran news",
+                "bbc",
+                "iranian",
+                "israel attacks iran",
+                "bbc news",
+                "iran tehran",
+                "israel attack iran",
+                "world news",
+                "cnn news",
+                "tehran",
+                "hossein salami",
+                "israel attacks iran map",
+                "news today",
+                "daily mail"
+            ],
+            "news_token": "W1szODMzMTY5MzQ1LCJlbiIsIk5aIl0sWzM4Mzc3MTMwNzgsImVuIiwiTloiXSxbMzgyMDg1ODE1OSwiZW4iLCJOWiJdLFszODQ3MzQyMTk1LCJlbiIsIk5aIl0sWzM4NDcwNDAxMTEsImVuIiwiTloiXSxbMzgzMDIyNTU4NSwiZW4iLCJOWiJdLFszODQyMDI2OTI2LCJlbiIsIk5aIl0sWzM4MTgyOTc5NDAsImVuIiwiTloiXSxbMzgzMTEyMjgxOSwiZW4iLCJOWiJdLFszODMzMTY5MzQ1LCJlbiIsIlVTIl0sWzM4NDE3Nzg0MzAsImVuIiwiVVMiXSxbMzgzMjcwODU1NCwiZW4iLCJVUyJdLFszODI3ODEwMTg4LCJlbiIsIlVTIl0sWzM4MzU1OTYwMDYsImVuIiwiVVMiXSxbMzgwOTYxNTY2NSwiZW4iLCJVUyJdLFszODE1NjE3MDY1LCJlbiIsIlVTIl0sWzM4Mzc3MTMwNzgsImVuIiwiVVMiXSxbMzg0MTQ0NzYyNSwiZW4iLCJVUyJdLFszODM1NjkxMzQzLCJlbiIsIlVTIl0sWzM4MDM4NTI1NjksImVuIiwiVVMiXSxbMzc3MDk0NTc3MCwiZW4iLCJVUyJdLFszODM4NjU4NDM4LCJlbiIsIlVTIl0sWzM4MzgwNzk5MTUsImVuIiwiVVMiXSxbMzgyNDg2ODQ3OCwiZW4iLCJVUyJdLFszODM0Nzk1MDc2LCJlbiIsIlVTIl0sWzM4Mzg5NjIyODYsImVuIiwiVVMiXSxbMzgwMjM2MDcyMiwiZW4iLCJVUyJdLFszODM0MTc2NDU0LCJlbiIsIlVTIl0sWzM4MjkyODQwMjcsImVuIiwiVVMiXSxbMzgzMjI0MjIzNCwiZW4iLCJVUyJdLFszNzUzODU5Njk4LCJlbiIsIlVTIl0sWzM3NjE4NTU0MTMsImVuIiwiVVMiXSxbMzc1NjMyMDgwMywiZW4iLCJVUyJdLFszNzYzNTg3ODQxLCJlbiIsIlVTIl0sWzM4MTQ1NjA4ODgsImVuIiwiVVMiXSxbMzg0NzQ1NTM3NCwiZW4iLCJOWiJdLFszODM5NTkwMzgzLCJlbiIsIk5aIl0sWzM4NDIyMjg2OTMsImVuIiwiTloiXSxbMzgxMjUwNjE5NSwiZW4iLCJOWiJdLFszODQwNDAwMTU5LCJlbiIsIlVTIl0sWzM4Mzk5ODY2NTMsImVuIiwiTloiXSxbMzgzMzI0NzczNCwiZW4iLCJOWiJdLFszODM0NzYzNzcyLCJlbiIsIk5aIl0sWzM4Mjk2NDM5NjAsImVuIiwiTloiXSxbMzg0MDY3NTI0MywiZW4iLCJOWiJdLFszODM0MTc2NDU0LCJlbiIsIk5aIl0sWzM3OTM2MjY4NTgsImVuIiwiTloiXSxbMzg0NDgyMTUyMywiZW4iLCJOWiJdLFszODQzNDU3NzA0LCJlbiIsIk5aIl0sWzM3OTIxMTcwNjksImVuIiwiTloiXSxbMzg0NzMwNzU3MywiZW4iLCJOWiJdLFszODM5MDc2NDU4LCJlbiIsIk5aIl0sWzM3NTIxNDY1NzIsImVuIiwiTloiXSxbMzgyMzE0MDgxNSwiZW4iLCJOWiJdLFszODE4MjA1ODExLCJlbiIsIk5aIl0sWzM4NDEzMTgyNTIsImVuIiwiTloiXSxbMzgzMDYyMTUzOCwiZW4iLCJOWiJdLFszODMzMzE4MDYwLCJlbiIsIk5aIl0sWzM4MjQ3MDA0NjEsImVuIiwiTloiXSxbMzg0NDEyMjgyOSwiZW4iLCJVUyJdLFszODQ3MDA0NTQ2LCJlbiIsIlVTIl0sWzM4MzA2MjE1MzgsImVuIiwiVVMiXSxbMzg0NzgyNTA4NSwiZW4iLCJOWiJdLFszODMyOTAxNzQyLCJlbiIsIk5aIl0sWzM4NDIxOTEyODMsImVuIiwiTloiXSxbMzg0Mzg5ODk3MywiZW4iLCJOWiJdLFszODM0MjUwMTM0LCJlbiIsIlVTIl0sWzM4NDE3NTE4NzgsImVuIiwiTloiXSxbMzg0MDQ4MDUxMCwiZW4iLCJOWiJdLFszODIzMDczODkzLCJlbiIsIk5aIl0sWzM3OTA2NzMyNDQsImVuIiwiTloiXSxbMzgzNDQwMjY5MCwiZW4iLCJOWiJdLFszODM4MzExNjcxLCJlbiIsIk5aIl0sWzM4MjQ4NzM4MDYsImVuIiwiTloiXSxbMzgzNjczNjAzMywiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 2,
+            "query": "air india crash",
+            "search_volume": 50000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-12T09:10:00Z",
+            "is_active": true,
+            "keywords": [
+                "air india crash",
+                "air india",
+                "india plane crash",
+                "plane crash",
+                "air india plane crash",
+                "plane crash india",
+                "ahmedabad",
+                "ai171",
+                "indian plane crash",
+                "boeing",
+                "boeing 787",
+                "campbell wilson",
+                "india news",
+                "air india flight",
+                "times of india"
+            ],
+            "news_token": "W1szODM0MTc2NDU0LCJlbiIsIk5aIl0sWzM3ODEyNjMxMTIsImVuIiwiTloiXSxbMzgzODY4MzAxMCwiZW4iLCJOWiJdLFszODM1NzI0NzkxLCJlbiIsIk5aIl0sWzM4MzcyNDc0MjUsImVuIiwiTloiXSxbMzgzNzk5Njk5MCwiZW4iLCJOWiJdLFszODM4MDI0MDQzLCJlbiIsIk5aIl0sWzM4MDgyNDY3NTMsImVuIiwiTloiXSxbMzgzNzU5NjQ4MiwiZW4iLCJOWiJdLFszNzI1NTM5MDkyLCJlbiIsIk5aIl0sWzM3NTQyOTQ0MjQsImVuIiwiTloiXSxbMzgzNDE3NjQ1NCwiZW4iLCJVUyJdLFszODM1ODAzNDUzLCJlbiIsIk5aIl0sWzM4Mzk5NjgyMjQsImVuIiwiTloiXSxbMzgyMjAwMTQ2MiwiZW4iLCJOWiJdLFszODIyMjcyMDg2LCJlbiIsIk5aIl0sWzM4MzczODU0NjksImVuIiwiTloiXSxbMzg0NTUwNTU5NSwiZW4iLCJOWiJdLFszODQwMDU0OTI1LCJlbiIsIk5aIl0sWzM4NDEyODkyNzEsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 3,
+            "query": "fathers day",
+            "search_volume": 10000,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-14T11:40:00Z",
+            "is_active": true,
+            "keywords": [
+                "fathers day",
+                "father's day"
+            ],
+            "news_token": "W1szODIwNTQ1Mzg4LCJlbiIsIlVTIl0sWzM4MjgyMTA0NzksImVuIiwiVVMiXSxbMzgyNzkzODk0OSwiZW4iLCJVUyJdLFszODQ2NDAzNTI0LCJlbiIsIlVTIl0sWzM4MzkwNzY1NzIsImVuIiwiVVMiXSxbMzgzOTM0MTI0MSwiZW4iLCJVUyJdLFszODM5Mzk3NDY5LCJlbiIsIlVTIl0sWzM4MzkyODY3MDQsImVuIiwiVVMiXSxbMzgzMDcwNTk5NywiZW4iLCJVUyJdLFszODM5MTMyOTM1LCJlbiIsIlVTIl0sWzM4NDY2MzE3MDIsImVuIiwiVVMiXSxbMzg0NTcyMzU0MiwiZW4iLCJVUyJdLFszODI0ODY4NDcxLCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 4,
+            "query": "us open golf",
+            "search_volume": 50000,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-11T18:10:00Z",
+            "end_date": "2025-06-16T08:20:00Z",
+            "time_active_minutes": 6610,
+            "keywords": [
+                "us open golf",
+                "us open",
+                "us open leaderboard",
+                "jj spaun",
+                "j. j. spaun",
+                "robert macintyre",
+                "us open 2025",
+                "pga",
+                "rory mcilroy",
+                "us open leaderboard 2025",
+                "usopen golf",
+                "pga leaderboard",
+                "us open golf leaderboard 2025"
+            ],
+            "news_token": "W1szODM1MzE3NTcyLCJlbiIsIk5aIl0sWzM4NDM1MjY0MTksImVuIiwiTloiXSxbMzg0NzE5OTM5OSwiZW4iLCJOWiJdLFszODM5MzUwNTcxLCJlbiIsIk5aIl0sWzM4MzgyMDc1NzcsImVuIiwiTloiXSxbMzg0NzYwMTQzOCwiZW4iLCJOWiJdLFszODM0Mjg0ODA2LCJlbiIsIk5aIl0sWzM4MzM1OTc0NDksImVuIiwiTloiXSxbMzgxNjI3OTc4MiwiZW4iLCJOWiJdLFszODI2NzMzNTcwLCJlbiIsIk5aIl0sWzM4NDM1ODk2NjUsImVuIiwiTloiXSxbMzg0Nzc5NzA0NSwiZW4iLCJOWiJdLFszODQ2MzM2NDYzLCJlbiIsIk5aIl0sWzM4MzkyOTU4MTgsImVuIiwiTloiXSxbMzg0NTQ3ODMwMSwiZW4iLCJOWiJdLFszODM2MjM5MTc3LCJlbiIsIk5aIl0sWzM4MTUzODY5MDAsImVuIiwiTloiXSxbMzc0NzAzOTE5OSwiZW4iLCJOWiJdLFszNzQxMzc5MjA0LCJlbiIsIk5aIl0sWzM4MzkyMDc3MDcsImVuIiwiTloiXSxbMzg0MDM5MjY3NSwiZW4iLCJOWiJdLFszODM1MzM4MTE2LCJlbiIsIk5aIl0sWzM4MjE4MTAxMzksImVuIiwiTloiXSxbMzgyNDk1NDM0NSwiZW4iLCJOWiJdLFszODM1NTIzMjI4LCJlbiIsIk5aIl0sWzM4MzE4MDMzODEsImVuIiwiTloiXSxbMzgzMzc0NTk1MiwiZW4iLCJOWiJdLFszNzgxODkxNjk2LCJlbiIsIk5aIl0sWzM3NDE4ODQwODgsImVuIiwiTloiXSxbMzgyODg1OTUwNSwiZW4iLCJOWiJdLFszNzgwODk1MDE2LCJlbiIsIk5aIl0sWzM4MzI1NzQyNzksImVuIiwiTloiXSxbMzgzNzk2MzUzMiwiZW4iLCJOWiJdLFszODExMTAwNjI4LCJlbiIsIk5aIl0sWzM4MjIxODMwNjYsImVuIiwiTloiXSxbMzgzNjQxOTc0OSwiZW4iLCJOWiJdLFszODM3NTI1ODA0LCJlbiIsIk5aIl0sWzM4MzYxMjUxODgsImVuIiwiTloiXSxbMzgzMzA3MDUyOCwiZW4iLCJOWiJdLFszODM1NjAyOTEyLCJlbiIsIk5aIl0sWzM4MzQyMTU3MzcsImVuIiwiTloiXSxbMzgyNDYwNDA2MiwiZW4iLCJOWiJdLFszODM2MjcwNzE4LCJlbiIsIk5aIl0sWzM4NDM1ODI0MDAsImVuIiwiTloiXSxbMzg0NjY3ODE3MCwiZW4iLCJOWiJdLFszODE2NzU5NTIwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 5,
+            "query": "club world cup",
+            "search_volume": 20000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T19:10:00Z",
+            "end_date": "2025-06-16T07:00:00Z",
+            "time_active_minutes": 2150,
+            "keywords": [
+                "club world cup",
+                "fifa club world cup",
+                "auckland city fc",
+                "bayern vs auckland city",
+                "bayern munich",
+                "auckland fc",
+                "auckland city",
+                "auckland city vs bayern munich",
+                "club world cup 2025",
+                "auckland fc vs bayern munich",
+                "bayern munich vs auckland city fc"
+            ],
+            "news_token": "W1szNzY3MDUxNDI4LCJlbiIsIk5aIl0sWzM3NjMzNDg0MzksImVuIiwiTloiXSxbMzgzNDM1MTU2NiwiZW4iLCJOWiJdLFszODE0Njk4MzkyLCJlbiIsIk5aIl0sWzM4MjkwODc4MTEsImVuIiwiTloiXSxbMzgwMjQ5OTM1NywiZW4iLCJOWiJdLFszODQ3NDczMjc5LCJlbiIsIk5aIl0sWzM4NDAwNDczNjYsImVuIiwiTloiXSxbMzgyNTE5Njc0NCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 6,
+            "query": "chiefs vs brumbies",
+            "search_volume": 20000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T06:50:00Z",
+            "end_date": "2025-06-15T17:10:00Z",
+            "time_active_minutes": 3500,
+            "keywords": [
+                "chiefs vs brumbies",
+                "brumbies vs chiefs",
+                "chiefs vs brumbies 2025",
+                "brumbies",
+                "chiefs brumbies",
+                "damian mckenzie",
+                "chiefs rugby",
+                "chiefs v brumbies",
+                "super rugby finals",
+                "super rugby final",
+                "rugby",
+                "rugby tonight",
+                "chiefs vs brumbies live score"
+            ],
+            "news_token": "W1szNzg5NTM1NTc0LCJlbiIsIk5aIl0sWzM4MzMxNjk0MzAsImVuIiwiTloiXSxbMzg0Mjk4MTUxNSwiZW4iLCJOWiJdLFszODQwNTgxODI0LCJlbiIsIk5aIl0sWzM4NDE1MzgzNTQsImVuIiwiTloiXSxbMzg0MTM3ODgzNiwiZW4iLCJOWiJdLFszODQxMjE0NTIyLCJlbiIsIk5aIl0sWzM4MjQ1OTE1ODcsImVuIiwiTloiXSxbMzg0Mjc5NDI4OCwiZW4iLCJOWiJdLFszODQwNDExNDM2LCJlbiIsIk5aIl0sWzM4MTkwODU3NzQsImVuIiwiTloiXSxbMzgzOTIwODAzNiwiZW4iLCJOWiJdLFszODQ0MTUwOTg0LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 7,
+            "query": "matariki",
+            "search_volume": 5000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-15T19:40:00Z",
+            "end_date": "2025-06-16T03:20:00Z",
+            "time_active_minutes": 460,
+            "keywords": [
+                "matariki"
+            ],
+            "news_token": "W1szNzk5Njk4MDA3LCJlbiIsIk5aIl0sWzM4NDcxOTEwMjYsImVuIiwiTloiXSxbMzgxNTU0MTM5OSwiZW4iLCJOWiJdLFszODE5OTY0NTM4LCJlbiIsIk5aIl0sWzM4NDY0ODU3NjgsImVuIiwiTloiXSxbMzg0Njc3MjQ1NSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 8,
+            "query": "australia vs south africa",
+            "search_volume": 20000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-11T09:30:00Z",
+            "end_date": "2025-06-15T02:20:00Z",
+            "time_active_minutes": 5330,
+            "keywords": [
+                "australia vs south africa",
+                "wtc final",
+                "cricket",
+                "cricinfo",
+                "south africa vs australia",
+                "world test championship final",
+                "aiden markram",
+                "test championship final",
+                "icc",
+                "sa vs aus",
+                "aus vs sa wtc final"
+            ],
+            "news_token": "W1szODMxMTQ3MDQxLCJlbiIsIk5aIl0sWzM4MzcxNzA4NjksImVuIiwiTloiXSxbMzg0NDYwMzAwOCwiZW4iLCJOWiJdLFszODEwNTUyMzg3LCJlbiIsIk5aIl0sWzM4NDAzNTM0NTMsImVuIiwiTloiXSxbMzg0NDYzNjQ4NCwiZW4iLCJOWiJdLFszODQ0NjgzNDYxLCJlbiIsIk5aIl0sWzM4MjM2MDE3ODYsImVuIiwiTloiXSxbMzg0MTgwMDMzMCwiZW4iLCJOWiJdLFszODQ0NDYzNzMyLCJlbiIsIk5aIl0sWzM4Mjk3NjAyOTUsImVuIiwiTloiXSxbMzgzNDI1ODI2MywiZW4iLCJOWiJdLFszODQyMjIwODIxLCJlbiIsIk5aIl0sWzM4NDIzODM0OTUsImVuIiwiTloiXSxbMzgyMDUyNTYxNCwiZW4iLCJOWiJdLFszODI5ODU4NjQ2LCJlbiIsIk5aIl0sWzM4MzkzMTE1MjYsImVuIiwiTloiXSxbMzc4NjMyNjM3MSwiZW4iLCJOWiJdLFszODQwNDU3OTc5LCJlbiIsIk5aIl0sWzM0ODE4Njc2NjIsImVuIiwiTloiXSxbMzgyOTYyNTgyNiwiZW4iLCJOWiJdLFszODM4MDE3NTYxLCJlbiIsIk5aIl0sWzM4Mzg2OTc2ODUsImVuIiwiTloiXSxbMzgzNDMxMjM5NCwiZW4iLCJOWiJdLFszODM0ODEwODI5LCJlbiIsIk5aIl0sWzM4NDE3NDUyNzQsImVuIiwiTloiXSxbMzgxMDY0NDQ3MywiZW4iLCJOWiJdLFszODM2NzcyODM3LCJlbiIsIk5aIl0sWzM4MjUzNDg0ODIsImVuIiwiTloiXSxbMzgzMDM3ODk3MiwiZW4iLCJOWiJdLFszODA3NTI4MzcwLCJlbiIsIk5aIl0sWzM4Mjk1MjIxMjEsImVuIiwiTloiXSxbMzgzNDg3OTc2MSwiZW4iLCJOWiJdLFszODM3NTI1NTQ2LCJlbiIsIk5aIl0sWzM4MzgwMzU1MDAsImVuIiwiTloiXSxbMzgyODE5ODc2NSwiZW4iLCJOWiJdLFszODM4MDM2MDYwLCJlbiIsIk5aIl0sWzM4MDk5NjA1ODQsImVuIiwiTloiXSxbMzgzNzc4MTIwMywiZW4iLCJOWiJdLFszODE3MTI2NTM3LCJlbiIsIk5aIl0sWzM4MzExMTY0MjQsImVuIiwiTloiXSxbMzgzMTE0NzA0MSwiZGUiLCJOWiJdLFszNDgxODY3NjYyLCJkZSIsIk5aIl0sWzM4MzQ4MTA4MjksImRlIiwiTloiXSxbMzc4NjMyNjM3MSwiZGUiLCJOWiJdLFszODIwNjYxODQ3LCJlbiIsIk5aIl0sWzM4MzM4MjE4MTgsImVuIiwiTloiXSxbMzc5NDc0OTQyMiwiZW4iLCJOWiJdLFszODMyNjU0OTUwLCJlbiIsIk5aIl0sWzM4MzEwNTk3MjYsImVuIiwiTloiXSxbMzgzNDM5NjEyMCwiZW4iLCJOWiJdLFszODI4NjEwNDYwLCJlbiIsIk5aIl0sWzM4MjkyOTI4ODUsImVuIiwiTloiXSxbMzgyOTk4ODA5MSwiZW4iLCJOWiJdLFszODQ0ODExNDE4LCJlbiIsIk5aIl0sWzM4MzAxMTg3OTksImVuIiwiTloiXSxbMzgzNTQxNDc1OCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 9,
+            "query": "crusaders v blues",
+            "search_volume": 20000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T03:20:00Z",
+            "end_date": "2025-06-14T10:00:00Z",
+            "time_active_minutes": 1840,
+            "keywords": [
+                "crusaders v blues",
+                "blues vs crusaders",
+                "crusaders vs blues",
+                "blues",
+                "crusaders",
+                "blues crusaders",
+                "blues v crusaders",
+                "crusaders blues",
+                "super rugby final 2025",
+                "will jordan",
+                "super rugby",
+                "super rugby final",
+                "blues rugby",
+                "blues vs crusaders live",
+                "blues vs crusaders 2025"
+            ],
+            "news_token": "W1szODMzMTY5NDMwLCJlbiIsIk5aIl0sWzM3ODk1MzU1NzQsImVuIiwiTloiXSxbMzg0MDU4MTgyNCwiZW4iLCJOWiJdLFszODM1NDE5NzE0LCJlbiIsIk5aIl0sWzM4MTY4NzU0MzAsImVuIiwiTloiXSxbMzgyODI0MzY3MCwiZW4iLCJOWiJdLFszODM2NTk4Njk3LCJlbiIsIk5aIl0sWzM4MzkyMTY5ODQsImVuIiwiTloiXSxbMzgzNjY1MDIyMSwiZW4iLCJOWiJdLFszODM2NDQyOTY0LCJlbiIsIk5aIl0sWzM4MzM0MTI2MDksImVuIiwiTloiXSxbMzgyMTExNzk0NSwiZW4iLCJOWiJdLFszODE4NDk4OTcxLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 10,
+            "query": "government sick leave",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-16T07:30:00Z",
+            "end_date": "2025-06-16T08:40:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "government sick leave"
+            ],
+            "news_token": "W1szODQ2MjE3NTE1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 11,
+            "query": "us open prize money",
+            "search_volume": 1000,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T18:50:00Z",
+            "end_date": "2025-06-16T07:50:00Z",
+            "time_active_minutes": 780,
+            "keywords": [
+                "us open prize money"
+            ],
+            "news_token": "W1szODQ3NjAxNDM4LCJlbiIsIk5aIl0sWzM4MzM1OTc0NDksImVuIiwiTloiXSxbMzgzNTMxNzU3MiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 12,
+            "query": "maurice gee",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-15T01:00:00Z",
+            "end_date": "2025-06-15T20:50:00Z",
+            "time_active_minutes": 1190,
+            "keywords": [
+                "maurice gee"
+            ],
+            "news_token": "W1szODQzNDcyMDI1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 13,
+            "query": "psg vs atl\u00e9tico madrid",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T18:40:00Z",
+            "end_date": "2025-06-15T23:40:00Z",
+            "time_active_minutes": 300,
+            "keywords": [
+                "psg vs atl\u00e9tico madrid"
+            ],
+            "news_token": "W1szODI1MTk2NzQ0LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 14,
+            "query": "no kings protest",
+            "search_volume": 2000,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "politics"
+            ],
+            "start_date": "2025-06-14T18:30:00Z",
+            "end_date": "2025-06-15T22:30:00Z",
+            "time_active_minutes": 1680,
+            "keywords": [
+                "no kings protest",
+                "no kings"
+            ],
+            "news_token": "W1szNzcwOTQ1NzcwLCJlbiIsIk5aIl0sWzM3ODQxNTc3OTMsImVuIiwiTloiXSxbMzc5ODA1NDU3MiwiZW4iLCJOWiJdLFszODQzNzY5Mjk0LCJlbiIsIk5aIl0sWzM4NDU3NzE3NDMsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 15,
+            "query": "nico porteous",
+            "search_volume": 100,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-16T06:40:00Z",
+            "end_date": "2025-06-16T07:50:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "nico porteous"
+            ],
+            "news_token": "W1szODQ2MjI0OTQ1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 16,
+            "query": "father's day 2025",
+            "search_volume": 2000,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "hobbies_and_leisure"
+            ],
+            "start_date": "2025-06-14T19:20:00Z",
+            "end_date": "2025-06-15T21:00:00Z",
+            "time_active_minutes": 1540,
+            "keywords": [
+                "father's day 2025"
+            ],
+            "news_token": "W1szODI2NDYzMjU3LCJlbiIsIlVTIl0sWzM4MzU5Mzk1MzIsImVuIiwiVVMiXSxbMzgyNjEyMTgwOSwiZW4iLCJVUyJdLFszODM1NzEwNjI2LCJlbiIsIlVTIl0sWzM4MjgyMTA0NzksImVuIiwiVVMiXSxbMzc1OTg5Nzc0MSwiZW4iLCJVUyJdLFszODMyNjk5MjMwLCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 17,
+            "query": "canadian grand prix",
+            "search_volume": 2000,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T16:50:00Z",
+            "end_date": "2025-06-15T21:20:00Z",
+            "time_active_minutes": 270,
+            "keywords": [
+                "canadian grand prix",
+                "f1 canada",
+                "canadian gp",
+                "f1 qualifying results"
+            ],
+            "news_token": "W1szODM5MzQxMjQxLCJlbiIsIk5aIl0sWzM4MzYwMjU0NjIsImVuIiwiTloiXSxbMzc5ODMxNDIwMSwiZW4iLCJOWiJdLFszODQ1MjUzMDQ5LCJlbiIsIk5aIl0sWzM4NDA5MDczMDksImVuIiwiTloiXSxbMzg0NjA4MzAzNiwiZW4iLCJOWiJdLFszODQyMzI5MTM3LCJlbiIsIk5aIl0sWzM4NDY2NjU3NjUsImVuIiwiTloiXSxbMzgwNTY0MzkwMywiZW4iLCJOWiJdLFszODM3NDA0ODM3LCJlbiIsIk5aIl0sWzM4MzExMzQ1ODAsImVuIiwiTloiXSxbMzg0MzczMTA5MSwiZW4iLCJOWiJdLFszODQzMDE1MjU4LCJlbiIsIk5aIl0sWzM3NDM0MTI2NTksImVuIiwiTloiXSxbMzc4NTc1Mzc3MywiZW4iLCJOWiJdLFszODQzNDg2MzMyLCJlbiIsIk5aIl0sWzM4MTE5MjYyNjUsImVuIiwiTloiXSxbMzg0MjcyNDc0NCwiZW4iLCJOWiJdLFszODM2NTU2MjIxLCJlbiIsIk5aIl0sWzM4Mzk3MjY1NTUsImVuIiwiTloiXSxbMzg0MjYzOTI1NSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 18,
+            "query": "ryan fox",
+            "search_volume": 10000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T17:50:00Z",
+            "end_date": "2025-06-15T19:30:00Z",
+            "time_active_minutes": 100,
+            "keywords": [
+                "ryan fox",
+                "ryan fox us open",
+                "ryan fox live",
+                "us golf open"
+            ],
+            "news_token": "W1szODM2MjM5MTc3LCJlbiIsIk5aIl0sWzM4MzUzMTc1NzIsImVuIiwiTloiXSxbMzgzOTM1MDU3MSwiZW4iLCJOWiJdLFszODQyODQzMDgyLCJlbiIsIk5aIl0sWzM4NDY5OTY2NTQsImVuIiwiTloiXSxbMzcxNDU0Mzg0NiwiZW4iLCJOWiJdLFszODA3MjYxMTc1LCJlbiIsIk5aIl0sWzM4MzkyMDc3MDcsImVuIiwiTloiXSxbMzgzOTgyMTQwNSwiZW4iLCJOWiJdLFszODE2Mjc5NzgyLCJlbiIsIk5aIl0sWzM3NDE4ODQwODgsImVuIiwiTloiXSxbMzgzNjQxOTc0OSwiZW4iLCJOWiJdLFszODE1ODA5NTc1LCJlbiIsIk5aIl0sWzM4MzMwNzA1MjgsImVuIiwiTloiXSxbMzgyNzk2NDM5NCwiZW4iLCJOWiJdLFszODMyNzMwNjYwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 19,
+            "query": "rabbitohs vs bulldogs",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T05:50:00Z",
+            "end_date": "2025-06-15T19:30:00Z",
+            "time_active_minutes": 820,
+            "keywords": [
+                "rabbitohs vs bulldogs",
+                "bulldogs vs rabbitohs"
+            ],
+            "news_token": "W1szODI2Njg5NzczLCJlbiIsIk5aIl0sWzM4Mjk2OTA2ODQsImVuIiwiTloiXSxbMzgyMzg5Mjk5MywiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 20,
+            "query": "aus vs sa",
+            "search_volume": 5000,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-11T09:30:00Z",
+            "end_date": "2025-06-14T20:00:00Z",
+            "time_active_minutes": 4950,
+            "keywords": [
+                "aus vs sa",
+                "sa vs aus"
+            ],
+            "news_token": "W1szNDgxODY3NjYyLCJkZSIsIk5aIl0sWzM4MzExNDcwNDEsImRlIiwiTloiXSxbMzgzODY5NzY4NSwiZGUiLCJOWiJdLFszODI5NjI1ODI2LCJkZSIsIk5aIl0sWzM4MzQzMTIzOTQsImRlIiwiTloiXSxbMzc4NjMyNjM3MSwiZGUiLCJOWiJdLFszODMwMTE4Nzk5LCJkZSIsIk5aIl0sWzM4NDM1Mzk2OTIsImRlIiwiTloiXSxbMzgyNTkzNTYxMCwiZGUiLCJOWiJdLFszODIwNjYxODQ3LCJkZSIsIk5aIl1d"
+        },
+        {
+            "position": 21,
+            "query": "auckland council valuations",
+            "search_volume": 10000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-09T17:20:00Z",
+            "end_date": "2025-06-12T04:50:00Z",
+            "time_active_minutes": 3570,
+            "keywords": [
+                "auckland council valuations",
+                "cv auckland",
+                "auckland council cv",
+                "auckland cv",
+                "auckland rates",
+                "auckland property valuations",
+                "cv"
+            ],
+            "news_token": "W1szODIwMDUyMDgzLCJlbiIsIk5aIl0sWzM4MTUxMzA0MjQsImVuIiwiTloiXSxbMzgyNjUxMzUxMiwiZW4iLCJOWiJdLFszNzI4NjcwNTc2LCJlbiIsIk5aIl0sWzM4MjEyMzc1MjcsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 22,
+            "query": "ufc",
+            "search_volume": 5000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T03:40:00Z",
+            "end_date": "2025-06-15T06:20:00Z",
+            "time_active_minutes": 160,
+            "keywords": [
+                "ufc",
+                "kamaru usman",
+                "ufc fight night",
+                "joaquin buckley",
+                "usman vs buckley",
+                "usman"
+            ],
+            "news_token": "W1szNzgyMjE0MjI3LCJlbiIsIk5aIl0sWzM4Mjg3MTgzNDgsImVuIiwiTloiXSxbMzgwNDk4MjkxMSwiZW4iLCJOWiJdLFszODQzODU3Mjg4LCJlbiIsIk5aIl0sWzM4MzYwMjUxOTcsImVuIiwiTloiXSxbMzg0NDA1MzczOSwiZW4iLCJOWiJdLFszODQyNzk0MzQ0LCJlbiIsIk5aIl0sWzM4NDI1NDIwOTYsImVuIiwiTloiXSxbMzgzNjczNTkxNywiZW4iLCJOWiJdLFszODA1ODcwOTQ4LCJlbiIsIk5aIl0sWzM4NDI3MjQ3MTIsImVuIiwiTloiXSxbMzgzMDc3OTAzOSwiZW4iLCJOWiJdLFszODMzNjE4NzUxLCJlbiIsIk5aIl0sWzM4Mjc3ODYwODMsImVuIiwiTloiXSxbMzczOTk5ODk2NywiZW4iLCJOWiJdLFszNzI4ODQ1Njc2LCJlbiIsIk5aIl0sWzM3MjgyOTM4MDUsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 23,
+            "query": "fathers day uk",
+            "search_volume": 1000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "law_and_government",
+                "hobbies_and_leisure",
+                "entertainment"
+            ],
+            "start_date": "2025-06-15T06:20:00Z",
+            "end_date": "2025-06-15T20:20:00Z",
+            "time_active_minutes": 840,
+            "keywords": [
+                "fathers day uk"
+            ],
+            "news_token": "W1szODI3OTM4OTQ5LCJlbiIsIk5aIl0sWzM4MzU3MTA2MjYsImVuIiwiTloiXSxbMzgyMDU0NTM4OCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 24,
+            "query": "melissa hortman",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-14T18:00:00Z",
+            "end_date": "2025-06-15T02:10:00Z",
+            "time_active_minutes": 490,
+            "keywords": [
+                "melissa hortman",
+                "vance boelter",
+                "daily mail uk"
+            ],
+            "news_token": "W1szODQxNzc4NDMwLCJlbiIsIk5aIl0sWzM4Mzg2MjU1MDYsImVuIiwiTloiXSxbMzg0NDA4NTE1NiwiZW4iLCJOWiJdLFszODQ1NDcxMjY5LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 25,
+            "query": "brian wilson",
+            "search_volume": 5000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-11T18:00:00Z",
+            "end_date": "2025-06-12T20:50:00Z",
+            "time_active_minutes": 1610,
+            "keywords": [
+                "brian wilson",
+                "beach boys"
+            ],
+            "news_token": "W1szODIxNzU2Mzg0LCJlbiIsIk5aIl0sWzM4MzU5Mzk3MjgsImVuIiwiTloiXSxbMzgzNTY0MzA0NSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 26,
+            "query": "chinese tourist visa changes",
+            "search_volume": 500,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-15T08:10:00Z",
+            "end_date": "2025-06-15T20:20:00Z",
+            "time_active_minutes": 730,
+            "keywords": [
+                "chinese tourist visa changes"
+            ],
+            "news_token": "W1szODQzNDM3MTIzLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 27,
+            "query": "lorraine barry",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-14T23:50:00Z",
+            "end_date": "2025-06-15T11:20:00Z",
+            "time_active_minutes": 690,
+            "keywords": [
+                "lorraine barry"
+            ],
+            "news_token": "W1szODQxODAwMjkxLCJmciIsIk5aIl1d"
+        },
+        {
+            "position": 28,
+            "query": "dazn",
+            "search_volume": 500,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports",
+                "entertainment"
+            ],
+            "start_date": "2025-06-15T00:10:00Z",
+            "end_date": "2025-06-15T23:10:00Z",
+            "time_active_minutes": 1380,
+            "keywords": [
+                "dazn"
+            ],
+            "news_token": "W1szODQzMjQ0MjY1LCJlbiIsIlVTIl0sWzM4MDcxMTE2NDUsImVuIiwiVVMiXSxbMzg0MzIzNzcxNiwiZW4iLCJVUyJdLFszODM3NzEzMDcwLCJlbiIsIlVTIl0sWzM4NDQwMTg4NDMsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 29,
+            "query": "psg",
+            "search_volume": 500,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T20:00:00Z",
+            "end_date": "2025-06-15T22:40:00Z",
+            "time_active_minutes": 160,
+            "keywords": [
+                "psg"
+            ],
+            "news_token": "W1szNzU4NDE5NTk2LCJmciIsIk5aIl0sWzM4NDc0MzY0MTgsImZyIiwiTloiXSxbMzgxMTc4NTk1NCwiZnIiLCJOWiJdLFszNzU2MDE4MDQ4LCJmciIsIk5aIl1d"
+        },
+        {
+            "position": 30,
+            "query": "sam burns",
+            "search_volume": 500,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T19:20:00Z",
+            "end_date": "2025-06-16T00:40:00Z",
+            "time_active_minutes": 320,
+            "keywords": [
+                "sam burns"
+            ],
+            "news_token": "W1szODQ2Njc4MTcwLCJlbiIsIk5aIl0sWzM4NDM1ODk2NjUsImVuIiwiTloiXSxbMzgzOTM1MDU3MSwiZW4iLCJOWiJdLFszODQ2ODE0MDQ5LCJlbiIsIk5aIl0sWzM4NDMzNzE3MjEsImVuIiwiTloiXSxbMzg0MzUyNjQxOSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 31,
+            "query": "nascar",
+            "search_volume": 500,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T18:20:00Z",
+            "end_date": "2025-06-15T23:20:00Z",
+            "time_active_minutes": 300,
+            "keywords": [
+                "nascar"
+            ],
+            "news_token": "W1szODM5ODU5NDg2LCJlbiIsIk5aIl0sWzM4MzI2MzU4NzEsImVuIiwiTloiXSxbMzg0NzMxMjcyNSwiZW4iLCJOWiJdLFszODE0ODU1Nzk3LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 32,
+            "query": "chiefs",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T05:50:00Z",
+            "end_date": "2025-06-14T11:00:00Z",
+            "time_active_minutes": 310,
+            "keywords": [
+                "chiefs"
+            ],
+            "news_token": "W1szODM2NTQxNzgyLCJlbiIsIk5aIl0sWzM3ODk1MzU1NzQsImVuIiwiTloiXSxbMzgyMDQyODM1OCwiZW4iLCJOWiJdLFszODQwNTgxODI0LCJlbiIsIk5aIl0sWzM4MzMxNjk0MzAsImVuIiwiTloiXSxbMzgzODIwNzY4MywiZW4iLCJOWiJdLFszODMwMzc5MTQ2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 33,
+            "query": "adam scott",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T19:40:00Z",
+            "end_date": "2025-06-16T01:00:00Z",
+            "time_active_minutes": 320,
+            "keywords": [
+                "adam scott"
+            ],
+            "news_token": "W1szODI2NzMzNTcwLCJlbiIsIk5aIl0sWzM4NDI2MzIwMjYsImVuIiwiTloiXSxbMzc0MTg4NDA4OCwiZW4iLCJOWiJdLFszODM1MzE3NTcyLCJlbiIsIk5aIl0sWzM4NDUzMDMwODksImVuIiwiTloiXSxbMzg0MzU2NTEyMywiZW4iLCJOWiJdLFszODQ1OTgyMTQ4LCJlbiIsIk5aIl0sWzM4NDIyNjc4NjMsImVuIiwiTloiXSxbMzgzOTM1MDU3MSwiZW4iLCJOWiJdLFszODQzMjQ0MzM1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 34,
+            "query": "steven adams",
+            "search_volume": 500,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T20:00:00Z",
+            "end_date": "2025-06-15T19:50:00Z",
+            "time_active_minutes": 1430,
+            "keywords": [
+                "steven adams"
+            ],
+            "news_token": "W1szODM3OTk3Mjg3LCJlbiIsIk5aIl0sWzM4MzgyOTM3MzksImVuIiwiTloiXSxbMzgzODM5ODE4NywiZW4iLCJOWiJdLFszODAyMDU0NTM1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 35,
+            "query": "inter miami",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T23:50:00Z",
+            "end_date": "2025-06-15T04:30:00Z",
+            "time_active_minutes": 280,
+            "keywords": [
+                "inter miami"
+            ],
+            "news_token": "W1szODMxNzE5NTY5LCJlbiIsIk5aIl0sWzM4NDUxMDU0MDUsImVuIiwiTloiXSxbMzg0MzIwMzA1OSwiZW4iLCJOWiJdLFszODQxMTg4NzMyLCJlbiIsIk5aIl0sWzM4MzIzODk5OTAsImVuIiwiTloiXSxbMzg0MjE3MjkzMSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 36,
+            "query": "east auckland tornado",
+            "search_volume": 500,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "climate"
+            ],
+            "start_date": "2025-06-14T10:20:00Z",
+            "end_date": "2025-06-15T02:10:00Z",
+            "time_active_minutes": 950,
+            "keywords": [
+                "east auckland tornado"
+            ],
+            "news_token": "W1szODM1MDY1OTQ2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 37,
+            "query": "how to train your dragon",
+            "search_volume": 2000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-13T07:20:00Z",
+            "end_date": "2025-06-15T13:20:00Z",
+            "time_active_minutes": 3240,
+            "keywords": [
+                "how to train your dragon"
+            ],
+            "news_token": "W1szODA0MzY4MTgzLCJlbiIsIlVTIl0sWzM4Mzg1NzI5NzksImVuIiwiVVMiXSxbMzgxNTEwMDIwNiwiZW4iLCJVUyJdLFszODQxOTg0MzY3LCJlbiIsIlVTIl0sWzM3NTY3OTcwNTIsImVuIiwiVVMiXSxbMzg0NDE1NzM5NSwiZW4iLCJVUyJdLFszNzg3Mjg4NzQxLCJlbiIsIlVTIl0sWzM4MzQ5Mjg2MzMsImVuIiwiVVMiXSxbMzgzNDI1MDAzOCwiZW4iLCJVUyJdLFszODMzNzY2MjMwLCJlbiIsIlVTIl0sWzM4MjQ2MzA2NDYsImVuIiwiVVMiXSxbMzgzNjIxMTUyOCwiZW4iLCJVUyJdLFszODE1MTE4MjgzLCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 38,
+            "query": "state of origin game 2",
+            "search_volume": 2000,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T18:50:00Z",
+            "end_date": "2025-06-11T20:30:00Z",
+            "time_active_minutes": 1540,
+            "keywords": [
+                "state of origin game 2"
+            ],
+            "news_token": "W1szODE3MTc1NTk4LCJlbiIsIk5aIl0sWzM4MzMyNjYwNDYsImVuIiwiTloiXSxbMzgzMDI1MjExOSwiZW4iLCJOWiJdLFszODEzMDM4NjIyLCJlbiIsIk5aIl0sWzM4MzI1NjQzNzEsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 39,
+            "query": "callum turner",
+            "search_volume": 1000,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-12T22:40:00Z",
+            "end_date": "2025-06-13T10:40:00Z",
+            "time_active_minutes": 720,
+            "keywords": [
+                "callum turner"
+            ],
+            "news_token": "W1szODI0NjQyNzY5LCJlbiIsIk5aIl0sWzM0NjQ1MTQyMjcsImVuIiwiTloiXSxbMjgzMzQ2MDEwNCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 40,
+            "query": "ben askren",
+            "search_volume": 1000,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T06:50:00Z",
+            "end_date": "2025-06-12T20:50:00Z",
+            "time_active_minutes": 840,
+            "keywords": [
+                "ben askren"
+            ],
+            "news_token": "W1szODE5ODQ2MzgyLCJlbiIsIk5aIl0sWzM4MzU4ODU1OTgsImVuIiwiTloiXSxbMzgxOTM5NDI4MiwiZW4iLCJOWiJdLFszODM3MDQ2MjM4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 41,
+            "query": "nhl",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T00:50:00Z",
+            "end_date": "2025-06-15T03:50:00Z",
+            "time_active_minutes": 180,
+            "keywords": [
+                "nhl"
+            ],
+            "news_token": "W1szODI3MjQxMjc3LCJlbiIsIk5aIl0sWzM4NDE4MjEzNDYsImVuIiwiTloiXSxbMzg0MDE1NTE4NiwiZW4iLCJOWiJdLFszNzc1NjE1MzQ4LCJlbiIsIk5aIl0sWzM4Mjg5MTUzODcsImVuIiwiTloiXSxbMzg0MzY5MDgxMCwiZW4iLCJOWiJdLFszODI2MDM1MzA4LCJlbiIsIk5aIl0sWzM4MzU1MzA0MzcsImVuIiwiTloiXSxbMzgzNDEwMTQ0NiwiZW4iLCJOWiJdLFszODA2MTA0NjAwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 42,
+            "query": "nba",
+            "search_volume": 2000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T02:30:00Z",
+            "end_date": "2025-06-14T04:20:00Z",
+            "time_active_minutes": 110,
+            "keywords": [
+                "nba"
+            ],
+            "news_token": "W1szODM4MjMyNDM0LCJlbiIsIk5aIl0sWzM4MjI4NDI3MTUsImVuIiwiTloiXSxbMzgzMTIxNjEzNCwiZW4iLCJOWiJdLFszODM3OTE3NjA1LCJlbiIsIk5aIl0sWzM4NDA3NzQ0NDksImVuIiwiTloiXSxbMzg0MTkzNzAxMCwiZW4iLCJOWiJdLFszNzkwNjc5ODkyLCJlbiIsIk5aIl0sWzM4NDAwMTI4NzYsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 43,
+            "query": "sharks vs dragons",
+            "search_volume": 1000,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T09:30:00Z",
+            "end_date": "2025-06-12T20:50:00Z",
+            "time_active_minutes": 680,
+            "keywords": [
+                "sharks vs dragons"
+            ],
+            "news_token": "W1szODIzMzUwODEzLCJlbiIsIk5aIl0sWzM4MzQ3MjE1NzQsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 44,
+            "query": "cowboys vs dolphins",
+            "search_volume": 500,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T09:50:00Z",
+            "end_date": "2025-06-14T21:10:00Z",
+            "time_active_minutes": 680,
+            "keywords": [
+                "cowboys vs dolphins",
+                "dolphins vs cowboys"
+            ],
+            "news_token": "W1szODI0OTcxMTc3LCJlbiIsIk5aIl0sWzM4NDE1OTU3NzIsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 45,
+            "query": "knights vs roosters",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T07:20:00Z",
+            "end_date": "2025-06-14T19:10:00Z",
+            "time_active_minutes": 710,
+            "keywords": [
+                "knights vs roosters"
+            ],
+            "news_token": "W1szODI5MTc3NDIxLCJlbiIsIk5aIl0sWzM4MjQ5NzExNzcsImVuIiwiTloiXSxbMzgzNzQ0Njc1MCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 46,
+            "query": "korea air crash",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-13T12:50:00Z",
+            "end_date": "2025-06-13T23:50:00Z",
+            "time_active_minutes": 660,
+            "keywords": [
+                "korea air crash"
+            ],
+            "news_token": "W1szODI5NjU5NDcyLCJlbiIsIlVTIl0sWzM3MzQwMTU0NzAsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 47,
+            "query": "us open golf prize money",
+            "search_volume": 200,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-16T00:40:00Z",
+            "end_date": "2025-06-16T01:30:00Z",
+            "time_active_minutes": 50,
+            "keywords": [
+                "us open golf prize money"
+            ],
+            "news_token": "W1szODMzNTk3NDQ5LCJlbiIsIk5aIl0sWzM4NDc2MDE0MzgsImVuIiwiTloiXSxbMzgzNTMxNzU3MiwiZW4iLCJOWiJdLFszNzQ3MDM5MTk5LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 48,
+            "query": "cody garbrandt",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T02:40:00Z",
+            "end_date": "2025-06-15T04:50:00Z",
+            "time_active_minutes": 130,
+            "keywords": [
+                "cody garbrandt",
+                "raoni barcelos"
+            ],
+            "news_token": "W1szODMzNjE4NzUxLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 49,
+            "query": "korean air crash",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-14T02:50:00Z",
+            "end_date": "2025-06-14T09:00:00Z",
+            "time_active_minutes": 370,
+            "keywords": [
+                "korean air crash"
+            ],
+            "news_token": "W1szODM3NTU5MjgxLCJlbiIsIk5aIl0sWzM3MzQwMTU0NzAsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 50,
+            "query": "auckland airport",
+            "search_volume": 200,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-16T03:20:00Z",
+            "end_date": "2025-06-16T03:50:00Z",
+            "time_active_minutes": 30,
+            "keywords": [
+                "auckland airport"
+            ],
+            "news_token": "W1szODQ3NTAxOTM5LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 51,
+            "query": "new zealand vs ukraine",
+            "search_volume": 5000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T20:20:00Z",
+            "end_date": "2025-06-11T01:50:00Z",
+            "time_active_minutes": 330,
+            "keywords": [
+                "new zealand vs ukraine",
+                "all whites",
+                "all whites v ukraine",
+                "nz vs ukraine"
+            ],
+            "news_token": "W1szODE4NDQ5MTI5LCJlbiIsIk5aIl0sWzM4MDY3MjAxODksImVuIiwiTloiXSxbMzgxNjMxODI1NiwiZW4iLCJOWiJdLFszODMwOTQ4NzQwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 52,
+            "query": "titans vs sea eagles",
+            "search_volume": 500,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T10:10:00Z",
+            "end_date": "2025-06-13T21:20:00Z",
+            "time_active_minutes": 670,
+            "keywords": [
+                "titans vs sea eagles"
+            ],
+            "news_token": "W1szODAzMjA5NjY0LCJlbiIsIk5aIl0sWzM4MzgzMTE5OTQsImVuIiwiTloiXSxbMzgzODExMjM3OSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 53,
+            "query": "liam lawson news",
+            "search_volume": 1000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T19:50:00Z",
+            "end_date": "2025-06-15T21:00:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "liam lawson news",
+                "liam lawson"
+            ],
+            "news_token": "W1szODM2MDI1NDYyLCJlbiIsIk5aIl0sWzM4MzkzNDEyNDEsImVuIiwiTloiXSxbMzg0Nzg1NDc0MCwiZW4iLCJOWiJdLFszODQ1MjUzMDQ5LCJlbiIsIk5aIl0sWzM4MTE0MTEzMTksImVuIiwiTloiXV0="
+        },
+        {
+            "position": 54,
+            "query": "strawberry moon full moon",
+            "search_volume": 2000,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "science"
+            ],
+            "start_date": "2025-06-11T08:50:00Z",
+            "end_date": "2025-06-11T20:50:00Z",
+            "time_active_minutes": 720,
+            "keywords": [
+                "strawberry moon full moon",
+                "strawberry moon",
+                "strawberry moon nz",
+                "full moon june 2025",
+                "strawberry moon 2025 nz"
+            ],
+            "news_token": "W1szNzg3MTQzMjQ1LCJlbiIsIlVTIl0sWzE0NTU5OTE3MDAsImVuIiwiVVMiXSxbMzgzNDMxOTcwMywiZW4iLCJVUyJdLFszNzUwMzE1MjkwLCJlbiIsIlVTIl0sWzM3ODcxNDMyNDUsImVuIiwiTloiXSxbMTQ1NTk5MTcwMCwiZW4iLCJOWiJdLFszODE2MDIxMTYyLCJlbiIsIlVTIl0sWzM4MTkyMTkwNjMsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 55,
+            "query": "west indies vs ireland",
+            "search_volume": 100,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T18:50:00Z",
+            "end_date": "2025-06-15T20:50:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "west indies vs ireland"
+            ],
+            "news_token": "W1szODEwNjQ0NDczLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 56,
+            "query": "rose namajunas",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T04:10:00Z",
+            "end_date": "2025-06-15T05:40:00Z",
+            "time_active_minutes": 90,
+            "keywords": [
+                "rose namajunas",
+                "miranda maverick"
+            ],
+            "news_token": "W1szODA1ODcwOTQ4LCJlbiIsIk5aIl0sWzM3ODIyMTQyMjcsImVuIiwiTloiXSxbMzg0MDk4MjcyMiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 57,
+            "query": "england vs senegal",
+            "search_volume": 2000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T18:50:00Z",
+            "end_date": "2025-06-11T02:20:00Z",
+            "time_active_minutes": 450,
+            "keywords": [
+                "england vs senegal",
+                "england football",
+                "england"
+            ],
+            "news_token": "W1szODI0NTIxODIwLCJlbiIsIk5aIl0sWzM4MjQ2NzEwOTcsImVuIiwiTloiXSxbMzgyNTY3MjU5OSwiZW4iLCJOWiJdLFszODI1OTM1NTE0LCJlbiIsIk5aIl0sWzM4MjU5NTM4MzMsImVuIiwiTloiXSxbMzgzMDkxNDMyMywiZW4iLCJOWiJdLFszODE3ODM1Nzg2LCJlbiIsIk5aIl0sWzM4MTkyMzE3NzAsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 58,
+            "query": "miss congeniality",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-15T09:10:00Z",
+            "end_date": "2025-06-15T11:10:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "miss congeniality"
+            ],
+            "news_token": "W1szODQ1NDU3OTcxLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 59,
+            "query": "father's day india",
+            "search_volume": 200,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "hobbies_and_leisure"
+            ],
+            "start_date": "2025-06-15T04:20:00Z",
+            "end_date": "2025-06-15T08:10:00Z",
+            "time_active_minutes": 230,
+            "keywords": [
+                "father's day india"
+            ],
+            "news_token": "W1szODIzNzk0MDM4LCJlbiIsIk5aIl0sWzM3NTk4OTc3NDEsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 60,
+            "query": "pacers",
+            "search_volume": 5000,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T01:30:00Z",
+            "end_date": "2025-06-14T04:30:00Z",
+            "time_active_minutes": 180,
+            "keywords": [
+                "pacers",
+                "okc vs pacers",
+                "nba",
+                "nba finals",
+                "bennedict mathurin",
+                "okc",
+                "shai gilgeous-alexander"
+            ],
+            "news_token": "W1szODIyODQyNzE1LCJlbiIsIk5aIl0sWzM4MzA2MDE4NzYsImVuIiwiTloiXSxbMzg0MTk3MDAxOSwiZW4iLCJOWiJdLFszODMzNzUzMTgwLCJlbiIsIk5aIl0sWzM4MjA3MTg2NjgsImVuIiwiTloiXSxbMzgyMjg1NzAwMSwiZW4iLCJOWiJdLFszODQwODEzOTE0LCJlbiIsIk5aIl0sWzM4MTkyNTI5MjYsImVuIiwiTloiXSxbMzg0MjM5MDI5MiwiZW4iLCJOWiJdLFszNzkwNjc5ODkyLCJlbiIsIk5aIl0sWzM4NDA3NzQ0NDksImVuIiwiTloiXSxbMzg0MTQ0NzY1MCwiZW4iLCJOWiJdLFszODI4MzE0ODM4LCJlbiIsIk5aIl0sWzM4NDA1NDE2NjgsImVuIiwiTloiXSxbMzgyOTA2NjczOSwiZW4iLCJOWiJdLFszODM4MjMyNDM0LCJlbiIsIk5aIl0sWzM4MTI1MzYxOTcsImVuIiwiTloiXSxbMzg0MjU4NjMzNywiZW4iLCJOWiJdLFszODA3NzMwMTkxLCJlbiIsIk5aIl0sWzM4MzIyNDY3NjQsImVuIiwiTloiXSxbMzgyMjMxNzczNSwiZW4iLCJOWiJdLFszODEyNjA5MzE2LCJlbiIsIk5aIl0sWzM4MzUxOTIzNDAsImVuIiwiTloiXSxbMzgzMjc0NDM1MiwiZW4iLCJOWiJdLFszODMzNDI5ODI2LCJlbiIsIk5aIl0sWzM4MjcwNzQ4NzksImVuIiwiTloiXSxbMzgzNTE2OTk5NywiZW4iLCJOWiJdLFszNzkyMTUwMzA4LCJlbiIsIk5aIl0sWzM3ODM4NDU5NzMsImVuIiwiTloiXSxbMzgyODk2MDY0MCwiZW4iLCJOWiJdLFszODA3Mzc4MTM2LCJlbiIsIk5aIl0sWzM4MTIyNTU2MTIsImVuIiwiTloiXSxbMzgzMDkwMDIzMiwiZW4iLCJOWiJdLFszODAyMDI1MjE3LCJlbiIsIk5aIl0sWzM4MjE0NDI0MDUsImVuIiwiTloiXSxbMzgzNTQ4NDg2OSwiZW4iLCJOWiJdLFszODIyODUyOTIyLCJlbiIsIk5aIl0sWzM4MzM3NDU5NTIsImVuIiwiTloiXSxbMzgxMzM2MTA0NCwiZW4iLCJOWiJdLFszNzkxMjY1MzI1LCJlbiIsIk5aIl0sWzM4MjkwMzQxNTksImVuIiwiTloiXV0="
+        },
+        {
+            "position": 61,
+            "query": "nhl",
+            "search_volume": 1000,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports",
+                "entertainment"
+            ],
+            "start_date": "2025-06-13T01:00:00Z",
+            "end_date": "2025-06-13T05:30:00Z",
+            "time_active_minutes": 270,
+            "keywords": [
+                "nhl"
+            ],
+            "news_token": "W1szODM2NDM3NTIzLCJlbiIsIk5aIl0sWzM4MzkxMDY3NzMsImVuIiwiTloiXSxbMzgzODg5ODc2MywiZW4iLCJOWiJdLFszODM0MTAxNDQ2LCJlbiIsIk5aIl0sWzM4MzQ2MTc4MDEsImVuIiwiTloiXSxbMzgyMTY0MjQ1NiwiZW4iLCJOWiJdLFszODM5NDE4NDcxLCJlbiIsIk5aIl0sWzM4MzkxOTk4MzUsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 62,
+            "query": "sam burns",
+            "search_volume": 500,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T18:00:00Z",
+            "end_date": "2025-06-14T00:30:00Z",
+            "time_active_minutes": 390,
+            "keywords": [
+                "sam burns",
+                "us open leaderboard 2025"
+            ],
+            "news_token": "W1szODM5MzUwNTcxLCJlbiIsIk5aIl0sWzM4MTYyNzk3ODIsImVuIiwiTloiXSxbMzgyNjczMzU3MCwiZW4iLCJOWiJdLFszODM2MjM5MTc3LCJlbiIsIk5aIl0sWzM4NDM1MjY0MTksImVuIiwiTloiXSxbMzc0MTg4NDA4OCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 63,
+            "query": "frank energy",
+            "search_volume": 2000,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-10T00:10:00Z",
+            "end_date": "2025-06-10T20:50:00Z",
+            "time_active_minutes": 1240,
+            "keywords": [
+                "frank energy",
+                "genesis energy"
+            ],
+            "news_token": "W1szODI1NTc2NDQ4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 64,
+            "query": "george duangmanee",
+            "search_volume": 500,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T18:40:00Z",
+            "end_date": "2025-06-14T00:10:00Z",
+            "time_active_minutes": 330,
+            "keywords": [
+                "george duangmanee"
+            ],
+            "news_token": "W1szODM5ODY3ODg2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 65,
+            "query": "wnba",
+            "search_volume": 500,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T21:10:00Z",
+            "end_date": "2025-06-14T23:10:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "wnba",
+                "fever vs liberty"
+            ],
+            "news_token": "W1szODExNzYxNDYxLCJlbiIsIk5aIl0sWzM4MjA5ODI3NTYsImVuIiwiTloiXSxbMzg0MzI0NDQzMiwiZW4iLCJOWiJdLFszNzk4NTU5NzA5LCJlbiIsIk5aIl0sWzM4MzgxNzI1OTEsImVuIiwiTloiXSxbMzgxNDM1MzAyNywiZW4iLCJOWiJdLFszODI1MDU1NTgzLCJlbiIsIk5aIl0sWzM4NDEwNDMzMDksImVuIiwiTloiXSxbMzg0NDgyMTQ1MSwiZW4iLCJOWiJdLFszODQwMzkyNjc3LCJlbiIsIk5aIl0sWzM4NDIyODA2MzksImVuIiwiTloiXSxbMzgzMDgxMTcxNSwiZW4iLCJOWiJdLFszODQ0MDg1MTcwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 66,
+            "query": "vijay rupani",
+            "search_volume": 500,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "politics"
+            ],
+            "start_date": "2025-06-12T10:00:00Z",
+            "end_date": "2025-06-12T21:00:00Z",
+            "time_active_minutes": 660,
+            "keywords": [
+                "vijay rupani"
+            ],
+            "news_token": "W1szODM1ODAzNDUzLCJlbiIsIk5aIl0sWzM4MzQxNzY0NTQsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 67,
+            "query": "ios 26",
+            "search_volume": 2000,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "technology"
+            ],
+            "start_date": "2025-06-09T17:50:00Z",
+            "end_date": "2025-06-10T17:30:00Z",
+            "time_active_minutes": 1420,
+            "keywords": [
+                "ios 26",
+                "apple",
+                "wwdc",
+                "wwdc 2025",
+                "ios 26 release date"
+            ],
+            "news_token": "W1szNzc5NjUzNjQ5LCJlbiIsIk5aIl0sWzM3Nzk3NTUxNDksImVuIiwiTloiXSxbMzgyOTE3Mjc0MSwiZW4iLCJOWiJdLFszNzY0MjE0MjkwLCJlbiIsIk5aIl0sWzM3NzE1ODY5NzEsImVuIiwiTloiXSxbMzgyMjA5MDU2NCwiZW4iLCJOWiJdLFszODE3ODc4OTUzLCJlbiIsIk5aIl0sWzM4MDEwMjg4NjUsImVuIiwiTloiXSxbMzgyNTM1MzMyMywiZW4iLCJOWiJdLFszODA0OTE2NTY1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 68,
+            "query": "sly stone",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-09T20:30:00Z",
+            "end_date": "2025-06-10T20:00:00Z",
+            "time_active_minutes": 1410,
+            "keywords": [
+                "sly stone"
+            ],
+            "news_token": "W1szODI1Mzg5OTI5LCJlbiIsIk5aIl0sWzI0OTc3MTIzOTIsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 69,
+            "query": "cricinfo",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T16:20:00Z",
+            "end_date": "2025-06-13T20:20:00Z",
+            "time_active_minutes": 240,
+            "keywords": [
+                "cricinfo"
+            ],
+            "news_token": "W1szODMxODI1NDM3LCJlbiIsIk5aIl0sWzM4Mzc1NjkyNjgsImVuIiwiTloiXSxbMzgzOTMxMTUyNiwiZW4iLCJOWiJdLFszODMxMTQ3MDQxLCJlbiIsIk5aIl0sWzM4MjY0MTI3NzksImVuIiwiTloiXSxbMzgzODY5NzY4NSwiZW4iLCJOWiJdLFszODI5NjI1ODI2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 70,
+            "query": "desmond bane",
+            "search_volume": 100,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T20:40:00Z",
+            "end_date": "2025-06-15T21:40:00Z",
+            "time_active_minutes": 60,
+            "keywords": [
+                "desmond bane"
+            ],
+            "news_token": "W1szODQ1NDk4MzM0LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 71,
+            "query": "ngani laumape",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T00:30:00Z",
+            "end_date": "2025-06-10T08:40:00Z",
+            "time_active_minutes": 490,
+            "keywords": [
+                "ngani laumape"
+            ],
+            "news_token": "W1szODI1OTk3MzAwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 72,
+            "query": "chatgpt",
+            "search_volume": 5000,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-10T10:40:00Z",
+            "end_date": "2025-06-10T14:40:00Z",
+            "time_active_minutes": 240,
+            "keywords": [
+                "chatgpt",
+                "is chatgpt down",
+                "chatgpt down",
+                "gemini ai",
+                "is chat gpt down",
+                "chatgpt outage"
+            ],
+            "news_token": "W1szNzk3NDIzNTkwLCJlbiIsIk5aIl0sWzM3OTc0MjM1OTAsImVuIiwiVVMiXSxbMzgxMDgyMzIwNSwiZW4iLCJVUyJdLFszODI3NTc0NTA3LCJlbiIsIlVTIl0sWzM4Mjg1MTA3NTIsImVuIiwiVVMiXSxbMzgyNzk5ODg0MSwiZW4iLCJVUyJdLFszODI0MTMwMzA0LCJlbiIsIlVTIl0sWzM4MjYwMzA3MzYsImVuIiwiVVMiXSxbMzgyOTUyNjc5NSwiZW4iLCJVUyJdLFszODI3MjQ5NDg4LCJlbiIsIlVTIl0sWzM4MjU4Mzk1OTgsImVuIiwiVVMiXSxbMzgwMTE1MjAzNywiZW4iLCJVUyJdLFszODA4NTM2MTgxLCJlbiIsIlVTIl0sWzM4MjkxNjMwMzIsImVuIiwiVVMiXSxbMzgxMTE0NjI5NCwiZW4iLCJVUyJdLFszODI3OTI2MzcyLCJlbiIsIk5aIl0sWzM4MDk3MDk3NjAsImVuIiwiTloiXSxbMzc2OTEwNTAwOSwiZW4iLCJOWiJdLFszODI5NDI5NTQ0LCJlbiIsIlVTIl0sWzM4MjQ0NTQ0NzQsImVuIiwiVVMiXSxbMzc5MjA5MDk2MSwiZW4iLCJVUyJdLFszODI5NDI0ODQzLCJlbiIsIlVTIl0sWzM4MjM0NjI4MTcsImVuIiwiVVMiXSxbMzgyODg4MjAwNywiZW4iLCJVUyJdLFszODI5MjgzNzc2LCJlbiIsIlVTIl0sWzM4MDk3MDk3NjAsImVuIiwiVVMiXSxbMzgxMjAyMTI2MywiZW4iLCJVUyJdLFszODI5MjAyNzg2LCJlbiIsIlVTIl0sWzM4MDI2NDA4ODIsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 73,
+            "query": "andre petroski",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T03:40:00Z",
+            "end_date": "2025-06-15T04:50:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "andre petroski",
+                "edmen shahbazyan"
+            ],
+            "news_token": "W1szODI3ODcyMjYzLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 74,
+            "query": "rugby tonight",
+            "search_volume": 1000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T07:00:00Z",
+            "end_date": "2025-06-13T10:30:00Z",
+            "time_active_minutes": 210,
+            "keywords": [
+                "rugby tonight"
+            ],
+            "news_token": "W1szODIxMTE3OTQ1LCJlbiIsIk5aIl0sWzM4MzUzMzIwNjcsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 75,
+            "query": "cnn",
+            "search_volume": 1000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "politics",
+                "law_and_government"
+            ],
+            "start_date": "2025-06-13T00:40:00Z",
+            "end_date": "2025-06-13T03:40:00Z",
+            "time_active_minutes": 180,
+            "keywords": [
+                "cnn",
+                "alex padilla"
+            ],
+            "news_token": "W1szODM1NjkxMzQzLCJlbiIsIlVTIl0sWzM4MzI3MDg1NTQsImVuIiwiVVMiXSxbMzgyOTM3MzY4OSwiZW4iLCJVUyJdLFszODM1NzgxOTUxLCJlbiIsIlVTIl0sWzM4MzM0MjM4NDMsImVuIiwiVVMiXSxbMzgzNTU5NjAwNiwiZW4iLCJVUyJdLFszODIxODU1Mjc0LCJlbiIsIlVTIl0sWzM4MDk2MTU2NjUsImVuIiwiVVMiXSxbMzgzNTY5MTM0MywiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 76,
+            "query": "le mans 2025",
+            "search_volume": 100,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T16:40:00Z",
+            "end_date": "2025-06-15T19:50:00Z",
+            "time_active_minutes": 190,
+            "keywords": [
+                "le mans 2025"
+            ],
+            "news_token": "W1szODM1MzU4OTcxLCJlbiIsIlVTIl0sWzM4NDMwNTQ2MjIsImVuIiwiVVMiXSxbMzc3ODgzMjA2NiwiZW4iLCJVUyJdLFszODQxNDQ3Njc1LCJlbiIsIlVTIl0sWzM3ODE3NjA3MDksImVuIiwiVVMiXSxbMzgzMjY5NDc2NCwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 77,
+            "query": "aratere ferry passengers stuck",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "travel_and_transportation"
+            ],
+            "start_date": "2025-06-11T23:50:00Z",
+            "end_date": "2025-06-12T17:00:00Z",
+            "time_active_minutes": 1030,
+            "keywords": [
+                "aratere ferry passengers stuck"
+            ],
+            "news_token": "W1szODMxMTA5ODc3LCJlbiIsIk5aIl0sWzM4MTA3MDM4ODEsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 78,
+            "query": "pga",
+            "search_volume": 500,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T18:20:00Z",
+            "end_date": "2025-06-13T21:30:00Z",
+            "time_active_minutes": 190,
+            "keywords": [
+                "pga"
+            ],
+            "news_token": "W1szODIxODczNjY1LCJlbiIsIk5aIl0sWzM4MjIxODMwNjYsImVuIiwiTloiXSxbMzgyODQwOTE2MywiZW4iLCJOWiJdLFszNzQxODg0MDg4LCJlbiIsIk5aIl0sWzM4NDAzOTI2NzUsImVuIiwiTloiXSxbMzgzNTMxNzU3MiwiZW4iLCJOWiJdLFszODM2MTI1MTg4LCJlbiIsIk5aIl0sWzM4MzkzNTA1NzEsImVuIiwiTloiXSxbMzgzOTAxNzMxNiwiZW4iLCJOWiJdLFszODM4NTIxMzkxLCJlbiIsIk5aIl0sWzM4NDEyNjA0ODMsImVuIiwiTloiXSxbMzc3NjY4OTg2MywiZW4iLCJOWiJdLFszODM5Mjk1NTkwLCJlbiIsIk5aIl0sWzM3ODA4OTUwMTYsImVuIiwiTloiXSxbMzc3MzAzMjgzOCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 79,
+            "query": "field days 2025",
+            "search_volume": 2000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-10T17:40:00Z",
+            "end_date": "2025-06-11T20:40:00Z",
+            "time_active_minutes": 1620,
+            "keywords": [
+                "field days 2025",
+                "fieldays 2025",
+                "fieldays"
+            ],
+            "news_token": "W1szODA4MDIyNTY4LCJlbiIsIk5aIl0sWzM4MTkyNDk0MjAsImVuIiwiTloiXSxbMzgyOTI4ODQwNiwiZW4iLCJOWiJdLFszNzk1NTM0Nzg0LCJlbiIsIk5aIl0sWzM4MDMwOTA3MzUsImVuIiwiTloiXSxbMzgyOTQzNDcyNSwiZW4iLCJOWiJdLFszODI4OTI3MzYyLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 80,
+            "query": "\u5468\u534e\u5065",
+            "search_volume": 200,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-15T09:30:00Z",
+            "end_date": "2025-06-15T11:50:00Z",
+            "time_active_minutes": 140,
+            "keywords": [
+                "\u5468\u534e\u5065"
+            ],
+            "news_token": "W1szODMzNDgxMTIyLCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 81,
+            "query": "mt hutt",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "climate",
+                "travel_and_transportation"
+            ],
+            "start_date": "2025-06-13T17:30:00Z",
+            "end_date": "2025-06-13T21:50:00Z",
+            "time_active_minutes": 260,
+            "keywords": [
+                "mt hutt"
+            ],
+            "news_token": "W1szODA2MDgxMDEyLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 82,
+            "query": "oumar sy",
+            "search_volume": 200,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T01:50:00Z",
+            "end_date": "2025-06-15T03:10:00Z",
+            "time_active_minutes": 80,
+            "keywords": [
+                "oumar sy",
+                "alonzo menifield"
+            ],
+            "news_token": "W1szODI3NjQ3NjI1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 83,
+            "query": "argentina vs colombia",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T23:40:00Z",
+            "end_date": "2025-06-11T04:20:00Z",
+            "time_active_minutes": 280,
+            "keywords": [
+                "argentina vs colombia"
+            ],
+            "news_token": "W1szNzkxMzgyNTMxLCJlcyIsIk5aIl0sWzM3ODMwNjU1ODcsImVzIiwiTloiXSxbMzgyOTY0NDIyNCwiZXMiLCJOWiJdXQ=="
+        },
+        {
+            "position": 84,
+            "query": "trooping the colour 2025",
+            "search_volume": 200,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "law_and_government",
+                "entertainment"
+            ],
+            "start_date": "2025-06-14T10:20:00Z",
+            "end_date": "2025-06-14T21:00:00Z",
+            "time_active_minutes": 640,
+            "keywords": [
+                "trooping the colour 2025"
+            ],
+            "news_token": "W1szODMzNzQ1ODg3LCJlbiIsIk5aIl0sWzM4MzIyNDY5MzgsImVuIiwiTloiXSxbMzgzNTcxMDYyNiwiZW4iLCJOWiJdLFszODMyMjQ2NzU3LCJlbiIsIk5aIl0sWzM4NDE4MDAyNjAsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 85,
+            "query": "mansur abdul-malik",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T02:30:00Z",
+            "end_date": "2025-06-15T03:40:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "mansur abdul-malik",
+                "cody brundage"
+            ],
+            "news_token": "W1szODI3NTYxMDg4LCJlbiIsIk5aIl0sWzM4Mzk4MjUwODQsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 86,
+            "query": "genevieve chenneour",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-12T01:30:00Z",
+            "end_date": "2025-06-12T05:30:00Z",
+            "time_active_minutes": 240,
+            "keywords": [
+                "genevieve chenneour"
+            ],
+            "news_token": "W1szODIxMTE4MDIwLCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 87,
+            "query": "kris moutinho",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T00:50:00Z",
+            "end_date": "2025-06-15T02:00:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "kris moutinho",
+                "malcolm wellmaker"
+            ],
+            "news_token": "W1szODA3NTU4ODQyLCJlbiIsIk5aIl0sWzM4NDI3MzkyODYsImVuIiwiTloiXSxbMzc4MjIxNDIyNywiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 88,
+            "query": "trump parade",
+            "search_volume": 200,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-14T21:10:00Z",
+            "end_date": "2025-06-15T02:10:00Z",
+            "time_active_minutes": 300,
+            "keywords": [
+                "trump parade",
+                "fox news"
+            ],
+            "news_token": "W1szNzg0MTU3NzkzLCJlbiIsIk5aIl0sWzM4NDU2MTU4NjIsImVuIiwiTloiXSxbMzcwMTQ5OTUwNCwiZW4iLCJOWiJdLFszNzg0MTU3NzkzLCJlbiIsIlVTIl0sWzM4MzU2OTEzNDMsImVuIiwiVVMiXSxbMzg0MjU0MTkxMiwiZW4iLCJVUyJdLFszODQyNDUzODI0LCJlbiIsIlVTIl0sWzM4MDg0Mzk2NTgsImVuIiwiVVMiXSxbMzgzMzE2OTM0NSwiZW4iLCJVUyJdLFszODMyNjA3MzQwLCJlbiIsIlVTIl0sWzM4MDYxNzU4OTcsImVuIiwiVVMiXSxbMzc2NjM0MTcxOSwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 89,
+            "query": "eric dane",
+            "search_volume": 200,
+            "percentage_increase": 400,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-13T08:00:00Z",
+            "end_date": "2025-06-13T15:50:00Z",
+            "time_active_minutes": 470,
+            "keywords": [
+                "eric dane"
+            ],
+            "news_token": "W1szODM1NTk2MDI1LCJlbiIsIk5aIl0sWzM2NTgyNzU1MjUsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 90,
+            "query": "rory mcilroy",
+            "search_volume": 500,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T18:10:00Z",
+            "end_date": "2025-06-13T21:00:00Z",
+            "time_active_minutes": 170,
+            "keywords": [
+                "rory mcilroy",
+                "pga"
+            ],
+            "news_token": "W1szODE2Mjc5NzgyLCJlbiIsIk5aIl0sWzM4NDAzOTI2NzUsImVuIiwiTloiXSxbMzgyMzU4ODM3MSwiZW4iLCJOWiJdLFszODQyNzgwNzgzLCJlbiIsIk5aIl0sWzM4MjIxODMwNjYsImVuIiwiTloiXSxbMzgzOTM1MDU3MSwiZW4iLCJOWiJdLFszODM1MjQxMTc4LCJlbiIsIk5aIl0sWzM4Mjg0MDkxNjMsImVuIiwiTloiXSxbMzg0MTI2MDQ4MywiZW4iLCJOWiJdLFszODM5OTQ1ODU2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 91,
+            "query": "online lottery",
+            "search_volume": 1000,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "games"
+            ],
+            "start_date": "2025-06-11T14:00:00Z",
+            "end_date": "2025-06-11T17:20:00Z",
+            "time_active_minutes": 200,
+            "keywords": [
+                "online lottery"
+            ],
+            "news_token": "W1szODE2Njc5Mzc3LCJlbiIsIlVTIl0sWzM4MjkxMTMzNTgsImVuIiwiVVMiXSxbMzgyNTM2NzQ0NywiZW4iLCJVUyJdLFszODI2NDcyOTc2LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 92,
+            "query": "sting",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-13T09:00:00Z",
+            "end_date": "2025-06-13T11:10:00Z",
+            "time_active_minutes": 130,
+            "keywords": [
+                "sting"
+            ],
+            "news_token": "W1szODI5NDk1MjA1LCJlbiIsIk5aIl0sWzM4MjE3NTYzODQsImVuIiwiTloiXSxbMzgzOTU3NDU2NCwiZW4iLCJOWiJdLFszODM5MTk5NjY0LCJlbiIsIk5aIl0sWzM4MzU2OTU4NTMsImVuIiwiTloiXSxbMzgzNTgwODgxMSwiZW4iLCJOWiJdLFszODI0MzU4ODE0LCJlbiIsIk5aIl0sWzM3Nzk2MTU1NDIsImVuIiwiTloiXSxbMzgwMTk4ODY2MSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 93,
+            "query": "ford recall",
+            "search_volume": 500,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "autos_and_vehicles"
+            ],
+            "start_date": "2025-06-11T06:30:00Z",
+            "end_date": "2025-06-11T20:40:00Z",
+            "time_active_minutes": 850,
+            "keywords": [
+                "ford recall"
+            ],
+            "news_token": "W1szODMwNjM5NDEwLCJlbiIsIk5aIl0sWzM4MzA2Mzk1MjAsImVuIiwiTloiXSxbMzgwNTY1NjcyMSwiZW4iLCJOWiJdLFszODI3ODQwNzA4LCJlbiIsIk5aIl0sWzM3NzgwNzQ3NDUsImVuIiwiTloiXSxbMzcyMjMzNjkwOCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 94,
+            "query": "cricinfo",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T16:50:00Z",
+            "end_date": "2025-06-12T20:00:00Z",
+            "time_active_minutes": 190,
+            "keywords": [
+                "cricinfo",
+                "icc"
+            ],
+            "news_token": "W1szNzg2MzI2MzcxLCJlbiIsIk5aIl0sWzM4MzY3NzI4MzcsImVuIiwiTloiXSxbMzgzNDQ5NTk1MCwiZW4iLCJOWiJdLFszODM0ODEwODI5LCJlbiIsIk5aIl0sWzM4MzExNDcwNDEsImVuIiwiTloiXSxbMzgzMDc1MjA3MiwiZW4iLCJOWiJdLFszODIwNjYxODQ3LCJlbiIsIk5aIl0sWzM4MDQ5MTY1NzIsImVuIiwiTloiXSxbMzgxNTEzMDQyNCwiZW4iLCJOWiJdLFszODA5Mzc3NzkwLCJlbiIsIk5aIl0sWzM4MTcxMjY1MzcsImVuIiwiTloiXSxbMzgzMTExNjQyNCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 95,
+            "query": "rodolfo bellato",
+            "search_volume": 200,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T01:30:00Z",
+            "end_date": "2025-06-15T02:40:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "rodolfo bellato",
+                "paul craig"
+            ],
+            "news_token": "W1szODMxODY1NjM5LCJlbiIsIk5aIl0sWzM4NDIzMzYxMTAsImVuIiwiTloiXSxbMzg0MDQ3MjgyNywiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 96,
+            "query": "brazil vs paraguay",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-11T00:30:00Z",
+            "end_date": "2025-06-11T04:40:00Z",
+            "time_active_minutes": 250,
+            "keywords": [
+                "brazil vs paraguay"
+            ],
+            "news_token": "W1szNzgwNTE3NDAwLCJlbiIsIk5aIl0sWzM4MzAwOTI3OTEsImVuIiwiTloiXSxbMzgzMDQ0ODY3NiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 97,
+            "query": "lotto winner",
+            "search_volume": 1000,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-11T10:30:00Z",
+            "end_date": "2025-06-11T22:20:00Z",
+            "time_active_minutes": 710,
+            "keywords": [
+                "lotto winner",
+                "lotto winner dies",
+                "lotto winner died",
+                "$22 million lotto winner dies"
+            ],
+            "news_token": "W1szODI0NTIxNjAyLCJlbiIsIk5aIl0sWzM4MTgwMTM0MTQsImVuIiwiTloiXSxbMzgwNTIxNTQ5NCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 98,
+            "query": "lyttelton landslide",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "climate"
+            ],
+            "start_date": "2025-06-12T19:20:00Z",
+            "end_date": "2025-06-12T21:50:00Z",
+            "time_active_minutes": 150,
+            "keywords": [
+                "lyttelton landslide"
+            ],
+            "news_token": "W1szODM0NTQxMzU4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 99,
+            "query": "gemini",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "technology"
+            ],
+            "start_date": "2025-06-10T10:00:00Z",
+            "end_date": "2025-06-10T15:10:00Z",
+            "time_active_minutes": 310,
+            "keywords": [
+                "gemini"
+            ],
+            "news_token": "W1szODE1OTYyNTc3LCJlbiIsIlVTIl0sWzM4MjkwMDU4NTIsImVuIiwiVVMiXSxbMzgwOTE4MTkzMiwiZW4iLCJVUyJdLFszODI1ODg3OTc5LCJlbiIsIlVTIl0sWzM4MDgwOTA4MjEsImVuIiwiVVMiXSxbMzgyNzU3NDUwNywiZW4iLCJVUyJdLFszODI3MjQ5NDg4LCJlbiIsIlVTIl0sWzM3OTc0MjM1OTAsImVuIiwiVVMiXSxbMzgyNjgzNzI5NywiZW4iLCJVUyJdLFszODIxNjMyOTMyLCJlbiIsIlVTIl0sWzM4MTEzNzI2MTAsImVuIiwiVVMiXSxbMzgyNjAzMDczNiwiZW4iLCJVUyJdLFszODI1ODM5NTk4LCJlbiIsIlVTIl0sWzM4MTA4MjMyMDUsImVuIiwiVVMiXSxbMzgyOTUyNjc5NSwiZW4iLCJVUyJdLFszODI1NzYzOTQzLCJlbiIsIlVTIl0sWzM4MjQxMzAzMDQsImVuIiwiVVMiXSxbMzgyNjk5NzI5NSwiZW4iLCJVUyJdLFszNzM3NjAxMTU0LCJlbiIsIlVTIl0sWzM4MTYwMDA5ODIsImVuIiwiVVMiXSxbMzc4MDU5NDg1MSwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 100,
+            "query": "pga tour",
+            "search_volume": 500,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T17:20:00Z",
+            "end_date": "2025-06-12T20:20:00Z",
+            "time_active_minutes": 180,
+            "keywords": [
+                "pga tour"
+            ],
+            "news_token": "W1szODIyMTgzMDY2LCJlbiIsIk5aIl0sWzM4MzYxMjUxODgsImVuIiwiTloiXSxbMzgzODAwNjY0NSwiZW4iLCJOWiJdLFszODMzMDcwNTI4LCJlbiIsIk5aIl0sWzM4MzI0MjU0MjAsImVuIiwiTloiXSxbMzgwNjQ0NzMwNiwiZW4iLCJOWiJdLFszODE1ODA5NTc1LCJlbiIsIk5aIl0sWzM4MjQ2MDQwNjIsImVuIiwiTloiXSxbMzgzNTMxNzU3MiwiZW4iLCJOWiJdLFszODMyNzY4MjQxLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 101,
+            "query": "ai",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-10T10:10:00Z",
+            "end_date": "2025-06-10T15:40:00Z",
+            "time_active_minutes": 330,
+            "keywords": [
+                "ai"
+            ],
+            "news_token": "W1szODI5MjYzNzI3LCJlbiIsIk5aIl0sWzM4MjAzNjI2MjAsImVuIiwiTloiXSxbMzgwMzQ2OTk0OSwiZW4iLCJOWiJdLFszODIyMDkwNTY0LCJlbiIsIk5aIl0sWzM4MjUzNDgyOTQsImVuIiwiTloiXSxbMzgwMTQ5MzYwMSwiZW4iLCJOWiJdLFszODAzMjc2MTM3LCJlbiIsIk5aIl0sWzM4MjY5Mjc1NjMsImVuIiwiTloiXSxbMzgxNDAxNDk1MCwiZW4iLCJOWiJdLFszODA4NTI1NTc5LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 102,
+            "query": "dr fauci",
+            "search_volume": 200,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "law_and_government",
+                "health"
+            ],
+            "start_date": "2025-06-14T04:30:00Z",
+            "end_date": "2025-06-14T19:50:00Z",
+            "time_active_minutes": 920,
+            "keywords": [
+                "dr fauci"
+            ],
+            "news_token": "W1szODQyMTkxMjI5LCJlbiIsIk5aIl0sWzM4MTU4NDYxNTYsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 103,
+            "query": "pga tour live",
+            "search_volume": 500,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T17:50:00Z",
+            "end_date": "2025-06-12T20:40:00Z",
+            "time_active_minutes": 170,
+            "keywords": [
+                "pga tour live"
+            ],
+            "news_token": "W1szODM1ODAzMTkyLCJlbiIsIk5aIl0sWzM3NDE4ODQwODgsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 104,
+            "query": "scottie scheffler",
+            "search_volume": 500,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T18:30:00Z",
+            "end_date": "2025-06-13T20:40:00Z",
+            "time_active_minutes": 130,
+            "keywords": [
+                "scottie scheffler",
+                "sky sport"
+            ],
+            "news_token": "W1szODIxODEwMTM5LCJlbiIsIk5aIl0sWzM4MzkzNTA1NzEsImVuIiwiTloiXSxbMzc0MTg4NDA4OCwiZW4iLCJOWiJdLFszODMxNTQwOTU3LCJlbiIsIk5aIl0sWzM4MzUzMTc1NzIsImVuIiwiTloiXSxbMzgzOTc5NDU4NCwiZW4iLCJOWiJdLFszODE2Mjc5NzgyLCJlbiIsIk5aIl0sWzM4Mjk2MzMwODksImVuIiwiTloiXSxbMzgzOTY0NzQ5NywiZW4iLCJOWiJdLFszNzY5OTMzODkxLCJlbiIsIk5aIl0sWzM3NjQyNzUyNDcsImVuIiwiTloiXSxbMzc4NDU3ODM2MCwiZW4iLCJOWiJdLFszODIwNjQ2MTUwLCJlbiIsIk5aIl0sWzM4MTg2MjY0MDIsImVuIiwiTloiXSxbMzgyNjczMzU3MCwiZW4iLCJOWiJdLFszODI5NzkxNDYwLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 105,
+            "query": "michael chiesa",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-15T01:40:00Z",
+            "end_date": "2025-06-15T02:20:00Z",
+            "time_active_minutes": 40,
+            "keywords": [
+                "michael chiesa"
+            ],
+            "news_token": "W1szODI3Nzg2MDgzLCJlbiIsIlVTIl0sWzM4NDIxODM3NTksImVuIiwiVVMiXSxbMzgzNjMzOTgyNiwiZW4iLCJVUyJdLFszODQ0NzM4MjE0LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 106,
+            "query": "friday the 13th",
+            "search_volume": 200,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-12T19:40:00Z",
+            "end_date": "2025-06-12T22:10:00Z",
+            "time_active_minutes": 150,
+            "keywords": [
+                "friday the 13th"
+            ],
+            "news_token": "W1szNzg2ODY2NTE1LCJlbiIsIk5aIl0sWzM4MDczMzk1OTEsImVuIiwiTloiXSxbMzgzODEzNzAyNSwiZW4iLCJOWiJdLFszODM2NTM1OTM4LCJlbiIsIk5aIl0sWzM4MzEyNjUwMDYsImVuIiwiTloiXSxbMzgyNjEyODQ5NSwiZW4iLCJOWiJdLFszODMxODI1MzczLCJlbiIsIk5aIl0sWzM4MzgzNTE4NDIsImVuIiwiTloiXSxbMzgyNDk3NzYzOCwiZW4iLCJOWiJdLFszODA2NjIxOTgzLCJlbiIsIk5aIl0sWzM4Mzc4NDM2MzIsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 107,
+            "query": "cnn",
+            "search_volume": 200,
+            "percentage_increase": 75,
+            "location": "NZ",
+            "categories": [
+                "politics"
+            ],
+            "start_date": "2025-06-14T17:10:00Z",
+            "end_date": "2025-06-14T20:20:00Z",
+            "time_active_minutes": 190,
+            "keywords": [
+                "cnn"
+            ],
+            "news_token": "W1szODQyOTIwNzAwLCJlbiIsIlVTIl0sWzM4MzMxNjkzNDUsImVuIiwiVVMiXSxbMzgzMjcwODU1NCwiZW4iLCJVUyJdLFszODI3ODEwMTg4LCJlbiIsIlVTIl0sWzM4MzU1OTYwMDYsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 108,
+            "query": "thriston lawrence",
+            "search_volume": 200,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T19:50:00Z",
+            "end_date": "2025-06-13T21:30:00Z",
+            "time_active_minutes": 100,
+            "keywords": [
+                "thriston lawrence"
+            ],
+            "news_token": "W1szODM2MTI1MTg4LCJlbiIsIk5aIl0sWzM4MzkyMDc3MDcsImVuIiwiTloiXSxbMzgzNTMxNzU3MiwiZW4iLCJOWiJdLFszODMzNzQ1OTUyLCJlbiIsIk5aIl0sWzM4Mjg5MTAzNDIsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 109,
+            "query": "dawn freshwater",
+            "search_volume": 500,
+            "percentage_increase": 900,
+            "location": "NZ",
+            "categories": [
+                "jobs_and_education"
+            ],
+            "start_date": "2025-06-11T01:10:00Z",
+            "end_date": "2025-06-11T05:40:00Z",
+            "time_active_minutes": 270,
+            "keywords": [
+                "dawn freshwater"
+            ],
+            "news_token": "W1szODI5NTc4MDg4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 110,
+            "query": "england vs west indies",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T18:10:00Z",
+            "end_date": "2025-06-10T20:10:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "england vs west indies"
+            ],
+            "news_token": "W1szODMwNzUyMDcyLCJlbiIsIk5aIl0sWzM3OTgyNDU4MTksImVuIiwiTloiXV0="
+        },
+        {
+            "position": 111,
+            "query": "auckland weather",
+            "search_volume": 1000,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-11T17:10:00Z",
+            "end_date": "2025-06-11T18:40:00Z",
+            "time_active_minutes": 90,
+            "keywords": [
+                "auckland weather",
+                "weather auckland",
+                "thunderstorm warning"
+            ],
+            "news_token": "W1szODI2ODQyMjU5LCJlbiIsIk5aIl0sWzM4MjIwNzU5MDksImVuIiwiTloiXSxbMzgyNTk3NjkyMCwiZW4iLCJOWiJdLFszODI5Mzk0MjU5LCJlbiIsIk5aIl0sWzM3OTExMjQzNjgsImVuIiwiTloiXSxbMzgxOTczMDY4MSwiZW4iLCJOWiJdLFszODI4NTg2Nzc4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 112,
+            "query": "nhl",
+            "search_volume": 1000,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-10T01:00:00Z",
+            "end_date": "2025-06-10T04:00:00Z",
+            "time_active_minutes": 180,
+            "keywords": [
+                "nhl"
+            ],
+            "news_token": "W1szODI4MTkyNzE5LCJlbiIsIk5aIl0sWzM4MTU4NzQyMjgsImVuIiwiTloiXSxbMzgxMDk3MzgzNSwiZW4iLCJOWiJdLFszODA2MTA0NjAwLCJlbiIsIk5aIl0sWzM4MTcwMjE5MzYsImVuIiwiTloiXSxbMzc4OTI3MDY4OCwiZW4iLCJOWiJdLFszODI1NTE2MjgxLCJlbiIsIk5aIl0sWzM3Nzk2NzYyMjQsImVuIiwiTloiXSxbMzgwOTAzNjAyNiwiZW4iLCJOWiJdLFszODI3OTUwNjE2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 113,
+            "query": "craftiness nyt",
+            "search_volume": 100,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "games"
+            ],
+            "start_date": "2025-06-15T19:30:00Z",
+            "end_date": "2025-06-15T20:10:00Z",
+            "time_active_minutes": 40,
+            "keywords": [
+                "craftiness nyt",
+                "dessert wine nyt"
+            ],
+            "news_token": "W1szODM2MzM0ODU1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 114,
+            "query": "police association",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-11T23:50:00Z",
+            "end_date": "2025-06-12T01:40:00Z",
+            "time_active_minutes": 110,
+            "keywords": [
+                "police association"
+            ],
+            "news_token": "W1szODMxODEzOTY4LCJlbiIsIlVTIl0sWzM4MzI4Njk3ODAsImVuIiwiVVMiXSxbMzgyMjAwMTM5NywiZW4iLCJVUyJdLFszODI0ODYzMzA1LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 115,
+            "query": "sports",
+            "search_volume": 500,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T08:50:00Z",
+            "end_date": "2025-06-13T10:00:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "sports"
+            ],
+            "news_token": "W1szODM2OTU2NDAyLCJlbiIsIk5aIl0sWzM4MzY1OTg2OTcsImVuIiwiTloiXSxbMzgzODAzNTUwMCwiZW4iLCJOWiJdLFszODMyNDE0MzIwLCJlbiIsIk5aIl0sWzM4MjM5MjkzMTYsImVuIiwiTloiXSxbMzgzNTQ5MDY2NSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 116,
+            "query": "pga tour live",
+            "search_volume": 200,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T16:00:00Z",
+            "end_date": "2025-06-13T19:40:00Z",
+            "time_active_minutes": 220,
+            "keywords": [
+                "pga tour live",
+                "bryson dechambeau"
+            ],
+            "news_token": "W1szODQwMzkyNjc1LCJlbiIsIk5aIl0sWzM3ODI2ODMwMzMsImVuIiwiTloiXSxbMzgzOTM1MDU3MSwiZW4iLCJOWiJdLFszODQyMDYxMjIyLCJlbiIsIk5aIl0sWzM4MTYyNzk3ODIsImVuIiwiTloiXSxbMzg0MjA2OTYxNCwiZW4iLCJOWiJdLFszODM3NTI1ODA0LCJlbiIsIk5aIl0sWzM4MzUzMzgxMTYsImVuIiwiTloiXSxbMzc0MTg4NDA4OCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 117,
+            "query": "bbc news",
+            "search_volume": 200,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-14T17:50:00Z",
+            "end_date": "2025-06-14T19:30:00Z",
+            "time_active_minutes": 100,
+            "keywords": [
+                "bbc news"
+            ],
+            "news_token": "W1szODQxODA4MTQ2LCJlbiIsIk5aIl0sWzM4MzMxNjkzNDUsImVuIiwiTloiXSxbMzgxOTM5OTE4MCwiZW4iLCJOWiJdLFszODMzOTI5Njg0LCJlbiIsIk5aIl0sWzM4MzIyNDY5MzgsImVuIiwiTloiXSxbMzg0MzI3MTI3OCwiZW4iLCJOWiJdLFszNzg2ODUxNjU5LCJlbiIsIk5aIl0sWzM4MjAzMDEzMDIsImVuIiwiTloiXSxbMzgwNDcyNjE1MCwiZW4iLCJOWiJdLFszODI1NzI0NDY3LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 118,
+            "query": "solomon islands",
+            "search_volume": 500,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government",
+                "politics"
+            ],
+            "start_date": "2025-06-10T07:50:00Z",
+            "end_date": "2025-06-10T09:50:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "solomon islands"
+            ],
+            "news_token": "W1szODIzODg2ODk4LCJlbiIsIk5aIl0sWzM4MjkzMjcyNTMsImVuIiwiTloiXSxbMzc5NjMzNTI0NCwiZW4iLCJOWiJdLFszNzk1MDE4ODcyLCJlbiIsIk5aIl0sWzM4MjcwMDM1MjMsImVuIiwiTloiXSxbMzczMDIyODc4MSwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 119,
+            "query": "obama daughters",
+            "search_volume": 200,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-10T07:00:00Z",
+            "end_date": "2025-06-10T19:50:00Z",
+            "time_active_minutes": 770,
+            "keywords": [
+                "obama daughters"
+            ],
+            "news_token": "W1szODI5MTQwNDIyLCJlbiIsIlVTIl0sWzM4MDI1OTY2MjAsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 120,
+            "query": "chiefs game",
+            "search_volume": 100,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T08:10:00Z",
+            "end_date": "2025-06-14T09:20:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "chiefs game"
+            ],
+            "news_token": "W1szODM0NTk4NzAzLCJlbiIsIk5aIl0sWzM4MzY0Mzc1MjMsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 121,
+            "query": "sabrina carpenter",
+            "search_volume": 200,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-12T17:20:00Z",
+            "end_date": "2025-06-12T20:30:00Z",
+            "time_active_minutes": 190,
+            "keywords": [
+                "sabrina carpenter"
+            ],
+            "news_token": "W1szODEzMTQ2MTk1LCJlbiIsIk5aIl0sWzM4Mzc0NjI5NjEsImVuIiwiTloiXSxbMzgzNTk5MjE4NywiZW4iLCJOWiJdLFszODM3MDE5NzI5LCJlbiIsIk5aIl0sWzM4MzUxOTIxMTUsImVuIiwiTloiXSxbMzgzNTAzMTI2NiwiZW4iLCJOWiJdLFszODM1NDI5NjM1LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 122,
+            "query": "westpac home loan rates changes",
+            "search_volume": 100,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-12T16:40:00Z",
+            "end_date": "2025-06-12T20:30:00Z",
+            "time_active_minutes": 230,
+            "keywords": [
+                "westpac home loan rates changes"
+            ],
+            "news_token": "W1szNzk5NjQ1MjA4LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 123,
+            "query": "watercare",
+            "search_volume": 200,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-11T05:30:00Z",
+            "end_date": "2025-06-11T07:40:00Z",
+            "time_active_minutes": 130,
+            "keywords": [
+                "watercare"
+            ],
+            "news_token": "W1szODMwNTk1OTc5LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 124,
+            "query": "bryson dechambeau",
+            "search_volume": 200,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T19:50:00Z",
+            "end_date": "2025-06-12T21:30:00Z",
+            "time_active_minutes": 100,
+            "keywords": [
+                "bryson dechambeau"
+            ],
+            "news_token": "W1szODMyNTc0Mjc5LCJlbiIsIk5aIl0sWzM3ODI2ODMwMzMsImVuIiwiTloiXSxbMzgzNTMzODExNiwiZW4iLCJOWiJdLFszODM1MzE3NTcyLCJlbiIsIk5aIl0sWzM4MTg4MDY3MDcsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 125,
+            "query": "cnn",
+            "search_volume": 200,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "politics"
+            ],
+            "start_date": "2025-06-13T19:00:00Z",
+            "end_date": "2025-06-13T20:30:00Z",
+            "time_active_minutes": 90,
+            "keywords": [
+                "cnn"
+            ],
+            "news_token": "W1szODMzNzIwNDUxLCJlbiIsIlVTIl0sWzM4MzMxNjkzNDUsImVuIiwiVVMiXSxbMzgzMjcwODU1NCwiZW4iLCJVUyJdLFszODIxODU1Mjc0LCJlbiIsIlVTIl0sWzM4MzU2OTEzNDMsImVuIiwiVVMiXSxbMzgzMzQyMzg0MywiZW4iLCJVUyJdLFszODA5NjE1NjY1LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 126,
+            "query": "sonny bill williams",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T06:50:00Z",
+            "end_date": "2025-06-13T08:00:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "sonny bill williams"
+            ],
+            "news_token": "W1szODM2NTI3MDEzLCJlbiIsIk5aIl0sWzM4MDgwMjI1NjgsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 127,
+            "query": "tvnz",
+            "search_volume": 1000,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "entertainment",
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-11T07:40:00Z",
+            "end_date": "2025-06-11T09:30:00Z",
+            "time_active_minutes": 110,
+            "keywords": [
+                "tvnz"
+            ],
+            "news_token": "W1szODI2MTMzNzE3LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 128,
+            "query": "online lottery",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "games"
+            ],
+            "start_date": "2025-06-10T13:30:00Z",
+            "end_date": "2025-06-10T17:30:00Z",
+            "time_active_minutes": 240,
+            "keywords": [
+                "online lottery"
+            ],
+            "news_token": "W1szODI5MTEzMzU4LCJlbiIsIlVTIl0sWzM4MTY2NzkzNzcsImVuIiwiVVMiXSxbMzgyNTM2NzQ0NywiZW4iLCJVUyJdLFszODI2NDcyOTc2LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 129,
+            "query": "michelle obama daughters",
+            "search_volume": 200,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "entertainment",
+                "politics"
+            ],
+            "start_date": "2025-06-10T10:00:00Z",
+            "end_date": "2025-06-10T22:00:00Z",
+            "time_active_minutes": 720,
+            "keywords": [
+                "michelle obama daughters"
+            ],
+            "news_token": "W1szODAyNTk2NjIwLCJlbiIsIlVTIl0sWzM4MjkxNDA0MjIsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 130,
+            "query": "pedro pascal",
+            "search_volume": 100,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-13T21:30:00Z",
+            "end_date": "2025-06-13T22:40:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "pedro pascal"
+            ],
+            "news_token": "W1szNzU1OTI5Mzk3LCJlbiIsIk5aIl0sWzM4MjgwMjI1MjcsImVuIiwiTloiXSxbMzgzNzgxNTgzMywiZW4iLCJOWiJdLFszODM1MDIxNTQ0LCJlbiIsIk5aIl0sWzM4MzE0MTk5MzYsImVuIiwiTloiXSxbMzc5NjY4NzY5NiwiZW4iLCJOWiJdLFszODIzNTA5NjQxLCJlbiIsIk5aIl0sWzM4Mzk0Nzg2NzgsImVuIiwiTloiXSxbMzgxNTc5OTcxNSwiZW4iLCJOWiJdLFszNzU2NzMwMTExLCJlbiIsIk5aIl0sWzM2NzkzMTY2MTQsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 131,
+            "query": "beauden barrett",
+            "search_volume": 100,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-13T08:50:00Z",
+            "end_date": "2025-06-13T09:50:00Z",
+            "time_active_minutes": 60,
+            "keywords": [
+                "beauden barrett"
+            ],
+            "news_token": "W1szODMyMTM5Nzg3LCJlbiIsIk5aIl0sWzM4MzMxNjk0MzAsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 132,
+            "query": "classroom",
+            "search_volume": 500,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-09T23:30:00Z",
+            "end_date": "2025-06-10T00:50:00Z",
+            "time_active_minutes": 80,
+            "keywords": [
+                "classroom"
+            ],
+            "news_token": "W1szODI4MTQ0NDc2LCJlbiIsIlVTIl0sWzM4MjcyMDEzOTcsImVuIiwiVVMiXSxbMzgyNzQxNjg1MywiZW4iLCJVUyJdLFszODI3ODg1NzgwLCJlbiIsIlVTIl0sWzM4MjQ3NjU2MjgsImVuIiwiVVMiXSxbMzgwMTI3MDk4NSwiZW4iLCJVUyJdLFszODIzODM4Mjg3LCJlbiIsIlVTIl0sWzM4MDg5ODc4MzgsImVuIiwiVVMiXSxbMzgyNjE1Mjk4NSwiZW4iLCJVUyJdLFszNzcyMDk0NDc1LCJlbiIsIlVTIl0sWzM4MjY4MTYwODksImVuIiwiVVMiXSxbMzgyNTUxNjI4NSwiZW4iLCJVUyJdLFszODI4MDU1MTIxLCJlbiIsIlVTIl0sWzM4MjgxMzc3ODUsImVuIiwiVVMiXSxbMzgxNTY4MzA3OSwiZW4iLCJVUyJdLFszODE3OTY2NTIwLCJlbiIsIlVTIl0sWzM3OTY5NjMzOTUsImVuIiwiVVMiXSxbMzczNzkwMTQ0MCwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 133,
+            "query": "oakmont country club",
+            "search_volume": 200,
+            "percentage_increase": 300,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T19:20:00Z",
+            "end_date": "2025-06-12T20:40:00Z",
+            "time_active_minutes": 80,
+            "keywords": [
+                "oakmont country club",
+                "weather today"
+            ],
+            "news_token": "W1szNzQxODg0MDg4LCJlbiIsIlVTIl0sWzM4MjM4MDc3MDMsImVuIiwiVVMiXSxbMzgzNTMxNzU3MiwiZW4iLCJVUyJdLFszODMzNTY5MDU1LCJlbiIsIlVTIl0sWzM4MjgzNzQzNTcsImVuIiwiVVMiXSxbMzgzMTA0NjcxNCwiZW4iLCJVUyJdLFszODI0ODY4NTM5LCJlbiIsIlVTIl0sWzM3ODQxNTc3OTMsImVuIiwiVVMiXSxbMzgxNjY5ODEwMiwiZW4iLCJVUyJdLFszNzk5ODYyNzM4LCJlbiIsIlVTIl0sWzM3ODE1MDcwMzEsImVuIiwiVVMiXSxbMzgyNzgxNzU3MCwiZW4iLCJVUyJdLFszODI3NDg4NjU5LCJlbiIsIlVTIl1d"
+        },
+        {
+            "position": 134,
+            "query": "okc vs pacers",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T02:40:00Z",
+            "end_date": "2025-06-12T03:50:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "okc vs pacers"
+            ],
+            "news_token": "W1szODMyNzQ0MzUyLCJlbiIsIk5aIl0sWzM4MTMzNjEwNDQsImVuIiwiTloiXSxbMzgxMjYwOTMxNiwiZW4iLCJOWiJdLFszODIyODQyNzE1LCJlbiIsIk5aIl0sWzM4MTI1MzYxOTcsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 135,
+            "query": "yanfei bao",
+            "search_volume": 100,
+            "percentage_increase": 800,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-13T06:20:00Z",
+            "end_date": "2025-06-13T07:30:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "yanfei bao"
+            ],
+            "news_token": "W1szODM1NTMwNDUzLCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 136,
+            "query": "jimmy carr",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-11T20:20:00Z",
+            "end_date": "2025-06-11T21:30:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "jimmy carr"
+            ],
+            "news_token": "W1szODMyNjY1MzQ0LCJlbiIsIk5aIl0sWzM3Mzc5MTg2NTIsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 137,
+            "query": "okc",
+            "search_volume": 200,
+            "percentage_increase": 600,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-12T03:10:00Z",
+            "end_date": "2025-06-12T04:10:00Z",
+            "time_active_minutes": 60,
+            "keywords": [
+                "okc"
+            ],
+            "news_token": "W1szODEyMjU1NjEyLCJlbiIsIk5aIl0sWzM4MjI4NDI3MTUsImVuIiwiTloiXSxbMzgxMzM2MTA0NCwiZW4iLCJOWiJdLFszODM0MTU2NzkwLCJlbiIsIk5aIl0sWzM3OTA2Nzk4OTIsImVuIiwiTloiXSxbMzgzMjc0NDM1MiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 138,
+            "query": "world cup qualifiers",
+            "search_volume": 200,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-09T19:00:00Z",
+            "end_date": "2025-06-09T21:00:00Z",
+            "time_active_minutes": 120,
+            "keywords": [
+                "world cup qualifiers",
+                "belgium vs wales"
+            ],
+            "news_token": "W1szODA5NDQ4OTM4LCJlbiIsIk5aIl0sWzM4MjU3Njg0OTEsImVuIiwiTloiXSxbMzgxMTYzNjUxMSwiZW4iLCJOWiJdLFszODE3OTgyNTE3LCJlbiIsIk5aIl0sWzM4MjQzNTg4NDYsImVuIiwiTloiXSxbMzgyNzMwMjA4MSwiZW4iLCJOWiJdLFszODI1NjE4MTM4LCJlbiIsIk5aIl0sWzM4MDgwNDc2MTgsImVuIiwiTloiXSxbMzgxNzkzNTQzNywiZW4iLCJOWiJdLFszNzgwNTE3NDAwLCJlbiIsIk5aIl0sWzM3NjA0MDIxOTMsImVuIiwiTloiXSxbMzgxMjMyNjQ2OCwiZW4iLCJOWiJdLFszODAxMjE1MzczLCJlbiIsIk5aIl0sWzM4MDQ5OTQ0MzQsImVuIiwiTloiXSxbMzgyNDQwNzI0MiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 139,
+            "query": "hero",
+            "search_volume": 500,
+            "percentage_increase": 75,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-09T20:50:00Z",
+            "end_date": "2025-06-09T22:00:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "hero"
+            ],
+            "news_token": "W1szODE1OTQ4MjgxLCJlbiIsIlVTIl0sWzM4MjQ4ODQ5NDAsImVuIiwiVVMiXSxbMzgxMzUzNjE4OSwiZW4iLCJVUyJdLFszODI0OTI3NzYwLCJlbiIsIlVTIl0sWzM4MjUxMzc0ODgsImVuIiwiVVMiXSxbMzgyNDMzNTcxMiwiZW4iLCJVUyJdLFszODIzNzYwMzczLCJlbiIsIlVTIl0sWzM4MjEwNjkwNzYsImVuIiwiVVMiXSxbMzgyNzY0NzU4NCwiZW4iLCJVUyJdLFszNzkxMzk1NzE0LCJlbiIsIlVTIl0sWzM4Mjc0MTczNDksImVuIiwiVVMiXSxbMzgyMjg0MjcxNSwiZW4iLCJVUyJdLFszODA2MTA0NjAwLCJlbiIsIlVTIl0sWzM3OTM1NDkzOTIsImVuIiwiVVMiXSxbMzgyMTU2MTE3NCwiZW4iLCJVUyJdLFszODEwNzMxMzMwLCJlbiIsIlVTIl0sWzM3NzgzNTU4NDksImVuIiwiVVMiXSxbMzc5NjUwNzY3MiwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 140,
+            "query": "all blacks",
+            "search_volume": 100,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "sports"
+            ],
+            "start_date": "2025-06-14T09:20:00Z",
+            "end_date": "2025-06-14T09:40:00Z",
+            "time_active_minutes": 20,
+            "keywords": [
+                "all blacks"
+            ],
+            "news_token": "W1szODM5MjE3MTU4LCJlbiIsIk5aIl0sWzM4MjEyMzMwMzUsImVuIiwiTloiXSxbMzg0MDQxMTQzNiwiZW4iLCJOWiJdLFszODQyOTgxNTE1LCJlbiIsIk5aIl0sWzM4MzIwMzIyMzksImVuIiwiTloiXSxbMzgzMzE2OTQzMCwiZW4iLCJOWiJdLFszODM2NTk4Njk3LCJlbiIsIk5aIl0sWzM4MzY2NTAyMjEsImVuIiwiTloiXSxbMzc4OTUzNTU3NCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 141,
+            "query": "austria",
+            "search_volume": 100,
+            "percentage_increase": 700,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-11T06:10:00Z",
+            "end_date": "2025-06-11T07:10:00Z",
+            "time_active_minutes": 60,
+            "keywords": [
+                "austria"
+            ],
+            "news_token": "W1szODI3MjAxMzk3LCJlbiIsIk5aIl0sWzM3OTMxMzg5ODUsImVuIiwiTloiXSxbMzc2MjY0NzUyNCwiZW4iLCJOWiJdLFszNzQzMjI3OTI2LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 142,
+            "query": "prince",
+            "search_volume": 200,
+            "percentage_increase": 1000,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-11T05:30:00Z",
+            "end_date": "2025-06-11T06:10:00Z",
+            "time_active_minutes": 40,
+            "keywords": [
+                "prince"
+            ],
+            "news_token": "W1szODI1MjI1NzM5LCJlbiIsIlVTIl0sWzM3ODE1NzA4ODcsImVuIiwiVVMiXSxbMzgwNDA5MjMwMiwiZW4iLCJVUyJdLFszODIwNzg5OTkzLCJlbiIsIlVTIl0sWzM4MjIzNzE3ODIsImVuIiwiVVMiXSxbMzgyMjkxMDA0MiwiZW4iLCJVUyJdLFszODMyMDg2MDg5LCJlbiIsIlVTIl0sWzM4MDAzOTMzMjMsImVuIiwiVVMiXSxbMzgzMTkwNTY2OCwiZW4iLCJVUyJdLFszODMyMzIxNDY4LCJlbiIsIlVTIl0sWzM4MDg0ODQ4MTIsImVuIiwiVVMiXSxbMzgyNzI0OTMzNSwiZW4iLCJVUyJdLFszODAxODEwNzA4LCJlbiIsIlVTIl0sWzM4MjQ4Njg0ODMsImVuIiwiVVMiXSxbMzgyOTkzMTc2MywiZW4iLCJVUyJdLFszODI1MDA1OTczLCJlbiIsIlVTIl0sWzM3OTUyMjAxMjQsImVuIiwiVVMiXSxbMzgxNTM5MjUxMSwiZW4iLCJVUyJdLFszODIyOTA0NjQ2LCJlbiIsIlVTIl0sWzM4MjA5MTQwODcsImVuIiwiVVMiXSxbMzc4MTI0Mzk5MCwiZW4iLCJVUyJdLFszNzY2MDk0MzAwLCJlbiIsIlVTIl0sWzM3NjYzMzQ1ODEsImVuIiwiVVMiXSxbMzc0MjkzNTI5OSwiZW4iLCJVUyJdXQ=="
+        },
+        {
+            "position": 143,
+            "query": "frederick forsyth",
+            "search_volume": 100,
+            "percentage_increase": 900,
+            "location": "NZ",
+            "categories": [
+                "other"
+            ],
+            "start_date": "2025-06-10T06:20:00Z",
+            "end_date": "2025-06-10T07:30:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "frederick forsyth"
+            ],
+            "news_token": "W1szODI1MDE3NDQ0LCJlbiIsIk5aIl1d"
+        },
+        {
+            "position": 144,
+            "query": "guardian",
+            "search_volume": 100,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "health"
+            ],
+            "start_date": "2025-06-13T19:30:00Z",
+            "end_date": "2025-06-13T20:20:00Z",
+            "time_active_minutes": 50,
+            "keywords": [
+                "guardian"
+            ],
+            "news_token": "W1szODI1OTQ5ODI2LCJlbiIsIk5aIl0sWzM3NzA5NjQwNjAsImVuIiwiTloiXSxbMzgxNDM0MzY4NSwiZW4iLCJOWiJdLFszODIwMjczNjMyLCJlbiIsIk5aIl0sWzM3OTI5MzE5OTksImVuIiwiTloiXV0="
+        },
+        {
+            "position": 145,
+            "query": "wordle today",
+            "search_volume": 1000,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "games"
+            ],
+            "start_date": "2025-06-09T18:20:00Z",
+            "end_date": "2025-06-09T19:30:00Z",
+            "time_active_minutes": 70,
+            "keywords": [
+                "wordle today",
+                "wordle"
+            ],
+            "news_token": "W1szODA2NzA5NDMyLCJlbiIsIk5aIl0sWzM3NTE3NTIxNDEsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 146,
+            "query": "earthquake",
+            "search_volume": 100,
+            "percentage_increase": 500,
+            "location": "NZ",
+            "categories": [
+                "business_and_finance"
+            ],
+            "start_date": "2025-06-09T13:30:00Z",
+            "end_date": "2025-06-09T17:10:00Z",
+            "time_active_minutes": 220,
+            "keywords": [
+                "earthquake"
+            ],
+            "news_token": "W1szODAyNzg1NjkzLCJlbiIsIk5aIl0sWzM4MjEzNDM3MTEsImVuIiwiTloiXSxbMzgyNjg5MDYzNiwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 147,
+            "query": "sky",
+            "search_volume": 100,
+            "percentage_increase": 200,
+            "location": "NZ",
+            "categories": [
+                "travel_and_transportation"
+            ],
+            "start_date": "2025-06-13T07:10:00Z",
+            "end_date": "2025-06-13T07:40:00Z",
+            "time_active_minutes": 30,
+            "keywords": [
+                "sky"
+            ],
+            "news_token": "W1szODM4Mjg3NzA0LCJlbiIsIk5aIl0sWzM4Mzk1NTM4ODksImVuIiwiTloiXSxbMzgzNTUzMDU5MiwiZW4iLCJOWiJdLFszODE1NTQxMTQ4LCJlbiIsIk5aIl0sWzM4MzMxNjkzNDUsImVuIiwiTloiXSxbMzgzNzIwNjUxOCwiZW4iLCJOWiJdXQ=="
+        },
+        {
+            "position": 148,
+            "query": "taranaki daily news",
+            "search_volume": 100,
+            "percentage_increase": 100,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-12T18:30:00Z",
+            "end_date": "2025-06-12T19:10:00Z",
+            "time_active_minutes": 40,
+            "keywords": [
+                "taranaki daily news"
+            ],
+            "news_token": "W1szODI5MDE2NjY2LCJlbiIsIk5aIl0sWzM4MjUwNzM3MTAsImVuIiwiTloiXV0="
+        },
+        {
+            "position": 149,
+            "query": "daily mail",
+            "search_volume": 100,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "law_and_government"
+            ],
+            "start_date": "2025-06-13T19:10:00Z",
+            "end_date": "2025-06-13T19:30:00Z",
+            "time_active_minutes": 20,
+            "keywords": [
+                "daily mail"
+            ],
+            "news_token": "W1szODM3NDg5ODQ4LCJlbiIsIlVTIl0sWzM4Mzg2MjU1MDYsImVuIiwiVVMiXV0="
+        },
+        {
+            "position": 150,
+            "query": "daily mail",
+            "search_volume": 100,
+            "percentage_increase": 50,
+            "location": "NZ",
+            "categories": [
+                "entertainment"
+            ],
+            "start_date": "2025-06-10T18:40:00Z",
+            "end_date": "2025-06-10T19:00:00Z",
+            "time_active_minutes": 20,
+            "keywords": [
+                "daily mail"
+            ],
+            "news_token": "W1szODE1MjU3MzQ4LCJlbiIsIlVTIl0sWzM4MjExMTgwMjAsImVuIiwiVVMiXSxbMzgwNDA5MjMwMiwiZW4iLCJVUyJdXQ=="
+        }
+    ]
+}
