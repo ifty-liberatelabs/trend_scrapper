@@ -1,0 +1,6 @@
+firecrawl-py
+openai
+python-dotenv
+requests
+streamlit
+youtube-transcript-api
