@@ -4,7 +4,7 @@ from datetime import datetime
 from apify_client import ApifyClient
 from dotenv import load_dotenv
 
-def get_tiktok_trends(api_key: str, region_code: str = "IN", limit: int = 10) -> list:
+def get_tiktok_trends(api_key: str, region_code: str = "NZ", limit: int = 5) -> list:
     """
     Connects to the Apify API to fetch raw trending TikTok video data.
 
