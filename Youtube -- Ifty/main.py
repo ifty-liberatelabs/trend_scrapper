@@ -1,21 +1,18 @@
+import os
 import requests
 from dotenv import load_dotenv
-import os
 import json
 import re
-from youtube_transcript_api import YouTubeTranscriptApi
-import concurrent.futures
-import time
 import asyncio
 from openai import AsyncOpenAI
+import google.generativeai as genai
+from google.api_core import exceptions as google_exceptions
 
-# --- Load Environment Variables ---
 load_dotenv()
 searchapi_key = os.getenv("SearchAPI_KEY")
 openai_api_key = os.getenv("OPENAI_API_KEY")
-
-
-# --- Helper Functions ---
+gemini_api_key = os.getenv("GEMINI_API_KEY")
+os.environ['GRPC_VERBOSITY'] = 'ERROR'
 
 def extract_video_id(url):
     patterns = [
@@ -29,36 +26,53 @@ def extract_video_id(url):
             return match.group(1)
     raise ValueError(f"Invalid or unsupported YouTube URL format: {url}")
 
-def fetch_transcript_for_video(video_data, languages=['en'], max_retries=3):
-    # This is a SYNCHRONOUS function, as the library is not async.
-    # It will be called within an executor to avoid blocking the async event loop.
-    url = video_data['link']
-    title = video_data['title']
-    print(f"📄 Fetching transcript for: \"{title}\"")
-    last_exception = None
-    for attempt in range(max_retries + 1):
+async def fetch_transcript_with_gemini(video_data: dict, semaphore: asyncio.Semaphore, model) -> dict:
+    async with semaphore:
+        url = video_data['link']
+        title = video_data['title']
+        print(f"📄 Retriving context with Gemini for: \"{title}\"")
+        
+        max_retries = 3
+        base_delay = 5
+
+        for attempt in range(max_retries):
+            try:
+                response = await model.generate_content_async(
+                    ["Provide a full and accurate transcript of the audio in this video.", url],
+                    request_options={"timeout": 600}
+                )
+                transcript_text = response.text.replace('\n', ' ')
+                video_id = extract_video_id(url)
+                return {"title": title, "video_url": url, "video_id": video_id, "status": "Success", "transcript": transcript_text}
+            except google_exceptions.ResourceExhausted:
+                if attempt < max_retries - 1:
+                    wait_time = base_delay * (2 ** attempt)
+                    print(f"Rate limit hit for \"{title}\". Retrying in {wait_time}s... (Attempt {attempt + 2}/{max_retries})")
+                    await asyncio.sleep(wait_time)
+                else:
+                    continue
+            except Exception as e:
+                print(f"❌ An unexpected error occurred for \"{title}\": {e}")
+                try:
+                    video_id = extract_video_id(url)
+                except ValueError:
+                    video_id = "unknown"
+                return {"title": title, "video_url": url, "video_id": video_id, "status": "Failed", "error": str(e)}
+
+        print(f"❌ All retry attempts failed for \"{title}\" due to persistent rate limiting.")
         try:
             video_id = extract_video_id(url)
-            transcript_list = YouTubeTranscriptApi.get_transcript(video_id, languages=languages)
-            transcript_text = " ".join(entry['text'] for entry in transcript_list).replace('\n', ' ')
-            return {"title": title, "video_url": url, "video_id": video_id, "status": "Success", "transcript": transcript_text}
-        except Exception as e:
-            last_exception = e
-            if attempt < max_retries:
-                time.sleep(2)
-    return {"title": title, "video_url": url, "video_id": "unknown", "status": "Failed", "error": f"All attempts failed. Last error: {last_exception}"}
+        except ValueError:
+            video_id = "unknown"
+        return {"title": title, "video_url": url, "video_id": video_id, "status": "Failed", "error": "All retry attempts failed due to rate limiting."}
+
 
 async def analyze_transcript_with_openai(client: AsyncOpenAI, semaphore: asyncio.Semaphore, transcript_data: dict) -> dict:
-    """
-    Analyzes video data. If a transcript is available, it analyzes the transcript.
-    If not, it analyzes the title.
-    """
     async with semaphore:
         trend_title = transcript_data['title']
 
-        # Check if the transcript is available and create the appropriate prompt
         if transcript_data.get("status") == "Success" and transcript_data.get("transcript"):
-            print(f"🧠 Analyzing TRANSCRIPT for: \"{trend_title}\"")
+            print(f"🧠 Analyzing context for: \"{trend_title}\"")
             prompt = (
                 f"Please analyze the following transcript for the video titled '{trend_title}'. "
                 "Provide a one-sentence, instantly understandable context summary. "
@@ -103,14 +117,15 @@ async def analyze_transcript_with_openai(client: AsyncOpenAI, semaphore: asyncio
 
 
 async def main():
-    """
-    Main asynchronous function to run the entire pipeline.
-    """
-    if not all([searchapi_key, openai_api_key]):
-        print("Error: Required API keys (SearchAPI_KEY, OPENAI_API_KEY) not found in .env file.")
+    VIDEOS_TO_PROCESS_LIMIT = 10 # Set to None to process all available videos, or an integer to limit the number of videos processed.
+
+    if not all([searchapi_key, openai_api_key, gemini_api_key]):
+        print("Error: Required API keys (SearchAPI_KEY, OPENAI_API_KEY, GEMINI_API_KEY) not found in .env file.")
         return
 
-    # --- Step 1: Fetch Trending Videos (Synchronous) ---
+    genai.configure(api_key=gemini_api_key)
+    gemini_model = genai.GenerativeModel('gemini-1.5-flash')
+
     api_url = "https://www.searchapi.io/api/v1/search"
     params = {"engine": "youtube_trends", "gl": "NZ", "hl": "en", "api_key": searchapi_key}
     print("Fetching YouTube trends from SearchAPI.io...")
@@ -122,30 +137,39 @@ async def main():
         print(f"An error occurred during the API request: {e}")
         return
 
-    # --- Step 2: Concurrently Fetch Transcripts ---
     if 'trending' in data and data['trending']:
         videos_to_process = [{'link': v.get('link'), 'title': v.get('title')} for v in data['trending'] if v.get('link') and v.get('title')]
+        
+        if VIDEOS_TO_PROCESS_LIMIT is not None and VIDEOS_TO_PROCESS_LIMIT > 0:
+            print(f"Limiting to the top {VIDEOS_TO_PROCESS_LIMIT} trending videos.")
+            videos_to_process = videos_to_process[:VIDEOS_TO_PROCESS_LIMIT]
+        else:
+            print(f"Processing all {len(videos_to_process)} available trending videos.")
+
         if not videos_to_process:
             print("No videos with both a link and title were found.")
             return
 
-        transcript_results = []
-        loop = asyncio.get_running_loop()
-        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
-            tasks = [loop.run_in_executor(executor, fetch_transcript_for_video, video) for video in videos_to_process]
-            transcript_results = await asyncio.gather(*tasks)
+        transcript_semaphore = asyncio.Semaphore(10)
+        transcript_tasks = [
+            fetch_transcript_with_gemini(video, transcript_semaphore, gemini_model)
+            for video in videos_to_process
+        ]
+        transcript_results = await asyncio.gather(*transcript_tasks)
 
-        # --- Step 3: Concurrently Analyze with OpenAI ---
         print(f"\n✅ Transcripts fetched. Now analyzing {len(transcript_results)} items with OpenAI...")
         client = AsyncOpenAI(api_key=openai_api_key)
         analysis_semaphore = asyncio.Semaphore(10)
         analysis_tasks = [analyze_transcript_with_openai(client, analysis_semaphore, result) for result in transcript_results]
         llm_analyses = await asyncio.gather(*analysis_tasks)
 
-        # --- Step 4: Combine All Data and Save Final Report ---
         final_report_data = []
         for i, original_result in enumerate(transcript_results):
             combined_item = original_result.copy()
+            if "transcript" in combined_item:
+                del combined_item["transcript"]
+            if "status" in combined_item:
+                del combined_item["status"]
             combined_item["llm_analysis"] = llm_analyses[i]
             final_report_data.append(combined_item)
 

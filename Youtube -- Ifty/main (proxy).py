@@ -1,19 +1,18 @@
-import streamlit as st
+import requests
+from dotenv import load_dotenv
 import os
 import json
-import requests
 import re
+from youtube_transcript_api import YouTubeTranscriptApi
 import concurrent.futures
 import time
 import asyncio
-from dotenv import load_dotenv
-from youtube_transcript_api import YouTubeTranscriptApi
 from openai import AsyncOpenAI
 
-# ==============================================================================
-# INTACT CODE - EXACTLY AS PROVIDED BY YOU
-# All the functions below are from your new 'main.py' script.
-# ==============================================================================
+load_dotenv()
+searchapi_key = os.getenv("SearchAPI_KEY")
+openai_api_key = os.getenv("OPENAI_API_KEY")
+
 
 def extract_video_id(url):
     patterns = [
@@ -28,8 +27,7 @@ def extract_video_id(url):
     raise ValueError(f"Invalid or unsupported YouTube URL format: {url}")
 
 def fetch_transcript_for_video(video_data, languages=['en'], max_retries=3):
-    # This is a SYNCHRONOUS function, as the library is not async.
-    # It will be called within an executor to avoid blocking the async event loop.
+
     url = video_data['link']
     title = video_data['title']
     print(f"📄 Fetching transcript for: \"{title}\"")
@@ -47,10 +45,7 @@ def fetch_transcript_for_video(video_data, languages=['en'], max_retries=3):
     return {"title": title, "video_url": url, "video_id": "unknown", "status": "Failed", "error": f"All attempts failed. Last error: {last_exception}"}
 
 async def analyze_transcript_with_openai(client: AsyncOpenAI, semaphore: asyncio.Semaphore, transcript_data: dict) -> dict:
-    """
-    Analyzes video data. If a transcript is available, it analyzes the transcript.
-    If not, it analyzes the title.
-    """
+
     async with semaphore:
         trend_title = transcript_data['title']
 
@@ -99,28 +94,18 @@ async def analyze_transcript_with_openai(client: AsyncOpenAI, semaphore: asyncio
             print(f"❌ Error analyzing \"{trend_title}\" with OpenAI: {e}")
             return {"context": "Error during analysis.", "summary": ["Could not generate summary points."], "category": "Error"}
 
-# ==============================================================================
-# STREAMLIT WRAPPER
-# ==============================================================================
 
-async def run_youtube_analysis_pipeline(gl: str, hl: str):
+async def main():
     """
-    This function adapts your main logic to be called by Streamlit.
+    Main asynchronous function to run the entire pipeline.
     """
-    report_filename = "final_analysis_report.json"
-
-    # --- Load Environment Variables ---
-    load_dotenv()
-    searchapi_key = os.getenv("SearchAPI_KEY")
-    openai_api_key = os.getenv("OPENAI_API_KEY")
-
     if not all([searchapi_key, openai_api_key]):
-        st.error("Error: Required API keys (SearchAPI_KEY, OPENAI_API_KEY) not found in .env file.")
-        return None
+        print("Error: Required API keys (SearchAPI_KEY, OPENAI_API_KEY) not found in .env file.")
+        return
 
     # --- Step 1: Fetch Trending Videos (Synchronous) ---
     api_url = "https://www.searchapi.io/api/v1/search"
-    params = {"engine": "youtube_trends", "gl": gl, "hl": hl, "api_key": searchapi_key}
+    params = {"engine": "youtube_trends", "gl": "NZ", "hl": "en", "api_key": searchapi_key}
     print("Fetching YouTube trends from SearchAPI.io...")
     try:
         response = requests.get(api_url, params=params)
@@ -128,15 +113,14 @@ async def run_youtube_analysis_pipeline(gl: str, hl: str):
         data = response.json()
     except requests.exceptions.RequestException as e:
         print(f"An error occurred during the API request: {e}")
-        st.error(f"An error occurred during the API request: {e}")
-        return None
+        return
 
     # --- Step 2: Concurrently Fetch Transcripts ---
     if 'trending' in data and data['trending']:
         videos_to_process = [{'link': v.get('link'), 'title': v.get('title')} for v in data['trending'] if v.get('link') and v.get('title')]
         if not videos_to_process:
-            st.warning("No videos with both a link and title were found in the API response.")
-            return None
+            print("No videos with both a link and title were found.")
+            return
 
         transcript_results = []
         loop = asyncio.get_running_loop()
@@ -155,91 +139,15 @@ async def run_youtube_analysis_pipeline(gl: str, hl: str):
         final_report_data = []
         for i, original_result in enumerate(transcript_results):
             combined_item = original_result.copy()
-            # The 'transcript' can be very long, so we don't need to save it again if we don't want to
-            # but for displaying it in the UI, it's useful to keep it.
             combined_item["llm_analysis"] = llm_analyses[i]
             final_report_data.append(combined_item)
 
-        print(f"\nSaving final analysis report to {report_filename}...")
-        with open(report_filename, "w", encoding='utf-8') as f:
-            # The final JSON has a root key "final_report" as per the original script
+        print("\nSaving final analysis report...")
+        with open("final_analysis_report.json", "w", encoding='utf-8') as f:
             json.dump({"final_report": final_report_data}, f, indent=4, ensure_ascii=False)
-        print(f"✅ All done! Report saved to {report_filename}")
-        return report_filename
+        print("✅ All done! Report saved to final_analysis_report.json")
     else:
-        st.warning("Warning: 'trending' key not found in the API response.")
-        return None
+        print("Warning: 'trending' key not found in the API response.")
 
-# ==============================================================================
-# STREAMLIT UI
-# ==============================================================================
-
-st.set_page_config(layout="wide", page_title="YouTube Trend Analyzer")
-st.title("🎬 YouTube Trend Analyzer")
-
-st.info(
-    "This application fetches trending YouTube videos, downloads their transcripts, and uses AI to create a summary.\n\n"
-    "**Note**: Detailed progress is printed to the terminal."
-)
-
-with st.sidebar:
-    st.header("⚙️ Configuration")
-    gl_param = st.text_input("Country Code (gl)", value="NZ", help="Country code for YouTube trends, e.g., US, UK, NZ, BD")
-    hl_param = st.text_input("Language Code (hl)", value="en", help="Language for the YouTube trends, e.g., en, es, fr")
-
-    start_button = st.button("Analyze YouTube Trends", type="primary", use_container_width=True)
-
-if start_button:
-    with st.spinner("Analyzing YouTube trends... Please check your terminal for detailed logs."):
-        report_file_path = asyncio.run(run_youtube_analysis_pipeline(gl=gl_param, hl=hl_param))
-
-    if report_file_path and os.path.exists(report_file_path):
-        st.success(f"🎉 Analysis complete! Report saved to `{report_file_path}`.")
-        with open(report_file_path, 'r', encoding='utf-8') as f:
-            report_data = json.load(f)
-        st.session_state['report_data'] = report_data
-        st.session_state['report_file_path'] = report_file_path
-    else:
-        st.error("Analysis did not complete successfully.")
-
-if 'report_data' in st.session_state:
-    st.divider()
-    st.header("📊 Analysis Report")
-
-    st.download_button(
-        label=f"📥 Download Report ({st.session_state['report_file_path']})",
-        data=json.dumps(st.session_state['report_data'], indent=4),
-        file_name=st.session_state['report_file_path'],
-        mime="application/json"
-    )
-
-    # The data is nested under the 'final_report' key
-    for item in st.session_state['report_data'].get("final_report", []):
-        analysis = item.get("llm_analysis", {})
-        
-        with st.container(border=True):
-            st.subheader(f"Video Title: {item.get('title', 'No title available')}")
-            st.markdown(f"**AI Summary:** {analysis.get('context', 'No AI context available.')}")
-            
-            # Display transcript status and category
-            status_color = "green" if item.get('status') == 'Success' else "orange"
-            st.caption(f"Transcript Status: :{status_color}[{item.get('status')}] | Category: {analysis.get('category', 'N/A')}")
-            
-            st.divider()
-
-            st.markdown("**Key Highlights:**")
-            summary_points = analysis.get("summary", [])
-            if summary_points:
-                for point in summary_points:
-                    st.markdown(f"- {point}")
-            else:
-                st.markdown("- No summary points were generated.")
-
-            with st.expander("View Full Transcript"):
-                if item.get("status") == "Success":
-                    st.markdown(item.get("transcript", "Transcript not available."))
-                else:
-                    st.warning(f"Transcript could not be fetched. Error: {item.get('error', 'Unknown error')}")
-
-            with st.expander("View Video URL"):
-                st.markdown(item.get("video_url", "No URL available."))
+if __name__ == "__main__":
+    asyncio.run(main())
